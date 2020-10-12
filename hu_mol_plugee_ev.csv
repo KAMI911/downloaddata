@@ -36,3 +36,16 @@ Teljesítmény (Type 2);Darab (Type 2);Teljesítmény (CCS);Darab (CCS);Teljesí
 22 kW;1;50 kW;1;50 kW;1;2;1125;Budapest ;Istenhegyi út 55.;;;47.5035;19.003745;Siemens;Triberium FC50;;;;;;;;;;;;;
 22 kW;1;50 kW;1;50 kW;1;2;1134;Budapest ;Váci út 19.;;;47.521655;19.062389;Siemens;Triberium FC50;;;;;;;;;;;;;
 22 kW;1;50 kW;1;50 kW;1;2;1146;Budapest ;Vágány utca 21.;;;47.52264;19.081255;ABB;Terra 54 CJG;;;;;;;;;;;;;
+22 kW;2;;;;;2;2660;Balassagyarmat;Óváros tér;;;48.079358;19.291131;DSR;SC-701;;;;;;;;;;;;;
+22 kW;2;;;;;2;2500;Esztergom;Aradi vértanúk tere 1.;;;47.794838;18.741079;DSR;SC-701;;;;;;;;;;;;;
+22 kW;2;;;;;2;2500;Esztergom;Márta Panzió;;;47.802021;18.751788;DSR;SC-701;;;;;;;;;;;;;
+43 kW;1;50 kW;1;50 kW;1;2;8868;Letenye;Bajcsy-Zsilinszky u. 38.;;;46.436171;16.736784;Efacec;QC45;;;;;;;;;;;;;
+43 kW;1;50 kW;1;50 kW;1;2;8638;Balatonlelle;M7 II. kimenő;;;46.777144;17.720493;Efacec;QC45;;;;;;;;;;;;;
+43 kW;1;50 kW;1;50 kW;1;2;8638;Balatonlelle;M7 II. bejövő;;;46.775498;17.720802436171;Efacec;QC45;;;;;;;;;;;;;
+43 kW;1;50 kW;1;50 kW;1;2;8621;Zamárdi;Endrédi u. 36.;;;46.881304;17.953051;Efacec;QC45;;;;;;;;;;;;;
+43 kW;1;50 kW;1;50 kW;1;2;4025;Debrecen;Nyugati u. 6. ;;;47.528282;21.613813;Efacec;QC45;;;;;;;;;;;;;
+22 kW;2;;;;;2;4600;Kisvárda;Szent László u. 7. ;;;48.225695;22.078436;DSR;SC-701;;;;;;;;;;;;;
+22 kW;2;;;;;2;4600;Kisvárda;Városmajor u.;;;48.230465;22.068651;DSR;SC-701;;;;;;;;;;;;;
+;;150 kW;1;150 kW;1;2;9201;Mosonmagyaróvár ;M1 - M15. autópálya I.;;;47.87128;17.217563;Efacec;HV175;;;;;;;;;;;;;
+43 kW;1;50 kW;1;50 kW;1;2;9201;Mosonmagyaróvár ;M1 - M15. autópálya I.;;;47.87128;17.217563;Efacec;QC45;;;;;;;;;;;;;
+43 kW;1;50 kW;1;50 kW;1;2;9201;Mosonmagyaróvár ;M1 - M15. autópálya II.;;;47.871474;17.214242;Efacec;QC45;;;;;;;;;;;;;
