@@ -1,338 +1,338 @@
-;;Csatlakozók / töltési módok;;;;;;;;Töltőpont címe;;;;
-Töltőpont neve;Töltő típusa;Teljesítmény (Type 2);Darab (Type 2);Teljesítmény (CCS);Darab (CCS);Teljesítmény (CHAdeMO);Darab (CHAdeMO);Kapacitás;Szolgáltatás díja (bruttó);Irányító szám;Település;Cím;Mobiliti azonosító;GPS koordináták
-Budapest - Málna utca        ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1011;Budapest;Málna utca        ;13001;47.506967,19.035222
-Budapest - Szilágyi Dezső tér       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1011;Budapest;Szilágyi Dezső tér       ;13002;47.503416,19.039387
-Budapest - Hadnagy utca 8.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1013;Budapest;Hadnagy utca 8.       ;13003;47.490838,19.04385
-Budapest - Naphegy utca 65.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1016;Budapest;Naphegy utca 65.       ;13004;47.492262,19.03688
-Budapest - Gellérthegy utca 36.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1016;Budapest;Gellérthegy utca 36.       ;13005;47.494525,19.035092
-Budapest - Krisztina körút 99.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1016;Budapest;Krisztina körút 99.       ;13006;47.495127,19.03518
-Budapest - Ürömi utca 66.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1023;Budapest;Ürömi utca 66.       ;13007;47.527974,19.03273
-Budapest - Frankel Leó utca 53.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1023;Budapest;Frankel Leó utca 53.      ;13008;47.522105,19.037185
-Budapest - Frankel Leó utca 27. (Lukács Gyógyfürdő)    ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1023;Budapest;Frankel Leó utca 27. (Lukács Gyógyfürdő)    ;13009;47.517813,19.037059
-Budapest - Árpád fejedelem útja 12.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1023;Budapest;Árpád fejedelem útja 12.      ;13010;47.520968,19.03792
-Budapest - Csatárka utca 49.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1025;Budapest;Csatárka utca 49.       ;13011;47.530115,19.00905
-Budapest - Gábor Áron utca 74-76.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1026;Budapest;Gábor Áron utca 74-76.      ;13012;47.522225,19.0148
-Budapest - Szabadság-Közsgégház utca torkolat       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1028;Budapest;Szabadság-Közsgégház utca torkolat       ;13013;47.561105,18.960253
-Budapest - Rezeda utca (Bánffy György emlékpark)     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1028;Budapest;Rezeda utca (Bánffy György emlékpark)     ;13014;47.54418,18.964084
-Budapest - Rozgonyi Piroska utca 26.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1031;Budapest;Rozgonyi Piroska utca 26.      ;13015;47.574025,19.061943
-Budapest - Torma Károly utca (Bécsi tér)     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1031;Budapest;Torma Károly utca (Bécsi tér)     ;13016;47.571788,19.0498
-Budapest - Záhony utca 4.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1031;Budapest;Záhony utca 4.       ;13017;47.561543,19.04987
-Budapest - Kanóc utca (Vitorla utca)      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1031;Budapest;Kanóc utca (Vitorla utca)      ;13018;47.569089,19.050923
-Budapest - Ágoston utca 4.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1032;Budapest;Ágoston utca 4.       ;13019;47.545943,19.031887
-Budapest - Törzs utca 2.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1032;Budapest;Törzs utca 2.       ;13020;47.542995,19.036523
-Budapest - Szérűskert utca 39.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1033;Budapest;Szérűskert utca 39.       ;13021;47.557687,19.043488
-Budapest - Kerék utca 36.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1035;Budapest;Kerék utca 36.       ;13022;47.5489,19.042514
-Budapest - Goldberger Leó utca (Tél utca)     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1036;Budapest;Goldberger Leó utca (Tél utca)     ;13023;47.536908,19.045598
-Budapest - Lajos utca 109.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1036;Budapest;Lajos utca 109.       ;13024;47.533962,19.042843
-Budapest - Kiskorona utca        ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1036;Budapest;Kiskorona utca        ;13025;47.538582,19.042752
-Budapest - Kubik utca (Opel Maxabo mellett)     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1037;Budapest;Kubik utca (Opel Maxabo mellett)     ;13026;47.561382,19.023588
-Budapest - Bálint György utca 2.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1039;Budapest;Bálint György utca 2.      ;13027;47.599988,19.063528
-Budapest - Zsirai Miklós  utca 15.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1039;Budapest;Zsirai Miklós  utca 15.       ;13028;47.600538,19.047476
-Budapest - Pünkösdfürdő utca 3.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1039;Budapest;Pünkösdfürdő utca 3.       ;13029;47.594458,19.067858
-Budapest - Nyár utca 24.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1041;Budapest;Nyár utca 24.       ;13030;47.558528,19.10323
-Budapest - Petőfi utca 35.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1042;Budapest;Petőfi utca 35.       ;13031;47.560224,19.095961
-Budapest - Király utca 9.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1044;Budapest;Király utca 9.       ;13032;47.562243,19.092474
-Budapest - Óradna utca 2/a       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1044;Budapest;Óradna utca 2/a       ;13033;47.594355,19.106087
-Budapest - Megyeri út 4.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1044;Budapest;Megyeri út 4.       ;13034;47.575013,19.083102
-Budapest - Budapest Károly körút 20.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1052;Budapest;Budapest Károly körút 20.      ;13035;47.49596,19.05811
-Budapest - Kodály körönd 1.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1062;Budapest;Kodály körönd 1.       ;13036;47.509772,19.070722
-Budapest - Andrássy út 121.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1062;Budapest;Andrássy út 121.       ;13037;47.513317,19.075675
-Budapest - Városligeti Fasor 18.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1068;Budapest;Városligeti Fasor 18.       ;13038;47.50915,19.075588
-Budapest - Damjanich utca 20.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1071;Budapest;Damjanich utca 20.       ;13039;47.506794,19.076375
-Budapest - Jósika utca (Rózsa utca 36.)     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1077;Budapest;Jósika utca (Rózsa utca 36.)     ;13040;47.505325,19.071748
-Budapest - Marek József utca 40.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1078;Budapest;Marek József utca 40.      ;13041;47.507109,19.084258
-Budapest - Baross utca (Rigó utca)      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1085;Budapest;Baross utca (Rigó utca)      ;13042;47.489655,19.073084
-Budapest - Ecseri út 2.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1095;Budapest;Ecseri út 2.       ;13043;47.470545,19.109428
-Budapest - Füzér utca        ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1102;Budapest;Füzér utca        ;13044;47.484154,19.130655
-Budapest - Maláta utca 6.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1102;Budapest;Maláta utca 6.       ;13045;47.491015,19.13981
-Budapest - Gergely utca (Martinovics tér)      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1103;Budapest;Gergely utca (Martinovics tér)      ;13046;47.480674,19.133786
-Budapest - Szárnyas utca 14.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1107;Budapest;Szárnyas utca 14.       ;13047;47.468386,19.120173
-Budapest - Oltó utca 2.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1108;Budapest;Oltó utca 2.       ;13048;47.470128,19.158197
-Budapest - Gazdagréti út        ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1112;Budapest;Gazdagréti út        ;13049;47.469652,18.995487
-Budapest - Ajnácskő utca 14-18.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1113;Budapest;Ajnácskő utca 14-18.       ;13050;47.473353,19.026448
-Budapest - Bártfai utca 36.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1115;Budapest;Bártfai utca 36.       ;13051;47.467811,19.035079
-Budapest - Fehérvári út 50.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1117;Budapest;Fehérvári út 50.       ;13052;47.46948,19.044902
-Budapest - Bogdánfy utca 3.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1117;Budapest;Bogdánfy utca 3.       ;13053;47.472763,19.056262
-Budapest - Irinyi József utca 47.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1117;Budapest;Irinyi József utca 47.      ;13054;47.474263,19.053133
-Budapest - Somlói út        ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1118;Budapest;Somlói út        ;13055;47.486347,19.03241
-Budapest - Rétköz utca 27.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1118;Budapest;Rétköz utca 27.       ;13056;47.469022,19.002438
-Budapest - Rege út 21.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1121;Budapest;Rege út 21.       ;13057;47.495037,18.978838
-Budapest - Mártonhegyi út        ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1121;Budapest;Mártonhegyi út        ;13058;47.49113,18.999146
-Budapest - Maros utca 30.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1122;Budapest;Maros utca 30.       ;13059;47.50538,19.020838
-Budapest - Thomán István utca 1.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1124;Budapest;Thomán István utca 1.      ;13060;47.49511,19.002945
-Budapest - Sashegyi út        ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1124;Budapest;Sashegyi út        ;13061;47.486499,19.01403
-Budapest - Szendrő utca 52.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1125;Budapest;Szendrő utca 52.       ;13062;47.50256,19.002233
-Budapest - Virányos út 46.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1125;Budapest;Virányos út 46.       ;13063;47.515797,18.992192
-Budapest - Csipke út 1a       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1125;Budapest;Csipke út 1a       ;13064;47.507125,18.987692
-Budapest - Szarvas Gábor út 59.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1125;Budapest;Szarvas Gábor út 59.      ;13065;47.516882,18.985772
-Budapest - Tahi utca 102.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1131;Budapest;Tahi utca 102.       ;13066;47.537042,19.0895
-Budapest - Szabolcs utca 6.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1134;Budapest;Szabolcs utca 6.       ;13067;47.51701,19.066263
-Budapest - Petneházy utca 77a       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1135;Budapest;Petneházy utca 77a       ;13068;47.531445,19.086317
-Budapest - Szobor utca 2.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1138;Budapest;Szobor utca 2.       ;13069;47.551557,19.074972
-Budapest - Váci út 132a       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1138;Budapest;Váci út 132a       ;13070;47.534673,19.066608
-Budapest - Bessenyei utca        ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1139;Budapest;Bessenyei utca        ;13071;47.522588,19.057232
-Budapest - Mogyoródi út 137.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1141;Budapest;Mogyoródi út 137.       ;13072;47.518922,19.132882
-Budapest - Vezér utca 36.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1144;Budapest;Vezér utca 36.       ;13073;47.509852,19.142928
-Budapest - Róna utca 189.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1145;Budapest;Róna utca 189.       ;13074;47.520277,19.103018
-Budapest - Lőcsei út 40.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1147;Budapest;Lőcsei út 40.       ;13075;47.520425,19.11403
-Budapest - Pillangó park 3-5.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1149;Budapest;Pillangó park 3-5.       ;13076;47.50354,19.122015
-Budapest - Eötvös utca 61.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1153;Budapest;Eötvös utca 61.       ;13077;47.557303,19.113393
-Budapest - Bácska utca 4.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1153;Budapest;Bácska utca 4.       ;13078;47.563117,19.117687
-Budapest - Kontyfa utca 1.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1156;Budapest;Kontyfa utca 1.       ;13079;47.54662,19.139012
-Budapest - Zsókavár utca 10.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1157;Budapest;Zsókavár utca 10.       ;13080;47.542308,19.142792
-Budapest - Adria utca        ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1158;Budapest;Adria utca        ;13081;47.534847,19.134003
-Budapest - Zöldséges utca 11.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1162;Budapest;Zöldséges utca 11.       ;13082;47.530807,19.1995
-Budapest - Segesvár utca        ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1162;Budapest;Segesvár utca        ;13083;47.530746,19.168188
-Budapest - Havashalom utca        ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1163;Budapest;Havashalom utca        ;13084;47.515274,19.170162
-Budapest - Szabadföld út 73.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1164;Budapest;Szabadföld út 73.       ;13085;47.530433,19.236085
-Budapest - Bökényföldi út 25.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1165;Budapest;Bökényföldi út 25.       ;13086;47.510205,19.205853
-Budapest - Hegyalatti utca 2.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1171;Budapest;Hegyalatti utca 2.       ;13087;47.469086,19.292842
-Budapest - Szent Imre utca 62-64.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1172;Budapest;Szent Imre utca 62-64.      ;13088;47.491763,19.28271
-Budapest - Pesti út 22a       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1172;Budapest;Pesti út 22a       ;13089;47.483987,19.236577
-Budapest - 525. tér        ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1172;Budapest;525. tér        ;13090;47.481573,19.218375
-Budapest - Pesti út 113.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1173;Budapest;Pesti út 113.       ;13091;47.48078,19.246545
-Budapest - Bányapart utca 24.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1174;Budapest;Bányapart utca 24.       ;13092;47.471287,19.238991
-Budapest - Margó Tivadar (Bókay kert bejárat) utca    ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1181;Budapest;Margó Tivadar (Bókay kert bejárat) utca    ;13093;47.433947,19.176862
-Budapest - Nefelejcs utca 89.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1183;Budapest;Nefelejcs utca 89.       ;13094;47.447208,19.190732
-Budapest - Gulner Gyula utca 1-5.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1183;Budapest;Gulner Gyula utca 1-5.      ;13095;47.440062,19.189797
-Budapest - Kisfaludy utca 33c       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1188;Budapest;Kisfaludy utca 33c       ;13096;47.409772,19.192167
-Budapest - Vak Bottyán utca 31.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1191;Budapest;Vak Bottyán utca 31.      ;13097;47.461917,19.146302
-Budapest - Batthyány utca 42.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1191;Budapest;Batthyány utca 42.       ;13098;47.453188,19.143955
-Budapest - Corvin krt. 7-13.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1191;Budapest;Corvin krt. 7-13.       ;13099;47.460887,19.133143
-Budapest - Kossuth tér 8.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1191;Budapest;Kossuth tér 8.       ;13100;47.459028,19.145448
-Budapest - Pannónia utca 2.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1192;Budapest;Pannónia utca 2.       ;13101;47.463153,19.127053
-Budapest - Topánka utca - Baross utca sarok    ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1203;Budapest;Topánka utca - Baross utca sarok    ;13102;47.436952,19.097477
-Budapest - Orsolya utca 60.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1204;Budapest;Orsolya utca 60.       ;13103;47.429235,19.127263
-Budapest - Petz Ferenc utca ( Csepel pláza parkoló)  ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1211;Budapest;Petz Ferenc utca ( Csepel pláza parkoló)  ;13104;47.423903,19.068377
-Budapest - Akácfa utca 23.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1212;Budapest;Akácfa utca 23.       ;13105;47.412845,19.062188
-Budapest - Hollandi út 8.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1213;Budapest;Hollandi út 8.       ;13106;47.412737,19.097343
-Budapest - Dunadűlő út 5.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1214;Budapest;Dunadűlő út 5.       ;13107;47.423988,19.088901
-Budapest - Városház tér 4b       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1221;Budapest;Városház tér 4b       ;13108;47.427488,19.03966
-Budapest - Promontor utca 89.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1222;Budapest;Promontor utca 89.       ;13109;47.42132,19.029403
-Budapest - Tűzliliom utca 39.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1223;Budapest;Tűzliliom utca 39.       ;13110;47.406197,19.008125
-Budapest - Szentháromság utca        ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1225;Budapest;Szentháromság utca        ;13111;47.392997,18.986417
-Budapest - Nagytétényi út 31-33.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1225;Budapest;Nagytétényi út 31-33.       ;13112;47.408988,19.020685
-Budapest - Ördögszekér utca        ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1237;Budapest;Ördögszekér utca        ;13113;47.41631,19.133215
-Budapest - Erzsébet utca        ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1238;Budapest;Erzsébet utca        ;13114;47.511982,19.023048
-Budapest - Hősök tere 21-27.       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;1239;Budapest;Hősök tere 21-27.       ;13115;47.399318,19.117425
-Visegrád - Fő utca 75.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2025;Visegrád;Fő utca 75.      ;13116;47.789858,18.970987
-Visegrád - Fő utca 75.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2025;Visegrád;Fő utca 75.      ;13117;47.78978,18.970788
-Érd - Béke tér 91.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2030;Érd;Béke tér 91.      ;13118;47.377127,18.921938
-Érd - Felső utca 43.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2030;Érd;Felső utca 43.      ;13119;47.19024,18.42508
-Solymár - Pilisvörösvári utca 6.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2083;Solymár;Pilisvörösvári utca 6.      ;13120;47.593182,18.9378
-Telki - Szajkó utca 2.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2089;Telki;Szajkó utca 2.      ;13121;47.54199,18.828503
-Budakeszi - Fő utca 100.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2092;Budakeszi;Fő utca 100.      ;13122;47.513807,18.932797
-Vácrátót - Kossuth utca (Petőfi tér 7.)    ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2163;Vácrátót;Kossuth utca (Petőfi tér 7.)    ;13123;47.709865,19.233857
-Vác - Dr. Csányi László körút 52.    ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2600;Vác;Dr. Csányi László körút 52.    ;13124;47.78118,19.128726
-Bicske - Kossuth Lajos Utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2060;Bicske;Kossuth Lajos Utca      ;13125;47.492385,18.634275
-Dunaújváros - Szabadság út      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2400;Dunaújváros;Szabadság út      ;13126;46.965607,18.916568
-Martonvásár - Kodály Zoltán utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2462;Martonvásár;Kodály Zoltán utca      ;13127;47.314804,18.786266
-Kápolnásnyék - Vörösmarty utca 2.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2475;Kápolnásnyék;Vörösmarty utca 2.      ;13128;47.238657,18.673881
-Velence - Velence Tópart utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2481;Velence;Velence Tópart utca      ;13129;47.228874,18.663354
-Gárdony-Agárd - Fürdő tér 1.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2483;Gárdony-Agárd;Fürdő tér 1.      ;13130;47.195106,18.596197
-Gárdony-Agárd - Szabadság utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2483;Gárdony-Agárd;Szabadság utca      ;13131;47.206704,18.62675
-Tatabánya - Szent Borbála tér      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2800;Tatabánya;Szent Borbála tér      ;13132;47.581375,18.399647
-Tatabánya - Jedlik Ányos út      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;2800;Tatabánya;Jedlik Ányos út      ;13133;47.584485,18.39477
-Füzesabony - Rákóczi Ferenc út 67.     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;3390;Füzesabony;Rákóczi Ferenc út 67.     ;13134;47.748812,20.417927
-Mezőkövesd - Juharfa utca       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;3400;Mezőkövesd;Juharfa utca       ;13135;47.810638,20.574343
-Miskolc - Régiposta utca 22.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;3500;Miskolc;Régiposta utca 22.      ;13136;48.104173,20.788348
-Miskolc - Kandia utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;3500;Miskolc;Kandia utca      ;13137;48.101775,20.783643
-Szerencs - Tatay Zoltán utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;3900;Szerencs;Tatay Zoltán utca      ;13138;48.160493,21.200277
-Mád - Rákóczi utca 71.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;3909;Mád;Rákóczi utca 71.      ;13139;48.19543,21.279057
-Tokaj - Bodrogkeresztúri út 2.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;3910;Tokaj;Bodrogkeresztúri út 2.      ;13140;48.132657,21.403575
-Bodrogkeresztúr - Kastély köz 2.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;3916;Bodrogkeresztúr;Kastély köz 2.      ;13141;48.169493,21.361047
-Sárospatak - Comenius utca 24.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;3950;Sárospatak;Comenius utca 24.      ;13142;48.319698,21.565475
-Sátoraljaújhely - Táncsics tér 4.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;3980;Sátoraljaújhely;Táncsics tér 4.      ;13143;48.397567,21.65492
-Hortobágy - Hunyadi utca 2.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;4071;Hortobágy;Hunyadi utca 2.      ;13144;47.582905,21.151028
-Nyíregyháza - Bujtos utca 14.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;4400;Nyíregyháza;Bujtos utca 14.      ;13145;47.955535,21.722763
-Nyíregyháza - Tavasz utca 2.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;4400;Nyíregyháza;Tavasz utca 2.      ;13146;47.959288,21.719768
-Nyíregyháza - Körte utca 16.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;4400;Nyíregyháza;Körte utca 16.      ;13147;47.959753,21.715998
-Szolnok - Jubileumi tér 1.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;5000;Szolnok;Jubileumi tér 1.      ;13148;47.179628,20.177395
-Szolnok - Mártírok út      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;5000;Szolnok;Mártírok út      ;13149;47.167687,20.181461
-Abádszalók - Arany János utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;5241;Abádszalók;Arany János utca      ;13150;47.478252,20.591701
-Karcag - Bajcsy Zsilinszky utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;5300;Karcag;Bajcsy Zsilinszky utca      ;13151;47.316692,20.925198
-Tiszafüred - Fürdő utca 5.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;5350;Tiszafüred;Fürdő utca 5.      ;13152;47.625888,20.750892
-Békéscsaba - Posta köz      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;5600;Békéscsaba;Posta köz      ;13153;46.678933,21.097148
-Gyula - Várkert utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;5700;Gyula;Várkert utca      ;13154;46.645045,21.284737
-Kecskemét - Horváth Cirill tér      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;6000;Kecskemét;Horváth Cirill tér      ;13155;46.91049,19.693884
-Kecskemét - Rákóczi út      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;6000;Kecskemét;Rákóczi út      ;13156;46.909816,19.698089
-Kecskemét - Akadémia krt.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;6000;Kecskemét;Akadémia krt.      ;13157;46.916454,19.67979
-Kiskőrös - Petőfi Sándor utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;6200;Kiskőrös;Petőfi Sándor utca      ;13158;46.620228,19.284052
-Szeged - Víztorony tér 1.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;6723;Szeged;Víztorony tér 1.      ;13159;46.27035,20.164438
-Szeged - József Attila sugárút 122.     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;6723;Szeged;József Attila sugárút 122.     ;13160;46.27045,20.157602
-Szeged - Vízi Sport Egyesület Felső Tisza part   ;Evopro;22 kW;2;;;;;2;100Ft/kWh;6723;Szeged;Vízi Sport Egyesület Felső Tisza part   ;13161;46.257649,20.175916
-Szeged - Moszkvai krt. 25.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;6725;Szeged;Moszkvai krt. 25.      ;13162;46.248463,20.137808
-Szeged - Népkert sor 13.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;6726;Szeged;Népkert sor 13.      ;13163;46.249785,20.164715
-Szeged - Torontál tér 6.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;6726;Szeged;Torontál tér 6.      ;13164;46.248957,20.15749
-Hódmezővásárhely - Ady Endre utca 1. (Uszoda parkoló)   ;Evopro;22 kW;2;;;;;2;100Ft/kWh;6800;Hódmezővásárhely;Ady Endre utca 1. (Uszoda parkoló)   ;13165;46.409532,20.317357
-Hódmezővásárhely - Sportcsarnok (Tóalj utca )     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;6800;Hódmezővásárhely;Sportcsarnok (Tóalj utca )     ;13166;46.414707,20.32912
-Hódmezővásárhely - Stadion/Piac parkoló       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;6800;Hódmezővásárhely;Stadion/Piac parkoló       ;13167;46.421977,20.331188
-Hódmezővásárhely - Virág utca (Földhivatal parkoló)     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;6800;Hódmezővásárhely;Virág utca (Földhivatal parkoló)     ;13168;46.416353,20.322345
-Szekszárd - Csokonay utca 11-13.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;7100;Szekszárd;Csokonay utca 11-13.      ;13169;46.347433,18.706229
-Szekszárd - dr. Szentgáli Gyula utca 2.    ;Evopro;22 kW;2;;;;;2;100Ft/kWh;7100;Szekszárd;dr. Szentgáli Gyula utca 2.    ;13170;46.3462,18.70234
-Nagyatád - Zrínyi utca Nagyatád      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;7500;Nagyatád;Zrínyi utca Nagyatád      ;13171;46.229512,17.364444
-Siófok - Petőfi sétány 11-13.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8600;Siófok;Petőfi sétány 11-13.      ;13172;46.913085,18.060055
-Siófok - Deák Ferenc tér 16.     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8600;Siófok;Deák Ferenc tér 16.     ;13173;46.901375,18.017625
-Zamárdi - Kiss Ernő utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8621;Zamárdi;Kiss Ernő utca      ;13174;46.884963,17.943032
-Szántód - Római út 2.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8622;Szántód;Római út 2.      ;13175;46.859379,17.905124
-Balatonföldvár - Budapest utca       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8623;Balatonföldvár;Budapest utca       ;13176;46.848938,17.879371
-Balatonszemes - Cinka Panna utca 2.     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8636;Balatonszemes;Cinka Panna utca 2.     ;13177;46.811393,17.770707
-Balatonlelle - Rákóczi út 193.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8638;Balatonlelle;Rákóczi út 193.      ;13178;46.791196,17.692015
-Fonyód - Hunyadi János utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8640;Fonyód;Hunyadi János utca      ;13179;46.748816,17.557471
-Balatonfenyves - Kölcsey utca 1-3.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8646;Balatonfenyves;Kölcsey utca 1-3.      ;13180;46.712642,17.477206
-Csurgó - Petőfi tér Csurgó      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8840;Csurgó;Petőfi tér Csurgó      ;13181;46.252635,17.099961
-Pécs - Felsővámház utca 61.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;7630;Pécs;Felsővámház utca 61.      ;13182;46.078927,18.2461
-Pécs - Árnyas liget utca 2-8.     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;7632;Pécs;Árnyas liget utca 2-8.     ;13183;46.051373,18.229262
-Pécs - Csontváry utca       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;7632;Pécs;Csontváry utca       ;13184;46.039962,18.222305
-Pécs - Ángyán János utca 2.     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;7635;Pécs;Ángyán János utca 2.     ;13185;46.09326,18.226063
-Hosszúhetény - Fő út 142.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;7694;Hosszúhetény;Fő út 142.      ;13186;46.162448,18.352986
-Szigetvár - Olay Lajos utca 2.     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;7900;Szigetvár;Olay Lajos utca 2.     ;13187;46.048168,17.80036
-Balatonkenese - Táncsics Mihály utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8174;Balatonkenese;Táncsics Mihály utca      ;13188;47.035015,18.108381
-Veszprém - Vörösmarty Mihály tér 2.     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8200;Veszprém;Vörösmarty Mihály tér 2.     ;13189;47.090773,17.912913
-Veszprém - Budapest út       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8200;Veszprém;Budapest út       ;13190;47.092463,17.914308
-Veszprém - Kittenberger Kálmán utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8200;Veszprém;Kittenberger Kálmán utca      ;13191;47.09681,17.895575
-Veszprém - Muskátli utca 2. - 8. (Almádi út) ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8200;Veszprém;Muskátli utca 2. - 8. (Almádi út) ;13192;47.08989,17.916165
-Balatonalmádi - Taksony utca       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8220;Balatonalmádi;Taksony utca       ;13193;47.037768,18.020373
-Balatonalmádi - Véghelyi Dezső utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8220;Balatonalmádi;Véghelyi Dezső utca      ;13194;47.02844,18.021498
-Alsóörs - Vasút utca 3.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8226;Alsóörs;Vasút utca 3.      ;13195;46.985345,17.978871
-Balatonfüred - Zákonyi Ferenc utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8230;Balatonfüred;Zákonyi Ferenc utca      ;13196;46.951538,17.888048
-Tihany - Kossuth Lajos utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8237;Tihany;Kossuth Lajos utca      ;13197;46.909863,17.890401
-Révfülöp - Iskola utca       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8253;Révfülöp;Iskola utca       ;13198;46.82796,17.626469
-Révfülöp - Halász utca       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8253;Révfülöp;Halász utca       ;13199;46.829679,17.638976
-Badacsonytomaj - 71-es út (kikötő parkoló)     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8258;Badacsonytomaj;71-es út (kikötő parkoló)     ;13200;46.786716,17.505813
-Szigliget - Soponyai út       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8264;Szigliget;Soponyai út       ;13201;46.785938,17.443832
-Zirc - Rákóczi tér       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8420;Zirc;Rákóczi tér       ;13202;47.262733,17.870933
-Pápa - Fő utca 2.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8500;Pápa;Fő utca 2.      ;13203;47.326046,17.469783
-Keszthely - Sopron utca 2.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8360;Keszthely;Sopron utca 2.      ;13204;46.772724,17.241544
-Keszthely - Lóczy Lajos utca (Yachtklub)     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8360;Keszthely;Lóczy Lajos utca (Yachtklub)     ;13205;46.764977,17.266538
-Hévíz - Zrínyi utca 1.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8380;Hévíz;Zrínyi utca 1.      ;13206;46.791188,17.185253
-Hévíz - Ady Endre utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8380;Hévíz;Ady Endre utca      ;13207;46.783433,17.190542
-Alsópáhok - Hévíz utca       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8394;Alsópáhok;Hévíz utca       ;13208;46.775898,17.173833
-Zalakaros - Dísz tér       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8749;Zalakaros;Dísz tér       ;13209;46.550847,17.123692
-Kehidakustány - Kossuth Lajos utca 62.     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8794;Kehidakustány;Kossuth Lajos utca 62.     ;13210;46.83273,17.107448
-Nagykanizsa - Színház utca       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8800;Nagykanizsa;Színház utca       ;13211;46.454167,16.996087
-Zalaegerszeg - Mártirok út       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8900;Zalaegerszeg;Mártirok út       ;13212;46.84061,16.842685
-Zalaegerszeg - ZalaZone (Fogadó épület 1)     ;Evopro;22 kW;2;;;;;2;Ingyenes;8900;Zalaegerszeg;ZalaZone (Fogadó épület 1)     ;13213;46.889767,16.837537
-Zalaegerszeg - ZalaZone (Fogadó épület 2)     ;Evopro;22 kW;2;;;;;2;Ingyenes;8900;Zalaegerszeg;ZalaZone (Fogadó épület 2)     ;13214;46.88962,16.837275
-Zalaegerszeg - ZalaZone (Szervíz épület 1)     ;Evopro;22 kW;2;;;;;2;Ingyenes;8900;Zalaegerszeg;ZalaZone (Szervíz épület 1)     ;13215;46.88931,16.824446
-Zalaegerszeg - ZalaZone (Szervíz épület 2)     ;Evopro;22 kW;2;;;;;2;Ingyenes;8900;Zalaegerszeg;ZalaZone (Szervíz épület 2)     ;13216;46.891903,16.831735
-Lenti - Táncsics utca 4.     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8960;Lenti;Táncsics utca 4.     ;13217;46.620542,16.5327
-Pannonhalma - Váralja utca       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;9090;Pannonhalma;Váralja utca       ;13218;47.549637,17.755122
-Csorna - Soproni út 52.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;9300;Csorna;Soproni út 52.      ;13219;47.612112,17.253623
-Sopron - Ady Endre út (Egyetem parkoló)    ;Evopro;22 kW;2;;;;;2;100Ft/kWh;9400;Sopron;Ady Endre út (Egyetem parkoló)    ;13220;47.682658,16.577133
-Sopron - Jegenye sor (Locomotive Szálloda)     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;9400;Sopron;Jegenye sor (Locomotive Szálloda)     ;13221;47.674538,16.582823
-Fertőrákos - Fő utca 165.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;9421;Fertőrákos;Fő utca 165.      ;13222;47.715373,16.654406
-Fertőd - Hydn sétány       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;9431;Fertőd;Hydn sétány       ;13223;47.619492,16.864103
-Sárvár - Várkerület utca       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;9600;Sárvár;Várkerület utca       ;13224;47.253045,16.937822
-Bük - Termál krt. 28.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;9740;Bük;Termál krt. 28.      ;13225;47.379083,16.786488
-Mór - Szent István tér 10.     ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8060;Mór;Szent István tér 10.     ;13226;47.374371,18.210608
-Székesfehérvár - Gyümölcs utca 15.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8000;Székesfehérvár;Gyümölcs utca 15.      ;13227;47.18694,18.418997
-Székesfehérvár - Seregélyesi út 3.      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8000;Székesfehérvár;Seregélyesi út 3.      ;13228;47.193298,18.436683
-Székesfehérvár - Jankovich Ferenc utca      ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8000;Székesfehérvár;Jankovich Ferenc utca      ;13229;47.193872,18.398633
-Székesfehérvár - Sütő utca       ;Evopro;22 kW;2;;;;;2;100Ft/kWh;8000;Székesfehérvár;Sütő utca       ;13230;47.186342,18.411267
-Budapest - Pala utca        ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1011;Budapest;Pala utca        ;13501;47.500729,19.038749
-Budapest - Csalogány utca 23.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1015;Budapest;Csalogány utca 23.       ;13502;47.507675,19.033432
-Budapest - Számadó utca 1.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1016;Budapest;Számadó utca 1.       ;13503;47.48613,19.039867
-Budapest - Marczibányi tér 5.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1022;Budapest;Marczibányi tér 5.       ;13504;47.51405,19.021175
-Budapest - Fény utca 6. (Auguszt cukrászda)     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1024;Budapest;Fény utca 6. (Auguszt cukrászda)     ;13505;47.508993,19.024313
-Budapest - Keleti Károly utca 37.      ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1024;Budapest;Keleti Károly utca 37.      ;13506;47.512795,19.025161
-Budapest - Pusztaszeri út 59.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1025;Budapest;Pusztaszeri út 59.       ;13507;47.52504,19.023562
-Budapest - Vérhalom tér 8.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1025;Budapest;Vérhalom tér 8.       ;13508;47.520687,19.02367
-Budapest - Kelemen László (Pasaréti tér) utca     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1026;Budapest;Kelemen László (Pasaréti tér) utca     ;13509;47.523364,18.992884
-Budapest - Ganz utca        ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1027;Budapest;Ganz utca        ;13510;47.511024,19.03737
-Budapest - Kossuth Lajos utca 2.      ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1028;Budapest;Kossuth Lajos utca 2.      ;13511;47.551918,18.963912
-Budapest - Bécsi út 126.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1034;Budapest;Bécsi út 126.       ;13512;47.537972,19.032227
-Budapest - Mátyás király út 19.      ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1039;Budapest;Mátyás király út 19.      ;13513;47.585687,19.048763
-Budapest - Alkotmány utca 29.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1054;Budapest;Alkotmány utca 29.       ;13514;47.507973,19.05389
-Budapest - Podmaniczky utca 111.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1062;Budapest;Podmaniczky utca 111.       ;13515;47.516555,19.072223
-Budapest - Teréz körút 48.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1066;Budapest;Teréz körút 48.       ;13516;47.508357,19.058845
-Budapest - Erzsébet körút 40-42.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1073;Budapest;Erzsébet körút 40-42.       ;13517;47.501698,19.068113
-Budapest - Rózsák tere        ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1074;Budapest;Rózsák tere        ;13518;47.501407,19.076525
-Budapest - Nefelejcs utca 34.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1078;Budapest;Nefelejcs utca 34.       ;13519;47.504078,19.080485
-Budapest - II. János Pál pápa tér 18.    ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1081;Budapest;II. János Pál pápa tér 18.    ;13520;47.495857,19.0806
-Budapest - Szent László tér 29.      ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1102;Budapest;Szent László tér 29.      ;13521;47.486832,19.130947
-Budapest - Szentimrey utca        ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1104;Budapest;Szentimrey utca        ;13522;47.477506,19.162755
-Budapest - Gyakorló köz 7.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1106;Budapest;Gyakorló köz 7.       ;13523;47.503024,19.141785
-Budapest - Menyecske utca 2.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1112;Budapest;Menyecske utca 2.       ;13524;47.461887,19.014903
-Budapest - Bártfai utca 52.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1115;Budapest;Bártfai utca 52.       ;13525;47.467335,19.031817
-Budapest - Hengermalom út 56.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1117;Budapest;Hengermalom út 56.       ;13526;47.461117,19.05343
-Budapest - Etele út 32c       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1119;Budapest;Etele út 32c       ;13527;47.463142,19.033765
-Budapest - Fegyvernek utca (Mezőkövesd út 4.)     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1119;Budapest;Fegyvernek utca (Mezőkövesd út 4.)     ;13528;47.44096,19.037725
-Budapest - Gaál József út 12a      ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1122;Budapest;Gaál József út 12a      ;13529;47.506458,19.011792
-Budapest - Jagelló út 20b       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1123;Budapest;Jagelló út 20b       ;13530;47.48836,19.020568
-Budapest - Rácz Aladár út 2. (Márton Áron tér)  ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1124;Budapest;Rácz Aladár út 2. (Márton Áron tér)  ;13531;47.481953,18.998305
-Budapest - Csizma utca 2.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1139;Budapest;Csizma utca 2.       ;13532;47.534292,19.080798
-Budapest - Béke tér 1c       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1139;Budapest;Béke tér 1c       ;13533;47.530877,19.081202
-Budapest - Gvadányi utca 87.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1144;Budapest;Gvadányi utca 87.       ;13534;47.51682,19.14356
-Budapest - Pétervárad utca 7.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1145;Budapest;Pétervárad utca 7.       ;13535;47.518437,19.108828
-Budapest - Stefánia út 75.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1146;Budapest;Stefánia út 75.       ;13536;47.50715,19.0969
-Budapest - Szilas park 2.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1152;Budapest;Szilas park 2.       ;13537;47.54997,19.139537
-Budapest - Széchenyi tér 13.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1153;Budapest;Széchenyi tér 13.       ;13538;47.562388,19.119977
-Budapest - Sashalmi tér 150.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1163;Budapest;Sashalmi tér 150.       ;13539;47.509852,19.171955
-Budapest - Jókai Mór utca 2.      ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1165;Budapest;Jókai Mór utca 2.      ;13540;47.510518,19.190688
-Budapest - Uszoda utca 2.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1173;Budapest;Uszoda utca 2.       ;13541;47.478665,19.234088
-Budapest - Pesti út 168a       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1173;Budapest;Pesti út 168a       ;13542;47.480288,19.254495
-Budapest - Nagyenyed utca 2.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1182;Budapest;Nagyenyed utca 2.       ;13543;47.432632,19.2069
-Budapest - Thököly út 3.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1183;Budapest;Thököly út 3.       ;13544;47.443633,19.181155
-Budapest - Nemes utca 16.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1188;Budapest;Nemes utca 16.       ;13545;47.405153,19.18809
-Budapest - Hofherr Albert utca 42.      ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1194;Budapest;Hofherr Albert utca 42.      ;13546;47.437217,19.14543
-Budapest - Árpád utca 7.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1195;Budapest;Árpád utca 7.       ;13547;47.453364,19.149468
-Budapest - Vörösmarty út        ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1201;Budapest;Vörösmarty út        ;13548;47.435927,19.102978
-Budapest - Bíró Mihály utca 18.      ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1203;Budapest;Bíró Mihály utca 18.      ;13549;47.43922,19.1026
-Budapest - Kossuth Lajos utca 105.      ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1211;Budapest;Kossuth Lajos utca 105.      ;13550;47.423795,19.06866
-Budapest - II. Rákóczi Ferenc utca 69.     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1211;Budapest;II. Rákóczi Ferenc utca 69.     ;13551;47.43318,19.067878
-Budapest - Kossuth Lajos utca 103.      ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1212;Budapest;Kossuth Lajos utca 103.      ;13552;47.423558,19.069747
-Budapest - Anna utca (Leányka utca)      ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1221;Budapest;Anna utca (Leányka utca)      ;13553;47.43249,19.036767
-Budapest - Városház tér 11.       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;1221;Budapest;Városház tér 11.       ;13554;47.426338,19.040955
-Érd - Petőfi Sándor utca 76.     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;2030;Érd;Petőfi Sándor utca 76.     ;13555;47.383345,18.905327
-Érd - Erkel Ferenc utca 3.     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;2030;Érd;Erkel Ferenc utca 3.     ;13556;47.382772,18.921543
-Piliscsaba - Templom tér 2.      ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;2081;Piliscsaba;Templom tér 2.      ;13557;47.632045,18.825473
-Pilisvörösvár - Budai út       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;2085;Pilisvörösvár;Budai út       ;13558;47.615787,18.920168
-Martonvásár - Kodály Zoltán utca 2.     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;2462;Martonvásár;Kodály Zoltán utca 2.     ;13559;47.314875,18.786335
-Székesfehérvár - Király sor       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;8000;Székesfehérvár;Király sor       ;13560;47.196372,18.419948
-Székesfehérvár - Mátyás Király körút      ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;8000;Székesfehérvár;Mátyás Király körút      ;13561;47.19008,18.4069
-Tatabánya - Turul utca       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;2800;Tatabánya;Turul utca       ;13562;47.578822,18.392892
-Salgótarján - Kassai sor       ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;3100;Salgótarján;Kassai sor       ;13563;48.105935,19.806593
-Gyöngyös - Kármán József utca      ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;3200;Gyöngyös;Kármán József utca      ;13564;47.783053,19.93077
-Miskolc - Palóczy László utca 7.     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;3500;Miskolc;Palóczy László utca 7.     ;13565;48.105408,20.780647
-Miskolc - Dayka Gábor utca 2.     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;3500;Miskolc;Dayka Gábor utca 2.     ;13566;48.10432,20.775645
-Nyíregyháza - Dob utca      ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;4400;Nyíregyháza;Dob utca      ;13567;47.960873,21.712573
-Ajak - Hajnal utca      ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;4524;Ajak;Hajnal utca      ;13568;48.177991,22.061686
-Szolnok - Városmajor út 57.     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;5000;Szolnok;Városmajor út 57.     ;13569;47.1811,20.206453
-Kecskemét - Deák Ferenc tér 3.     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;6000;Kecskemét;Deák Ferenc tér 3.     ;13570;46.906547,19.688987
-Szeged - Kossuth Lajos sugárút 47.     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;6724;Szeged;Kossuth Lajos sugárút 47.     ;13571;46.260008,20.140325
-Szeged - Petőfi Sándor sugárút 74.     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;6725;Szeged;Petőfi Sándor sugárút 74.     ;13572;46.244577,20.133648
-Pécs - Berze Nagy János út     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;7623;Pécs;Berze Nagy János út     ;13573;46.06461,18.20226
-Veszprém - Óváros tér 20.     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;8200;Veszprém;Óváros tér 20.     ;13574;47.094625,17.906972
-Nagykanizsa - Gábor Áron utca 6. ( Ipari park bejárat); ;;;22 kW;1;22 kW;1;2;120Ft/kWh;8800;Nagykanizsa;Gábor Áron utca 6. ( Ipari park bejárat);13575;46.466853,17.000233
-Zalaegerszeg - ZalaZone fogadó épület      ; ;;;;;22 kW;1;2;Ingyenes;8900;Zalaegerszeg;ZalaZone fogadó épület      ;13576;46.889543,16.837247
-Zalaegerszeg - ZalaZone szervíz épület       ; ;;;;;22 kW;1;2;Ingyenes;8900;Zalaegerszeg;ZalaZone szervíz épület       ;13577;46.891908,16.831947
-Zalaegerszeg - Kosztolányi Dezső tér 27.     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;8900;Zalaegerszeg;Kosztolányi Dezső tér 27.     ;13578;46.841908,16.849458
-Zalaegerszeg - Budai Nagy Antal út     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;8900;Zalaegerszeg;Budai Nagy Antal út     ;13579;46.8474,16.845357
-Sopron - Kuruc krt. (Szív utca)     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;9400;Sopron;Kuruc krt. (Szív utca)     ;13580;47.677903,16.60242
-Szombathely - Hollán Ernő utca 3.     ; ;;;22 kW;1;22 kW;1;2;120Ft/kWh;9700;Szombathely;Hollán Ernő utca 3.     ;13581;47.230273,16.618052
-Budapest - Mechwart tér;DBT Quick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;1024;Budapest;Mechwart tér ;23001;47.511544,19.031466
-Sopron - Révai Miklós út;DBT Quick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;9400;Sopron;Révai Miklós út ;23002;47.694058,16.578055
-Tamási - Szabadság utca;DBT Quick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;7090;Tamási;Szabadság utca ;23003;46.636416,18.281638
-Budapest M3 Szilas pihenő;DBT Quick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;1152;Budapest;Szilas pihenő M3 ;23004;47.566198,19.147583
-Székesfehérvár - Huszár utca;DBT Quick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;8000;Székesfehérvár;Huszár utca ;23005;47.190141,18.425153
-Keszthely - Skála köz;DBT Quick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;8360;Keszthely;Skála köz ;23006;46.768707,17.247343
-Nyíregyháza - Szabadság tér;DBT Quick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;4400;Nyíregyháza;Szabadság tér ;23007;47.957228,21.719411
-Dunaújváros - Martinovics Ignác út;DBT Quick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;2400;Dunaújváros;Martinovics Ignác út ;23008;46.974436,18.934917
-Eger - Knézich Károly utca;DBT Quick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;3300;Eger;Knézich Károly utca ;23009;47.904887,20.376224
-Tokaj - Csokonai út;DBT Quick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;3910;Tokaj;Csokonai út ;23010;48.112541,21.412592
-Kiskunhalas - Bethlen Gábor tér;DBT Quick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;6400;Kiskunhalas;Bethlen Gábor tér ;23011;46.430354,19.481483
-Nagykanizsa - Hevesi Sándor út;DBT Quick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;8800;Nagykanizsa;Hevesi Sándor út ;23012;46.459301,17.009777
-Pécs - Lahti utca;DBT Quick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;7600;Pécs;Lahti utca ;23013;46.041105,18.214032
-Békéscsaba - Szabó Dezső utca;DBT Quick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;5600;Békéscsaba;Szabó Dezső utca ;23014;46.676543,21.0883109
-Csorna - Mártírok tere;DBT Quick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;9300;Csorna;Mártírok tere ;23015;47.610776,17.250375
-Budapest IX - Nagyvárad tér;DBT Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;1097;Budapest;Albert Flórián út 1  ;23016;47.477517,19.090627
-Budapest III - Madzsar József utca;DBT Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;1039;Budapest;Madzsar József utca ;23017;47.59892,19.056898
-Budapest - Budaörsi út;DBT Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;1118;Budapest;Budaörsi út 113.;23018;47.467499,19.016824
-Balatonkeresztúr - M7 bal;DBT Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;8648;Balatonkeresztúr;M7 autópálya 167 km (bal) ;23019;46.683372,17.380319
-Balatonkeresztúr - M7 jobb;DBT Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;8648;Balatonkeresztúr;M7 autópálya 167 km (jobb) ;23020;46.685041,17.378814
-Mocsa - Igmándi pihenő bal Budapest;DBT Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;2911;Mocsa;M1 autópálya Igmándi pihenő (bal) ;23021;47.673008,18.114288
-Mocsa - Igmándi pihenő jobb Győr;DBT Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;2911;Mocsa;M1 autópálya Igmándi pihenő (jobb) ;23022;47.673763,18.114263
-Lébény - M1 Autópálya mérnökség;DBT Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;9155;Lébény;M1 Autópálya mérnökség ;23023;47.751337,17.412117
-Miskolc - Szeles út;DBT Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;3526;Miskolc;Szeles út ;23024;48.106706,20.790759
-Szolnok - Táncsics Mihály utca;DBT Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;5000;Szolnok;Táncsics Mihály utca ;23025;47.174222,20.196967
+;;;Csatlakozók / töltési módok;;;;;;;;Töltőpont címe;;;;
+Töltőpont neve;Gyártó;Típus;Teljesítmény (Type 2);Darab (Type 2);Teljesítmény (CCS);Darab (CCS);Teljesítmény (CHAdeMO);Darab (CHAdeMO);Kapacitás;Szolgáltatás díja (bruttó);Irányító szám;Település;Cím;Mobiliti azonosító;GPS koordináták
+Budapest - Málna utca        ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1011;Budapest;Málna utca        ;13001;47.506967,19.035222
+Budapest - Szilágyi Dezső tér       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1011;Budapest;Szilágyi Dezső tér       ;13002;47.503416,19.039387
+Budapest - Hadnagy utca 8.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1013;Budapest;Hadnagy utca 8.       ;13003;47.490838,19.04385
+Budapest - Naphegy utca 65.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1016;Budapest;Naphegy utca 65.       ;13004;47.492262,19.03688
+Budapest - Gellérthegy utca 36.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1016;Budapest;Gellérthegy utca 36.       ;13005;47.494525,19.035092
+Budapest - Krisztina körút 99.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1016;Budapest;Krisztina körút 99.       ;13006;47.495127,19.03518
+Budapest - Ürömi utca 66.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1023;Budapest;Ürömi utca 66.       ;13007;47.527974,19.03273
+Budapest - Frankel Leó utca 53.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1023;Budapest;Frankel Leó utca 53.      ;13008;47.522105,19.037185
+Budapest - Frankel Leó utca 27. (Lukács Gyógyfürdő)    ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1023;Budapest;Frankel Leó utca 27. (Lukács Gyógyfürdő)    ;13009;47.517813,19.037059
+Budapest - Árpád fejedelem útja 12.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1023;Budapest;Árpád fejedelem útja 12.      ;13010;47.520968,19.03792
+Budapest - Csatárka utca 49.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1025;Budapest;Csatárka utca 49.       ;13011;47.530115,19.00905
+Budapest - Gábor Áron utca 74-76.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1026;Budapest;Gábor Áron utca 74-76.      ;13012;47.522225,19.0148
+Budapest - Szabadság-Közsgégház utca torkolat       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1028;Budapest;Szabadság-Közsgégház utca torkolat       ;13013;47.561105,18.960253
+Budapest - Rezeda utca (Bánffy György emlékpark)     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1028;Budapest;Rezeda utca (Bánffy György emlékpark)     ;13014;47.54418,18.964084
+Budapest - Rozgonyi Piroska utca 26.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1031;Budapest;Rozgonyi Piroska utca 26.      ;13015;47.574025,19.061943
+Budapest - Torma Károly utca (Bécsi tér)     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1031;Budapest;Torma Károly utca (Bécsi tér)     ;13016;47.571788,19.0498
+Budapest - Záhony utca 4.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1031;Budapest;Záhony utca 4.       ;13017;47.561543,19.04987
+Budapest - Kanóc utca (Vitorla utca)      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1031;Budapest;Kanóc utca (Vitorla utca)      ;13018;47.569089,19.050923
+Budapest - Ágoston utca 4.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1032;Budapest;Ágoston utca 4.       ;13019;47.545943,19.031887
+Budapest - Törzs utca 2.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1032;Budapest;Törzs utca 2.       ;13020;47.542995,19.036523
+Budapest - Szérűskert utca 39.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1033;Budapest;Szérűskert utca 39.       ;13021;47.557687,19.043488
+Budapest - Kerék utca 36.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1035;Budapest;Kerék utca 36.       ;13022;47.5489,19.042514
+Budapest - Goldberger Leó utca (Tél utca)     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1036;Budapest;Goldberger Leó utca (Tél utca)     ;13023;47.536908,19.045598
+Budapest - Lajos utca 109.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1036;Budapest;Lajos utca 109.       ;13024;47.533962,19.042843
+Budapest - Kiskorona utca        ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1036;Budapest;Kiskorona utca        ;13025;47.538582,19.042752
+Budapest - Kubik utca (Opel Maxabo mellett)     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1037;Budapest;Kubik utca (Opel Maxabo mellett)     ;13026;47.561382,19.023588
+Budapest - Bálint György utca 2.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1039;Budapest;Bálint György utca 2.      ;13027;47.599988,19.063528
+Budapest - Zsirai Miklós  utca 15.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1039;Budapest;Zsirai Miklós  utca 15.       ;13028;47.600538,19.047476
+Budapest - Pünkösdfürdő utca 3.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1039;Budapest;Pünkösdfürdő utca 3.       ;13029;47.594458,19.067858
+Budapest - Nyár utca 24.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1041;Budapest;Nyár utca 24.       ;13030;47.558528,19.10323
+Budapest - Petőfi utca 35.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1042;Budapest;Petőfi utca 35.       ;13031;47.560224,19.095961
+Budapest - Király utca 9.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1044;Budapest;Király utca 9.       ;13032;47.562243,19.092474
+Budapest - Óradna utca 2/a       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1044;Budapest;Óradna utca 2/a       ;13033;47.594355,19.106087
+Budapest - Megyeri út 4.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1044;Budapest;Megyeri út 4.       ;13034;47.575013,19.083102
+Budapest - Budapest Károly körút 20.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1052;Budapest;Budapest Károly körút 20.      ;13035;47.49596,19.05811
+Budapest - Kodály körönd 1.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1062;Budapest;Kodály körönd 1.       ;13036;47.509772,19.070722
+Budapest - Andrássy út 121.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1062;Budapest;Andrássy út 121.       ;13037;47.513317,19.075675
+Budapest - Városligeti Fasor 18.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1068;Budapest;Városligeti Fasor 18.       ;13038;47.50915,19.075588
+Budapest - Damjanich utca 20.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1071;Budapest;Damjanich utca 20.       ;13039;47.506794,19.076375
+Budapest - Jósika utca (Rózsa utca 36.)     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1077;Budapest;Jósika utca (Rózsa utca 36.)     ;13040;47.505325,19.071748
+Budapest - Marek József utca 40.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1078;Budapest;Marek József utca 40.      ;13041;47.507109,19.084258
+Budapest - Baross utca (Rigó utca)      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1085;Budapest;Baross utca (Rigó utca)      ;13042;47.489655,19.073084
+Budapest - Ecseri út 2.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1095;Budapest;Ecseri út 2.       ;13043;47.470545,19.109428
+Budapest - Füzér utca        ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1102;Budapest;Füzér utca        ;13044;47.484154,19.130655
+Budapest - Maláta utca 6.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1102;Budapest;Maláta utca 6.       ;13045;47.491015,19.13981
+Budapest - Gergely utca (Martinovics tér)      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1103;Budapest;Gergely utca (Martinovics tér)      ;13046;47.480674,19.133786
+Budapest - Szárnyas utca 14.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1107;Budapest;Szárnyas utca 14.       ;13047;47.468386,19.120173
+Budapest - Oltó utca 2.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1108;Budapest;Oltó utca 2.       ;13048;47.470128,19.158197
+Budapest - Gazdagréti út        ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1112;Budapest;Gazdagréti út        ;13049;47.469652,18.995487
+Budapest - Ajnácskő utca 14-18.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1113;Budapest;Ajnácskő utca 14-18.       ;13050;47.473353,19.026448
+Budapest - Bártfai utca 36.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1115;Budapest;Bártfai utca 36.       ;13051;47.467811,19.035079
+Budapest - Fehérvári út 50.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1117;Budapest;Fehérvári út 50.       ;13052;47.46948,19.044902
+Budapest - Bogdánfy utca 3.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1117;Budapest;Bogdánfy utca 3.       ;13053;47.472763,19.056262
+Budapest - Irinyi József utca 47.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1117;Budapest;Irinyi József utca 47.      ;13054;47.474263,19.053133
+Budapest - Somlói út        ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1118;Budapest;Somlói út        ;13055;47.486347,19.03241
+Budapest - Rétköz utca 27.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1118;Budapest;Rétköz utca 27.       ;13056;47.469022,19.002438
+Budapest - Rege út 21.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1121;Budapest;Rege út 21.       ;13057;47.495037,18.978838
+Budapest - Mártonhegyi út        ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1121;Budapest;Mártonhegyi út        ;13058;47.49113,18.999146
+Budapest - Maros utca 30.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1122;Budapest;Maros utca 30.       ;13059;47.50538,19.020838
+Budapest - Thomán István utca 1.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1124;Budapest;Thomán István utca 1.      ;13060;47.49511,19.002945
+Budapest - Sashegyi út        ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1124;Budapest;Sashegyi út        ;13061;47.486499,19.01403
+Budapest - Szendrő utca 52.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1125;Budapest;Szendrő utca 52.       ;13062;47.50256,19.002233
+Budapest - Virányos út 46.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1125;Budapest;Virányos út 46.       ;13063;47.515797,18.992192
+Budapest - Csipke út 1a       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1125;Budapest;Csipke út 1a       ;13064;47.507125,18.987692
+Budapest - Szarvas Gábor út 59.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1125;Budapest;Szarvas Gábor út 59.      ;13065;47.516882,18.985772
+Budapest - Tahi utca 102.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1131;Budapest;Tahi utca 102.       ;13066;47.537042,19.0895
+Budapest - Szabolcs utca 6.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1134;Budapest;Szabolcs utca 6.       ;13067;47.51701,19.066263
+Budapest - Petneházy utca 77a       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1135;Budapest;Petneházy utca 77a       ;13068;47.531445,19.086317
+Budapest - Szobor utca 2.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1138;Budapest;Szobor utca 2.       ;13069;47.551557,19.074972
+Budapest - Váci út 132a       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1138;Budapest;Váci út 132a       ;13070;47.534673,19.066608
+Budapest - Bessenyei utca        ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1139;Budapest;Bessenyei utca        ;13071;47.522588,19.057232
+Budapest - Mogyoródi út 137.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1141;Budapest;Mogyoródi út 137.       ;13072;47.518922,19.132882
+Budapest - Vezér utca 36.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1144;Budapest;Vezér utca 36.       ;13073;47.509852,19.142928
+Budapest - Róna utca 189.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1145;Budapest;Róna utca 189.       ;13074;47.520277,19.103018
+Budapest - Lőcsei út 40.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1147;Budapest;Lőcsei út 40.       ;13075;47.520425,19.11403
+Budapest - Pillangó park 3-5.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1149;Budapest;Pillangó park 3-5.       ;13076;47.50354,19.122015
+Budapest - Eötvös utca 61.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1153;Budapest;Eötvös utca 61.       ;13077;47.557303,19.113393
+Budapest - Bácska utca 4.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1153;Budapest;Bácska utca 4.       ;13078;47.563117,19.117687
+Budapest - Kontyfa utca 1.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1156;Budapest;Kontyfa utca 1.       ;13079;47.54662,19.139012
+Budapest - Zsókavár utca 10.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1157;Budapest;Zsókavár utca 10.       ;13080;47.542308,19.142792
+Budapest - Adria utca        ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1158;Budapest;Adria utca        ;13081;47.534847,19.134003
+Budapest - Zöldséges utca 11.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1162;Budapest;Zöldséges utca 11.       ;13082;47.530807,19.1995
+Budapest - Segesvár utca        ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1162;Budapest;Segesvár utca        ;13083;47.530746,19.168188
+Budapest - Havashalom utca        ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1163;Budapest;Havashalom utca        ;13084;47.515274,19.170162
+Budapest - Szabadföld út 73.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1164;Budapest;Szabadföld út 73.       ;13085;47.530433,19.236085
+Budapest - Bökényföldi út 25.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1165;Budapest;Bökényföldi út 25.       ;13086;47.510205,19.205853
+Budapest - Hegyalatti utca 2.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1171;Budapest;Hegyalatti utca 2.       ;13087;47.469086,19.292842
+Budapest - Szent Imre utca 62-64.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1172;Budapest;Szent Imre utca 62-64.      ;13088;47.491763,19.28271
+Budapest - Pesti út 22a       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1172;Budapest;Pesti út 22a       ;13089;47.483987,19.236577
+Budapest - 525. tér        ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1172;Budapest;525. tér        ;13090;47.481573,19.218375
+Budapest - Pesti út 113.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1173;Budapest;Pesti út 113.       ;13091;47.48078,19.246545
+Budapest - Bányapart utca 24.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1174;Budapest;Bányapart utca 24.       ;13092;47.471287,19.238991
+Budapest - Margó Tivadar (Bókay kert bejárat) utca    ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1181;Budapest;Margó Tivadar (Bókay kert bejárat) utca    ;13093;47.433947,19.176862
+Budapest - Nefelejcs utca 89.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1183;Budapest;Nefelejcs utca 89.       ;13094;47.447208,19.190732
+Budapest - Gulner Gyula utca 1-5.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1183;Budapest;Gulner Gyula utca 1-5.      ;13095;47.440062,19.189797
+Budapest - Kisfaludy utca 33c       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1188;Budapest;Kisfaludy utca 33c       ;13096;47.409772,19.192167
+Budapest - Vak Bottyán utca 31.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1191;Budapest;Vak Bottyán utca 31.      ;13097;47.461917,19.146302
+Budapest - Batthyány utca 42.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1191;Budapest;Batthyány utca 42.       ;13098;47.453188,19.143955
+Budapest - Corvin krt. 7-13.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1191;Budapest;Corvin krt. 7-13.       ;13099;47.460887,19.133143
+Budapest - Kossuth tér 8.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1191;Budapest;Kossuth tér 8.       ;13100;47.459028,19.145448
+Budapest - Pannónia utca 2.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1192;Budapest;Pannónia utca 2.       ;13101;47.463153,19.127053
+Budapest - Topánka utca - Baross utca sarok    ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1203;Budapest;Topánka utca - Baross utca sarok    ;13102;47.436952,19.097477
+Budapest - Orsolya utca 60.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1204;Budapest;Orsolya utca 60.       ;13103;47.429235,19.127263
+Budapest - Petz Ferenc utca ( Csepel pláza parkoló)  ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1211;Budapest;Petz Ferenc utca ( Csepel pláza parkoló)  ;13104;47.423903,19.068377
+Budapest - Akácfa utca 23.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1212;Budapest;Akácfa utca 23.       ;13105;47.412845,19.062188
+Budapest - Hollandi út 8.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1213;Budapest;Hollandi út 8.       ;13106;47.412737,19.097343
+Budapest - Dunadűlő út 5.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1214;Budapest;Dunadűlő út 5.       ;13107;47.423988,19.088901
+Budapest - Városház tér 4b       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1221;Budapest;Városház tér 4b       ;13108;47.427488,19.03966
+Budapest - Promontor utca 89.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1222;Budapest;Promontor utca 89.       ;13109;47.42132,19.029403
+Budapest - Tűzliliom utca 39.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1223;Budapest;Tűzliliom utca 39.       ;13110;47.406197,19.008125
+Budapest - Szentháromság utca        ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1225;Budapest;Szentháromság utca        ;13111;47.392997,18.986417
+Budapest - Nagytétényi út 31-33.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1225;Budapest;Nagytétényi út 31-33.       ;13112;47.408988,19.020685
+Budapest - Ördögszekér utca        ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1237;Budapest;Ördögszekér utca        ;13113;47.41631,19.133215
+Budapest - Erzsébet utca        ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1238;Budapest;Erzsébet utca        ;13114;47.511982,19.023048
+Budapest - Hősök tere 21-27.       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;1239;Budapest;Hősök tere 21-27.       ;13115;47.399318,19.117425
+Visegrád - Fő utca 75.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2025;Visegrád;Fő utca 75.      ;13116;47.789858,18.970987
+Visegrád - Fő utca 75.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2025;Visegrád;Fő utca 75.      ;13117;47.78978,18.970788
+Érd - Béke tér 91.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2030;Érd;Béke tér 91.      ;13118;47.377127,18.921938
+Érd - Felső utca 43.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2030;Érd;Felső utca 43.      ;13119;47.19024,18.42508
+Solymár - Pilisvörösvári utca 6.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2083;Solymár;Pilisvörösvári utca 6.      ;13120;47.593182,18.9378
+Telki - Szajkó utca 2.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2089;Telki;Szajkó utca 2.      ;13121;47.54199,18.828503
+Budakeszi - Fő utca 100.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2092;Budakeszi;Fő utca 100.      ;13122;47.513807,18.932797
+Vácrátót - Kossuth utca (Petőfi tér 7.)    ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2163;Vácrátót;Kossuth utca (Petőfi tér 7.)    ;13123;47.709865,19.233857
+Vác - Dr. Csányi László körút 52.    ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2600;Vác;Dr. Csányi László körút 52.    ;13124;47.78118,19.128726
+Bicske - Kossuth Lajos Utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2060;Bicske;Kossuth Lajos Utca      ;13125;47.492385,18.634275
+Dunaújváros - Szabadság út      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2400;Dunaújváros;Szabadság út      ;13126;46.965607,18.916568
+Martonvásár - Kodály Zoltán utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2462;Martonvásár;Kodály Zoltán utca      ;13127;47.314804,18.786266
+Kápolnásnyék - Vörösmarty utca 2.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2475;Kápolnásnyék;Vörösmarty utca 2.      ;13128;47.238657,18.673881
+Velence - Velence Tópart utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2481;Velence;Velence Tópart utca      ;13129;47.228874,18.663354
+Gárdony-Agárd - Fürdő tér 1.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2483;Gárdony-Agárd;Fürdő tér 1.      ;13130;47.195106,18.596197
+Gárdony-Agárd - Szabadság utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2483;Gárdony-Agárd;Szabadság utca      ;13131;47.206704,18.62675
+Tatabánya - Szent Borbála tér      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2800;Tatabánya;Szent Borbála tér      ;13132;47.581375,18.399647
+Tatabánya - Jedlik Ányos út      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;2800;Tatabánya;Jedlik Ányos út      ;13133;47.584485,18.39477
+Füzesabony - Rákóczi Ferenc út 67.     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;3390;Füzesabony;Rákóczi Ferenc út 67.     ;13134;47.748812,20.417927
+Mezőkövesd - Juharfa utca       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;3400;Mezőkövesd;Juharfa utca       ;13135;47.810638,20.574343
+Miskolc - Régiposta utca 22.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;3500;Miskolc;Régiposta utca 22.      ;13136;48.104173,20.788348
+Miskolc - Kandia utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;3500;Miskolc;Kandia utca      ;13137;48.101775,20.783643
+Szerencs - Tatay Zoltán utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;3900;Szerencs;Tatay Zoltán utca      ;13138;48.160493,21.200277
+Mád - Rákóczi utca 71.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;3909;Mád;Rákóczi utca 71.      ;13139;48.19543,21.279057
+Tokaj - Bodrogkeresztúri út 2.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;3910;Tokaj;Bodrogkeresztúri út 2.      ;13140;48.132657,21.403575
+Bodrogkeresztúr - Kastély köz 2.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;3916;Bodrogkeresztúr;Kastély köz 2.      ;13141;48.169493,21.361047
+Sárospatak - Comenius utca 24.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;3950;Sárospatak;Comenius utca 24.      ;13142;48.319698,21.565475
+Sátoraljaújhely - Táncsics tér 4.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;3980;Sátoraljaújhely;Táncsics tér 4.      ;13143;48.397567,21.65492
+Hortobágy - Hunyadi utca 2.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;4071;Hortobágy;Hunyadi utca 2.      ;13144;47.582905,21.151028
+Nyíregyháza - Bujtos utca 14.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;4400;Nyíregyháza;Bujtos utca 14.      ;13145;47.955535,21.722763
+Nyíregyháza - Tavasz utca 2.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;4400;Nyíregyháza;Tavasz utca 2.      ;13146;47.959288,21.719768
+Nyíregyháza - Körte utca 16.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;4400;Nyíregyháza;Körte utca 16.      ;13147;47.959753,21.715998
+Szolnok - Jubileumi tér 1.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;5000;Szolnok;Jubileumi tér 1.      ;13148;47.179628,20.177395
+Szolnok - Mártírok út      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;5000;Szolnok;Mártírok út      ;13149;47.167687,20.181461
+Abádszalók - Arany János utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;5241;Abádszalók;Arany János utca      ;13150;47.478252,20.591701
+Karcag - Bajcsy Zsilinszky utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;5300;Karcag;Bajcsy Zsilinszky utca      ;13151;47.316692,20.925198
+Tiszafüred - Fürdő utca 5.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;5350;Tiszafüred;Fürdő utca 5.      ;13152;47.625888,20.750892
+Békéscsaba - Posta köz      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;5600;Békéscsaba;Posta köz      ;13153;46.678933,21.097148
+Gyula - Várkert utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;5700;Gyula;Várkert utca      ;13154;46.645045,21.284737
+Kecskemét - Horváth Cirill tér      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;6000;Kecskemét;Horváth Cirill tér      ;13155;46.91049,19.693884
+Kecskemét - Rákóczi út      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;6000;Kecskemét;Rákóczi út      ;13156;46.909816,19.698089
+Kecskemét - Akadémia krt.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;6000;Kecskemét;Akadémia krt.      ;13157;46.916454,19.67979
+Kiskőrös - Petőfi Sándor utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;6200;Kiskőrös;Petőfi Sándor utca      ;13158;46.620228,19.284052
+Szeged - Víztorony tér 1.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;6723;Szeged;Víztorony tér 1.      ;13159;46.27035,20.164438
+Szeged - József Attila sugárút 122.     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;6723;Szeged;József Attila sugárút 122.     ;13160;46.27045,20.157602
+Szeged - Vízi Sport Egyesület Felső Tisza part   ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;6723;Szeged;Vízi Sport Egyesület Felső Tisza part   ;13161;46.257649,20.175916
+Szeged - Moszkvai krt. 25.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;6725;Szeged;Moszkvai krt. 25.      ;13162;46.248463,20.137808
+Szeged - Népkert sor 13.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;6726;Szeged;Népkert sor 13.      ;13163;46.249785,20.164715
+Szeged - Torontál tér 6.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;6726;Szeged;Torontál tér 6.      ;13164;46.248957,20.15749
+Hódmezővásárhely - Ady Endre utca 1. (Uszoda parkoló)   ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;6800;Hódmezővásárhely;Ady Endre utca 1. (Uszoda parkoló)   ;13165;46.409532,20.317357
+Hódmezővásárhely - Sportcsarnok (Tóalj utca )     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;6800;Hódmezővásárhely;Sportcsarnok (Tóalj utca )     ;13166;46.414707,20.32912
+Hódmezővásárhely - Stadion/Piac parkoló       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;6800;Hódmezővásárhely;Stadion/Piac parkoló       ;13167;46.421977,20.331188
+Hódmezővásárhely - Virág utca (Földhivatal parkoló)     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;6800;Hódmezővásárhely;Virág utca (Földhivatal parkoló)     ;13168;46.416353,20.322345
+Szekszárd - Csokonay utca 11-13.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;7100;Szekszárd;Csokonay utca 11-13.      ;13169;46.347433,18.706229
+Szekszárd - dr. Szentgáli Gyula utca 2.    ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;7100;Szekszárd;dr. Szentgáli Gyula utca 2.    ;13170;46.3462,18.70234
+Nagyatád - Zrínyi utca Nagyatád      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;7500;Nagyatád;Zrínyi utca Nagyatád      ;13171;46.229512,17.364444
+Siófok - Petőfi sétány 11-13.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8600;Siófok;Petőfi sétány 11-13.      ;13172;46.913085,18.060055
+Siófok - Deák Ferenc tér 16.     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8600;Siófok;Deák Ferenc tér 16.     ;13173;46.901375,18.017625
+Zamárdi - Kiss Ernő utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8621;Zamárdi;Kiss Ernő utca      ;13174;46.884963,17.943032
+Szántód - Római út 2.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8622;Szántód;Római út 2.      ;13175;46.859379,17.905124
+Balatonföldvár - Budapest utca       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8623;Balatonföldvár;Budapest utca       ;13176;46.848938,17.879371
+Balatonszemes - Cinka Panna utca 2.     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8636;Balatonszemes;Cinka Panna utca 2.     ;13177;46.811393,17.770707
+Balatonlelle - Rákóczi út 193.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8638;Balatonlelle;Rákóczi út 193.      ;13178;46.791196,17.692015
+Fonyód - Hunyadi János utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8640;Fonyód;Hunyadi János utca      ;13179;46.748816,17.557471
+Balatonfenyves - Kölcsey utca 1-3.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8646;Balatonfenyves;Kölcsey utca 1-3.      ;13180;46.712642,17.477206
+Csurgó - Petőfi tér Csurgó      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8840;Csurgó;Petőfi tér Csurgó      ;13181;46.252635,17.099961
+Pécs - Felsővámház utca 61.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;7630;Pécs;Felsővámház utca 61.      ;13182;46.078927,18.2461
+Pécs - Árnyas liget utca 2-8.     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;7632;Pécs;Árnyas liget utca 2-8.     ;13183;46.051373,18.229262
+Pécs - Csontváry utca       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;7632;Pécs;Csontváry utca       ;13184;46.039962,18.222305
+Pécs - Ángyán János utca 2.     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;7635;Pécs;Ángyán János utca 2.     ;13185;46.09326,18.226063
+Hosszúhetény - Fő út 142.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;7694;Hosszúhetény;Fő út 142.      ;13186;46.162448,18.352986
+Szigetvár - Olay Lajos utca 2.     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;7900;Szigetvár;Olay Lajos utca 2.     ;13187;46.048168,17.80036
+Balatonkenese - Táncsics Mihály utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8174;Balatonkenese;Táncsics Mihály utca      ;13188;47.035015,18.108381
+Veszprém - Vörösmarty Mihály tér 2.     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8200;Veszprém;Vörösmarty Mihály tér 2.     ;13189;47.090773,17.912913
+Veszprém - Budapest út       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8200;Veszprém;Budapest út       ;13190;47.092463,17.914308
+Veszprém - Kittenberger Kálmán utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8200;Veszprém;Kittenberger Kálmán utca      ;13191;47.09681,17.895575
+Veszprém - Muskátli utca 2. - 8. (Almádi út) ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8200;Veszprém;Muskátli utca 2. - 8. (Almádi út) ;13192;47.08989,17.916165
+Balatonalmádi - Taksony utca       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8220;Balatonalmádi;Taksony utca       ;13193;47.037768,18.020373
+Balatonalmádi - Véghelyi Dezső utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8220;Balatonalmádi;Véghelyi Dezső utca      ;13194;47.02844,18.021498
+Alsóörs - Vasút utca 3.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8226;Alsóörs;Vasút utca 3.      ;13195;46.985345,17.978871
+Balatonfüred - Zákonyi Ferenc utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8230;Balatonfüred;Zákonyi Ferenc utca      ;13196;46.951538,17.888048
+Tihany - Kossuth Lajos utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8237;Tihany;Kossuth Lajos utca      ;13197;46.909863,17.890401
+Révfülöp - Iskola utca       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8253;Révfülöp;Iskola utca       ;13198;46.82796,17.626469
+Révfülöp - Halász utca       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8253;Révfülöp;Halász utca       ;13199;46.829679,17.638976
+Badacsonytomaj - 71-es út (kikötő parkoló)     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8258;Badacsonytomaj;71-es út (kikötő parkoló)     ;13200;46.786716,17.505813
+Szigliget - Soponyai út       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8264;Szigliget;Soponyai út       ;13201;46.785938,17.443832
+Zirc - Rákóczi tér       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8420;Zirc;Rákóczi tér       ;13202;47.262733,17.870933
+Pápa - Fő utca 2.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8500;Pápa;Fő utca 2.      ;13203;47.326046,17.469783
+Keszthely - Sopron utca 2.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8360;Keszthely;Sopron utca 2.      ;13204;46.772724,17.241544
+Keszthely - Lóczy Lajos utca (Yachtklub)     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8360;Keszthely;Lóczy Lajos utca (Yachtklub)     ;13205;46.764977,17.266538
+Hévíz - Zrínyi utca 1.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8380;Hévíz;Zrínyi utca 1.      ;13206;46.791188,17.185253
+Hévíz - Ady Endre utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8380;Hévíz;Ady Endre utca      ;13207;46.783433,17.190542
+Alsópáhok - Hévíz utca       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8394;Alsópáhok;Hévíz utca       ;13208;46.775898,17.173833
+Zalakaros - Dísz tér       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8749;Zalakaros;Dísz tér       ;13209;46.550847,17.123692
+Kehidakustány - Kossuth Lajos utca 62.     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8794;Kehidakustány;Kossuth Lajos utca 62.     ;13210;46.83273,17.107448
+Nagykanizsa - Színház utca       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8800;Nagykanizsa;Színház utca       ;13211;46.454167,16.996087
+Zalaegerszeg - Mártirok út       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8900;Zalaegerszeg;Mártirok út       ;13212;46.84061,16.842685
+Zalaegerszeg - ZalaZone (Fogadó épület 1)     ;Evopro;;22 kW;2;;;;;2;Ingyenes;8900;Zalaegerszeg;ZalaZone (Fogadó épület 1)     ;13213;46.889767,16.837537
+Zalaegerszeg - ZalaZone (Fogadó épület 2)     ;Evopro;;22 kW;2;;;;;2;Ingyenes;8900;Zalaegerszeg;ZalaZone (Fogadó épület 2)     ;13214;46.88962,16.837275
+Zalaegerszeg - ZalaZone (Szervíz épület 1)     ;Evopro;;22 kW;2;;;;;2;Ingyenes;8900;Zalaegerszeg;ZalaZone (Szervíz épület 1)     ;13215;46.88931,16.824446
+Zalaegerszeg - ZalaZone (Szervíz épület 2)     ;Evopro;;22 kW;2;;;;;2;Ingyenes;8900;Zalaegerszeg;ZalaZone (Szervíz épület 2)     ;13216;46.891903,16.831735
+Lenti - Táncsics utca 4.     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8960;Lenti;Táncsics utca 4.     ;13217;46.620542,16.5327
+Pannonhalma - Váralja utca       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;9090;Pannonhalma;Váralja utca       ;13218;47.549637,17.755122
+Csorna - Soproni út 52.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;9300;Csorna;Soproni út 52.      ;13219;47.612112,17.253623
+Sopron - Ady Endre út (Egyetem parkoló)    ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;9400;Sopron;Ady Endre út (Egyetem parkoló)    ;13220;47.682658,16.577133
+Sopron - Jegenye sor (Locomotive Szálloda)     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;9400;Sopron;Jegenye sor (Locomotive Szálloda)     ;13221;47.674538,16.582823
+Fertőrákos - Fő utca 165.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;9421;Fertőrákos;Fő utca 165.      ;13222;47.715373,16.654406
+Fertőd - Hydn sétány       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;9431;Fertőd;Hydn sétány       ;13223;47.619492,16.864103
+Sárvár - Várkerület utca       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;9600;Sárvár;Várkerület utca       ;13224;47.253045,16.937822
+Bük - Termál krt. 28.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;9740;Bük;Termál krt. 28.      ;13225;47.379083,16.786488
+Mór - Szent István tér 10.     ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8060;Mór;Szent István tér 10.     ;13226;47.374371,18.210608
+Székesfehérvár - Gyümölcs utca 15.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8000;Székesfehérvár;Gyümölcs utca 15.      ;13227;47.18694,18.418997
+Székesfehérvár - Seregélyesi út 3.      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8000;Székesfehérvár;Seregélyesi út 3.      ;13228;47.193298,18.436683
+Székesfehérvár - Jankovich Ferenc utca      ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8000;Székesfehérvár;Jankovich Ferenc utca      ;13229;47.193872,18.398633
+Székesfehérvár - Sütő utca       ;Evopro;;22 kW;2;;;;;2;100Ft/kWh;8000;Székesfehérvár;Sütő utca       ;13230;47.186342,18.411267
+Budapest - Pala utca        ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1011;Budapest;Pala utca        ;13501;47.500729,19.038749
+Budapest - Csalogány utca 23.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1015;Budapest;Csalogány utca 23.       ;13502;47.507675,19.033432
+Budapest - Számadó utca 1.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1016;Budapest;Számadó utca 1.       ;13503;47.48613,19.039867
+Budapest - Marczibányi tér 5.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1022;Budapest;Marczibányi tér 5.       ;13504;47.51405,19.021175
+Budapest - Fény utca 6. (Auguszt cukrászda)     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1024;Budapest;Fény utca 6. (Auguszt cukrászda)     ;13505;47.508993,19.024313
+Budapest - Keleti Károly utca 37.      ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1024;Budapest;Keleti Károly utca 37.      ;13506;47.512795,19.025161
+Budapest - Pusztaszeri út 59.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1025;Budapest;Pusztaszeri út 59.       ;13507;47.52504,19.023562
+Budapest - Vérhalom tér 8.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1025;Budapest;Vérhalom tér 8.       ;13508;47.520687,19.02367
+Budapest - Kelemen László (Pasaréti tér) utca     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1026;Budapest;Kelemen László (Pasaréti tér) utca     ;13509;47.523364,18.992884
+Budapest - Ganz utca        ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1027;Budapest;Ganz utca        ;13510;47.511024,19.03737
+Budapest - Kossuth Lajos utca 2.      ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1028;Budapest;Kossuth Lajos utca 2.      ;13511;47.551918,18.963912
+Budapest - Bécsi út 126.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1034;Budapest;Bécsi út 126.       ;13512;47.537972,19.032227
+Budapest - Mátyás király út 19.      ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1039;Budapest;Mátyás király út 19.      ;13513;47.585687,19.048763
+Budapest - Alkotmány utca 29.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1054;Budapest;Alkotmány utca 29.       ;13514;47.507973,19.05389
+Budapest - Podmaniczky utca 111.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1062;Budapest;Podmaniczky utca 111.       ;13515;47.516555,19.072223
+Budapest - Teréz körút 48.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1066;Budapest;Teréz körút 48.       ;13516;47.508357,19.058845
+Budapest - Erzsébet körút 40-42.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1073;Budapest;Erzsébet körút 40-42.       ;13517;47.501698,19.068113
+Budapest - Rózsák tere        ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1074;Budapest;Rózsák tere        ;13518;47.501407,19.076525
+Budapest - Nefelejcs utca 34.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1078;Budapest;Nefelejcs utca 34.       ;13519;47.504078,19.080485
+Budapest - II. János Pál pápa tér 18.    ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1081;Budapest;II. János Pál pápa tér 18.    ;13520;47.495857,19.0806
+Budapest - Szent László tér 29.      ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1102;Budapest;Szent László tér 29.      ;13521;47.486832,19.130947
+Budapest - Szentimrey utca        ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1104;Budapest;Szentimrey utca        ;13522;47.477506,19.162755
+Budapest - Gyakorló köz 7.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1106;Budapest;Gyakorló köz 7.       ;13523;47.503024,19.141785
+Budapest - Menyecske utca 2.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1112;Budapest;Menyecske utca 2.       ;13524;47.461887,19.014903
+Budapest - Bártfai utca 52.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1115;Budapest;Bártfai utca 52.       ;13525;47.467335,19.031817
+Budapest - Hengermalom út 56.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1117;Budapest;Hengermalom út 56.       ;13526;47.461117,19.05343
+Budapest - Etele út 32c       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1119;Budapest;Etele út 32c       ;13527;47.463142,19.033765
+Budapest - Fegyvernek utca (Mezőkövesd út 4.)     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1119;Budapest;Fegyvernek utca (Mezőkövesd út 4.)     ;13528;47.44096,19.037725
+Budapest - Gaál József út 12a      ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1122;Budapest;Gaál József út 12a      ;13529;47.506458,19.011792
+Budapest - Jagelló út 20b       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1123;Budapest;Jagelló út 20b       ;13530;47.48836,19.020568
+Budapest - Rácz Aladár út 2. (Márton Áron tér)  ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1124;Budapest;Rácz Aladár út 2. (Márton Áron tér)  ;13531;47.481953,18.998305
+Budapest - Csizma utca 2.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1139;Budapest;Csizma utca 2.       ;13532;47.534292,19.080798
+Budapest - Béke tér 1c       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1139;Budapest;Béke tér 1c       ;13533;47.530877,19.081202
+Budapest - Gvadányi utca 87.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1144;Budapest;Gvadányi utca 87.       ;13534;47.51682,19.14356
+Budapest - Pétervárad utca 7.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1145;Budapest;Pétervárad utca 7.       ;13535;47.518437,19.108828
+Budapest - Stefánia út 75.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1146;Budapest;Stefánia út 75.       ;13536;47.50715,19.0969
+Budapest - Szilas park 2.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1152;Budapest;Szilas park 2.       ;13537;47.54997,19.139537
+Budapest - Széchenyi tér 13.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1153;Budapest;Széchenyi tér 13.       ;13538;47.562388,19.119977
+Budapest - Sashalmi tér 150.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1163;Budapest;Sashalmi tér 150.       ;13539;47.509852,19.171955
+Budapest - Jókai Mór utca 2.      ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1165;Budapest;Jókai Mór utca 2.      ;13540;47.510518,19.190688
+Budapest - Uszoda utca 2.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1173;Budapest;Uszoda utca 2.       ;13541;47.478665,19.234088
+Budapest - Pesti út 168a       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1173;Budapest;Pesti út 168a       ;13542;47.480288,19.254495
+Budapest - Nagyenyed utca 2.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1182;Budapest;Nagyenyed utca 2.       ;13543;47.432632,19.2069
+Budapest - Thököly út 3.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1183;Budapest;Thököly út 3.       ;13544;47.443633,19.181155
+Budapest - Nemes utca 16.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1188;Budapest;Nemes utca 16.       ;13545;47.405153,19.18809
+Budapest - Hofherr Albert utca 42.      ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1194;Budapest;Hofherr Albert utca 42.      ;13546;47.437217,19.14543
+Budapest - Árpád utca 7.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1195;Budapest;Árpád utca 7.       ;13547;47.453364,19.149468
+Budapest - Vörösmarty út        ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1201;Budapest;Vörösmarty út        ;13548;47.435927,19.102978
+Budapest - Bíró Mihály utca 18.      ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1203;Budapest;Bíró Mihály utca 18.      ;13549;47.43922,19.1026
+Budapest - Kossuth Lajos utca 105.      ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1211;Budapest;Kossuth Lajos utca 105.      ;13550;47.423795,19.06866
+Budapest - II. Rákóczi Ferenc utca 69.     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1211;Budapest;II. Rákóczi Ferenc utca 69.     ;13551;47.43318,19.067878
+Budapest - Kossuth Lajos utca 103.      ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1212;Budapest;Kossuth Lajos utca 103.      ;13552;47.423558,19.069747
+Budapest - Anna utca (Leányka utca)      ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1221;Budapest;Anna utca (Leányka utca)      ;13553;47.43249,19.036767
+Budapest - Városház tér 11.       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;1221;Budapest;Városház tér 11.       ;13554;47.426338,19.040955
+Érd - Petőfi Sándor utca 76.     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;2030;Érd;Petőfi Sándor utca 76.     ;13555;47.383345,18.905327
+Érd - Erkel Ferenc utca 3.     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;2030;Érd;Erkel Ferenc utca 3.     ;13556;47.382772,18.921543
+Piliscsaba - Templom tér 2.      ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;2081;Piliscsaba;Templom tér 2.      ;13557;47.632045,18.825473
+Pilisvörösvár - Budai út       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;2085;Pilisvörösvár;Budai út       ;13558;47.615787,18.920168
+Martonvásár - Kodály Zoltán utca 2.     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;2462;Martonvásár;Kodály Zoltán utca 2.     ;13559;47.314875,18.786335
+Székesfehérvár - Király sor       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;8000;Székesfehérvár;Király sor       ;13560;47.196372,18.419948
+Székesfehérvár - Mátyás Király körút      ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;8000;Székesfehérvár;Mátyás Király körút      ;13561;47.19008,18.4069
+Tatabánya - Turul utca       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;2800;Tatabánya;Turul utca       ;13562;47.578822,18.392892
+Salgótarján - Kassai sor       ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;3100;Salgótarján;Kassai sor       ;13563;48.105935,19.806593
+Gyöngyös - Kármán József utca      ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;3200;Gyöngyös;Kármán József utca      ;13564;47.783053,19.93077
+Miskolc - Palóczy László utca 7.     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;3500;Miskolc;Palóczy László utca 7.     ;13565;48.105408,20.780647
+Miskolc - Dayka Gábor utca 2.     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;3500;Miskolc;Dayka Gábor utca 2.     ;13566;48.10432,20.775645
+Nyíregyháza - Dob utca      ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;4400;Nyíregyháza;Dob utca      ;13567;47.960873,21.712573
+Ajak - Hajnal utca      ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;4524;Ajak;Hajnal utca      ;13568;48.177991,22.061686
+Szolnok - Városmajor út 57.     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;5000;Szolnok;Városmajor út 57.     ;13569;47.1811,20.206453
+Kecskemét - Deák Ferenc tér 3.     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;6000;Kecskemét;Deák Ferenc tér 3.     ;13570;46.906547,19.688987
+Szeged - Kossuth Lajos sugárút 47.     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;6724;Szeged;Kossuth Lajos sugárút 47.     ;13571;46.260008,20.140325
+Szeged - Petőfi Sándor sugárút 74.     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;6725;Szeged;Petőfi Sándor sugárút 74.     ;13572;46.244577,20.133648
+Pécs - Berze Nagy János út     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;7623;Pécs;Berze Nagy János út     ;13573;46.06461,18.20226
+Veszprém - Óváros tér 20.     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;8200;Veszprém;Óváros tér 20.     ;13574;47.094625,17.906972
+Nagykanizsa - Gábor Áron utca 6. ( Ipari park bejárat); ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;8800;Nagykanizsa;Gábor Áron utca 6. ( Ipari park bejárat);13575;46.466853,17.000233
+Zalaegerszeg - ZalaZone fogadó épület      ; ;;;;;;22 kW;1;2;Ingyenes;8900;Zalaegerszeg;ZalaZone fogadó épület      ;13576;46.889543,16.837247
+Zalaegerszeg - ZalaZone szervíz épület       ; ;;;;;;22 kW;1;2;Ingyenes;8900;Zalaegerszeg;ZalaZone szervíz épület       ;13577;46.891908,16.831947
+Zalaegerszeg - Kosztolányi Dezső tér 27.     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;8900;Zalaegerszeg;Kosztolányi Dezső tér 27.     ;13578;46.841908,16.849458
+Zalaegerszeg - Budai Nagy Antal út     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;8900;Zalaegerszeg;Budai Nagy Antal út     ;13579;46.8474,16.845357
+Sopron - Kuruc krt. (Szív utca)     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;9400;Sopron;Kuruc krt. (Szív utca)     ;13580;47.677903,16.60242
+Szombathely - Hollán Ernő utca 3.     ; ;;;;22 kW;1;22 kW;1;2;120Ft/kWh;9700;Szombathely;Hollán Ernő utca 3.     ;13581;47.230273,16.618052
+Budapest - Mechwart tér;DBT;Quick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;1024;Budapest;Mechwart tér ;23001;47.511544,19.031466
+Sopron - Révai Miklós út;DBT;uick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;9400;Sopron;Révai Miklós út ;23002;47.694058,16.578055
+Tamási - Szabadság utca;DBT;uick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;7090;Tamási;Szabadság utca ;23003;46.636416,18.281638
+Budapest M3 Szilas pihenő;DBT;uick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;1152;Budapest;Szilas pihenő M3 ;23004;47.566198,19.147583
+Székesfehérvár - Huszár utca;DBT;uick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;8000;Székesfehérvár;Huszár utca ;23005;47.190141,18.425153
+Keszthely - Skála köz;DBT;uick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;8360;Keszthely;Skála köz ;23006;46.768707,17.247343
+Nyíregyháza - Szabadság tér;DBT;uick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;4400;Nyíregyháza;Szabadság tér ;23007;47.957228,21.719411
+Dunaújváros - Martinovics Ignác út;DBT;uick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;2400;Dunaújváros;Martinovics Ignác út ;23008;46.974436,18.934917
+Eger - Knézich Károly utca;DBT;uick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;3300;Eger;Knézich Károly utca ;23009;47.904887,20.376224
+Tokaj - Csokonai út;DBT;uick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;3910;Tokaj;Csokonai út ;23010;48.112541,21.412592
+Kiskunhalas - Bethlen Gábor tér;DBT;uick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;6400;Kiskunhalas;Bethlen Gábor tér ;23011;46.430354,19.481483
+Nagykanizsa - Hevesi Sándor út;DBT;uick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;8800;Nagykanizsa;Hevesi Sándor út ;23012;46.459301,17.009777
+Pécs - Lahti utca;DBT;uick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;7600;Pécs;Lahti utca ;23013;46.041105,18.214032
+Békéscsaba - Szabó Dezső utca;DBT;uick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;5600;Békéscsaba;Szabó Dezső utca ;23014;46.676543,21.0883109
+Csorna - Mártírok tere;DBT;uick Charger Tri-Standard;22 kW;1;44 kW;1;44 kW;1;2;100Ft/perc;9300;Csorna;Mártírok tere ;23015;47.610776,17.250375
+Budapest IX - Nagyvárad tér;DBT;Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;1097;Budapest;Albert Flórián út 1  ;23016;47.477517,19.090627
+Budapest III - Madzsar József utca;DBT;Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;1039;Budapest;Madzsar József utca ;23017;47.59892,19.056898
+Budapest - Budaörsi út;DBT;Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;1118;Budapest;Budaörsi út 113.;23018;47.467499,19.016824
+Balatonkeresztúr - M7 bal;DBT;Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;8648;Balatonkeresztúr;M7 autópálya 167 km (bal) ;23019;46.683372,17.380319
+Balatonkeresztúr - M7 jobb;DBT;Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;8648;Balatonkeresztúr;M7 autópálya 167 km (jobb) ;23020;46.685041,17.378814
+Mocsa - Igmándi pihenő bal Budapest;DBT;Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;2911;Mocsa;M1 autópálya Igmándi pihenő (bal) ;23021;47.673008,18.114288
+Mocsa - Igmándi pihenő jobb Győr;DBT;Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;2911;Mocsa;M1 autópálya Igmándi pihenő (jobb) ;23022;47.673763,18.114263
+Lébény - M1 Autópálya mérnökség;DBT;Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;9155;Lébény;M1 Autópálya mérnökség ;23023;47.751337,17.412117
+Miskolc - Szeles út;DBT;Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;3526;Miskolc;Szeles út ;23024;48.106706,20.790759
+Szolnok - Táncsics Mihály utca;DBT;Compact 50;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;5000;Szolnok;Táncsics Mihály utca ;23025;47.174222,20.196967
