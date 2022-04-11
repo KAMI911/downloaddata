@@ -1,167 +1,706 @@
-;;;Csatlakozók / töltési módok;;;;;;;;Töltőpont címe;;;;
-Töltőpont neve;Gyártó;Típus;Teljesítmény (Type 2);Darab (Type 2);Teljesítmény (CCS);Darab (CCS);Teljesítmény (CHAdeMO);Darab (CHAdeMO);Kapacitás;Szolgáltatás díja (bruttó);Irányító szám;Település;Cím;Mobiliti azonosító;GPS koordináták
-Baja - Mixtea;Efacec;QC45;43 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;6500;Baja;Paprika utca 20.;20028;46.1812551,18.9741873
-Baja - Petőfi-sziget. Május 1. sétány;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6500;Baja;Petőfi-sziget. Május 1. sétány ;10011;46.1773807,18.9463668
-Baja - Rókus utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6500;Baja;Rókus utca ;10012;46.1742292,18.9595150
-Baja - Szegedi út;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6500;Baja;Szegedi út 105 ;10010;46.1842601,18.9732529
-Balástya - Family Hotel;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6764;Balástya;M5 147km - Family Hotel ;10048;46.4044517,19.9743844
-Balástya - Family Hotel;Efacec;QC45;43 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;6764;Balástya;M5 147km - Family Hotel ;20004;46.4044517,19.9743844
-Békéscsaba - Andrássy út;Efacec;QC45;43 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;5600;Békéscsaba;Andrássy út 46. ;20027;46.6748120,21.0873070
-Békéscsaba - Gyulai utca. Sportcsarnok;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;5600;Békéscsaba;Gyulai utca 30. ;10017;46.6818733,21.1139159
-Békéscsaba - Kolozsvári utca. Jézus Szíve Templom;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;5600;Békéscsaba;Kolozsvári utca 24. ;10018;46.6681510,21.0672957
-Békéscsaba - Szabó Pál tér. Lencsési Általános Iskola;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;5600;Békéscsaba;Szabó Pál tér 1. ;10019;46.6666523,21.1141890
-Bordány - Park tér;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6975;Bordány;Park tér 1.;10097;46.3219391,19.9222874
-Budakalász - Omszk park;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;2045;Budakalász;Omszk park 1. - Auchan;10171;47.6122362,19.0612384
-Budakalász - Omszk park;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;2045;Budakalász;Omszk park 1. - Auchan;10172;47.6122362,19.0612384
-Budakalász - Omszk park;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;2045;Budakalász;Omszk park 1. - Auchan;20036;47.6122362,19.0612384
-Budaörs - Sport utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;2040;Budaörs;Sport utca 2-4. - Auchan ;10157;47.4540655,18.9430854
-Budaörs - Sport utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;2040;Budaörs;Sport utca 2-4. - Auchan ;10158;47.4540655,18.9430854
-Budaörs - Sport utca;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;2040;Budaörs;Sport utca 2-4. - Auchan ;20035;47.4540655,18.9430854
-Budaörs  - Baross utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;2040;Budaörs;Baross u. 146. - Decathlon ;10058;47.4531787,18.9366290
-Budaörs  - Baross utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;2040;Budaörs;Baross u. 146. - Decathlon ;10059;47.4531787,18.9366290
-Budaörs  - Baross utca;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;2040;Budaörs;Baross u. 146. - Decathlon ;20005;47.4531787,18.9366290
-Budaörs  - Baross utca;Efacec;QC45;43 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;2040;Budaörs;Baross u. 146. - Decathlon ;20026;47.45335,18.93679
-Budapest - Alkotmány utca;DBT;Quick Charger;43 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;1054;Budapest;Alkotmány utca 8. ;25001;47.5075070,19.0506020
-Budapest - KÖKI Terminál Bevásárlóközpont;Ensto;EVB200;22 kW;2;;;;;2;100Ft/kWh;1191;Budapest;Vak Bottyán u. 75/A-C - KÖKI Terminál Bevásárlóközpont ;10038;47.4636075,19.1450937
-Budapest - KÖKI Terminál Bevásárlóközpont;Ensto;EVB200;22 kW;2;;;;;2;100Ft/kWh;1191;Budapest;Vak Bottyán u. 75/A-C - KÖKI Terminál Bevásárlóközpont ;10039;47.4636075,19.1450937
-Budapest - KÖKI Terminál Bevásárlóközpont;Circontrol;Post eVolve Smart;22 kW;2;;;;;2;100Ft/kWh;1191;Budapest;Vak Bottyán u. 75/A-C - KÖKI Terminál Bevásárlóközpont ;10040;47.4636075,19.1450937
-Budapest - KÖKI Terminál Bevásárlóközpont;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;1191;Budapest;Vak Bottyán u. 75/A-C - KÖKI Terminál Bevásárlóközpont ;20001;47.4636075,19.1450937
-Budapest IV - Megyeri út;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;1048;Budapest;Megyeri út 236. - SPAR ;10123;47.593368,19.118922
-Budapest X - Sibrik Miklós utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;1103;Budapest;Sibrik Miklós utca 30. - INTERSPAR ;10116;47.4707729,19.1567725
-Budapest X - Sibrik Miklós utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;1103;Budapest;Sibrik Miklós utca 30. - INTERSPAR ;10117;47.4706278,19.1566009
-Budapest X - Sibrik Miklós utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;1103;Budapest;Sibrik Miklós utca 30. - INTERSPAR ;10118;47.4704393,19.1563863
-Budapest XVIII - Alacskai út;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;1182;Budapest;Alacskai út 3. - SPAR ;10122;47.4160753,19.2075831
-Budapest XX - Széchenyi utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;1201;Budapest;Széchenyi utca 1. - INTERSPAR ;10119;47.4392947,19.1006551
-Budapest XX - Széchenyi utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;1201;Budapest;Széchenyi utca 1. - INTERSPAR ;10120;47.4393691,19.1007919
-Budapest XX - Széchenyi utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;1201;Budapest;Széchenyi utca 1. - INTERSPAR ;10121;47.4394235,19.1009153
-Cegléd - Kossuth tér;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;2700;Cegléd;Kossuth tér ;10021;47.1698637,19.7948887
-Cegléd - Köztársaság utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;2700;Cegléd;Köztársaság utca 49. ;10023;47.1810136,19.8080667
-Cegléd - Szabadság tér;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;2700;Cegléd;Szabadság tér ;10022;47.1705831,19.7989727
-Csongrád - Dózsa György tér;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6640;Csongrád;Dózsa György tér 1/a. ;10004;46.7099887,20.1479625
-Csömör - Határ út;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;2141;Csömör;Határ út 6. - Decathlon ;10069;47.5387982,19.2461685
-Csömör - Határ út;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;2141;Csömör;Határ út 6. - Decathlon ;20015;47.5387982,19.2461685
-Debrecen - Balmazújvárosi út;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;4002;Debrecen;Balmazújvárosi út 11. - Decathlon ;10068;47.5433713,21.5943298
-Debrecen - Balmazújvárosi út;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;4002;Debrecen;Balmazújvárosi út 11. - Decathlon ;20014;47.5433713,21.5943298
-Debrecen - Derék utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;4033;Debrecen;Derék utca 68/b - SPAR ;10103;47.521642,21.599577
-Debrecen - Kishatár utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;4031;Debrecen;Kishatár utca 11. - Auchan ;10149;47.5402569,21.5858187
-Debrecen - Kishatár utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;4031;Debrecen;Kishatár utca 11. - Auchan ;10150;47.5402515,21.5857249
-Debrecen - Kishatár utca;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;4031;Debrecen;Kishatár utca 11. - Auchan ;20021;47.5402542,21.5856227
-Diósd - Balatoni út;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;2049;Diósd;Balatoni út 2/A - INTERSPAR;10125;47.4043639,18.9475268
-Diósd - Balatoni út;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;2049;Diósd;Balatoni út 2/A - INTERSPAR;10126;47.4044565,18.947559
-Diósd - Balatoni út;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;2049;Diósd;Balatoni út 2/A - INTERSPAR;10127;47.404422,18.9474544
-Dunakeszi - Nádas utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;2120;Dunakeszi;Nádas u. 6. - Auchan;10179;47.606804,19.115060
-Dunakeszi - Nádas utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;2120;Dunakeszi;Nádas u. 6. - Auchan;10180;47.606804,19.115060
-Dunakeszi - Nádas utca;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;2120;Dunakeszi;Nádas u. 6. - Auchan;20040;47.606804,19.115060
-Dunakeszi - Pallag utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;2120;Dunakeszi;Pallag utca 3. - Decathlon ;10060;47.6070202,19.1122499
-Dunakeszi - Pallag utca;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;2120;Dunakeszi;Pallag utca 3. - Decathlon ;20006;47.6070202,19.1122499
-Dunaújváros - Kandó Kálmán tér;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;2400;Dunaújváros;Kandó Kálmán tér 12. - Decathlon ;10066;46.9622837,18.9066660
-Dunaújváros - Kandó Kálmán tér;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;2400;Dunaújváros;Kandó Kálmán tér 12. - Decathlon ;20012;46.9622837,18.9066660
-Eger - Hadnagy utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;3300;Eger;Hadnagy utca ;10034;47.8948883,20.3831703
-Eger - Kacsapart utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;3300;Eger;Kacsapart utca ;10033;47.9017724,20.3714418
-Eger - Kallómalom utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;3300;Eger;Kallómalom utca ;10035;47.9181067,20.3743851
-Eger - Klapka György utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;3300;Eger;Klapka György utca ;10032;47.8982499,20.3777254
-Eger - Knézich Károly utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;3300;Eger;Knézich Károly utca ;10036;47.9064687,20.3732372
-Érd - Iparos utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;2030;Érd;Iparos utca - INTERSPAR ;10160;47.41347,18.883054
-Érd - Iparos utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;2030;Érd;Iparos utca - INTERSPAR ;10161;47.41347,18.883054
-Érd - Iparos utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;2030;Érd;Iparos utca - INTERSPAR ;10124;47.41347,18.883054
-Fót - Fehérkő utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;2151;Fót;Fehérkő utca 1 - Auchan ;10151;47.5821853,19.162302
-Fót - Fehérkő utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;2151;Fót;Fehérkő utca 1 - Auchan ;10152;47.5820858,19.1624455
-Fót - Fehérkő utca;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;2151;Fót;Fehérkő utca 1. - Auchan ;20022;47.5822513,19.1621639
-Gelej - M3 jobb pihenő;Efacec;QC45;43 kW;1;50 kW;1;50 kW;1;2;150Ft/kWh;3444;Gelej;M3 jobb pihenő 142 km - Shell;25004;47.8416031,20.7444243
-Győr - Királyszék út;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;9012;Győr;Királyszék út 31. - Decathlon ;10067;47.6470243,17.6237398
-Győr - Királyszék út;Tritium;Veefil-RT;43 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;9012;Győr;Királyszék út 31. - Decathlon ;20013;47.6470243,17.6237398
-Hajdúböszörmény - Téglási utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;4220;Hajdúböszörmény;Téglási utca 2. ;10054;47.6739632,21.5145650
-Hatvan - Sport utca;Efacec;QC45;43 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;3000;Hatvan;Sport utca 2. - Decathlon ;20025;47.6586430,19.7172140
-Hódmezővásárhely - Hősök tere;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6800;Hódmezővásárhely;Hősök tere ;10003;46.4126630,20.3171270
-Kalocsa - Bátyai út;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6300;Kalocsa;Bátyai út ;10013;46.5205078,18.9769584
-Kecskemét - Jókai utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6000;Kecskemét;Jókai utca 31.;10129;46.91446,19.689125
-Kecskemét - Katona József tér;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6000;Kecskemét;Katona József tér 2.;10130;46.904961,19.692608
-Kecskemét - Izsáki út;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6000;Kecskemét;Dunaföldvári út 2/b - Decathlon ;10064;46.8852912,19.6399127
-Kecskemét - Izsáki út;Tritium;Veefil-RT;43 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;6000;Kecskemét;Dunaföldvári út 2/b - Decathlon ;20010;46.8852912,19.6399127
-Kecskemét - Jász utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;6000;Kecskemét;Jász utca 26. - SPAR ;10108;46.9074518,19.6771547
-Kecskemét - Március 15-e utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;6000;Kecskemét;Március 15-e utca 5/a - SPAR ;10107;46.918738,19.673711
-Kecskemét - Szultán utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6000;Kecskemét;Szultán utca 2-4. ;10006;46.8988324,19.6903036
-Keszthely - Tapolcai út;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;8360;Keszthely;Tapolcai út - INTERSPAR ;10101;46.773923,17.267416
-Kiskunfélegyháza - Kazinczy utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6100;Kiskunfélegyháza;Kazinczy utca 1. ;10007;46.7122485,19.8486793
-Kiskunfélegyháza - Kossuth Lajos utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6100;Kiskunfélegyháza;Kossuth Lajos utca 14.  ;10008;46.7101837,19.8431237
-Kiskunfélegyháza - Szent János tér;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6100;Kiskunfélegyháza;Szent János tér 4. ;10009;46.7104639,19.8492360
-M7Bistro Albapark;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;8000;Székesfehérvár;M7 autópálya 60. km. Fehérvári pihenő - Albapark ;10098;47.1773700,18.4760740
-M7Bistro Albapark;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;8000;Székesfehérvár;M7 autópálya 60. km. Fehérvári pihenő - Albapark ;20018;47.1773700,18.4760740
-Maglód - Eszterházy János utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;2234;Maglód;Eszterházy J. u. 1. - Auchan;10177;47.459351,19.333441
-Maglód - Eszterházy János utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;2234;Maglód;Eszterházy J. u. 1. - Auchan;10178;47.459351,19.333441
-Maglód - Eszterházy János utca;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;2234;Maglód;Eszterházy J. u. 1. - Auchan;20039;47.459351,19.333441
-Maglód - Kállai Pál u.;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;2234;Maglód;Kállai Pál utca 2. - Decathlon ;10070;47.4605020,19.3382160
-Maglód - Kállai Pál u.;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;2234;Maglód;Kállai Pál utca 2. - Decathlon ;20016;47.4605020,19.3382160
-Makó - Hollósy Kornélia utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6900;Makó;Hollósy Kornélia utca 2. ;10024;46.2186702,20.4744368
-Makó - Ipari Park. Inkubátorház;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6900;Makó;Ipari Park. Inkubátorház ;10026;46.2282497,20.5090801
-Makó - Szent János tér;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6900;Makó;Szent János tér 9. ;10025;46.2151774,20.4709462
-Mezőtúr - Földvári út;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;5400;Mezőtúr;Földvári út 6 ;10016;47.0026500,20.6162557
-Miskolc - József Attila utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;3527;Miskolc;József Attila utca 83. - Decathlon ;10062;48.1063579,20.8350829
-Miskolc - József Attila utca;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;3527;Miskolc;József Attila utca 83. - Decathlon ;20008;48.1063579,20.8350829
-Miskolc - Pesti út;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;3516;Miskolc;Pesti út 9. - Auchan ;10154;48.0579555,20.7991255
-Miskolc - Pesti út;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;3516;Miskolc;Pesti út 9. - Auchan ;20023;48.057796,20.7990182
-Mohács - Színház utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;7700;Mohács;Színház utca ;10030;45.9892967,18.6881180
-Mohács - Színház utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;7700;Mohács;Színház utca ;10031;45.9892967,18.6881180
-Monor - Bocskai utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;2200;Monor;Bocskai utca 2. ;10015;47.3498190,19.4474546
-Monor - Deák Ferenc utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;2200;Monor;Deák Ferenc utca 1. ;10014;47.3522246,19.4455116
-Nyíregyháza - Korányi utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;4400;Nyíregyháza;Korányi Frigyes utca 1. - INTERSPAR ;10104;47.9718037,21.7278388
-Nyíregyháza - Korányi utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;4400;Nyíregyháza;Korányi Frigyes utca 1. - INTERSPAR ;10105;47.9718154,21.7277034
-Nyíregyháza - Korányi utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;4400;Nyíregyháza;Korányi Frigyes utca 1. - INTERSPAR ;10106;47.9718091,21.7277731
-Orosháza - Előd utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;5900;Orosháza;Előd utca ;10083;46.5591317,20.6682113
-Orosháza - Fasor utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;5900;Orosháza;Fasor utca ;10081;46.5669600,20.6290900
-Orosháza - Gyopárosi út;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;5900;Orosháza;Gyopárosi út ;10082;46.5627700,20.6378300
-Solymár - Szent Flórián utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;2082;Solymár;Szent Flórián utca 2. - Auchan;10173;47.599009,18.960870
-Solymár - Szent Flórián utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;2082;Solymár;Szent Flórián utca 2. - Auchan;10174;47.599009,18.960870
-Solymár - Szent Flórián utca;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;2082;Solymár;Szent Flórián utca 2. - Auchan;20037;47.599009,18.960870
-Sopron - Selmeci utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;9400;Sopron;Selmeci utca 15-17. - INTERSPAR ;10115;47.689749,16.583657
-Sormás - István Hotel;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;8881;Sormás;Külterület 28. - István Hotel ;10045;46.4606529,16.9067555
-Sormás - István Hotel;Circontrol;Post eVolve Smart;22 kW;2;;;;;2;100Ft/kWh;8881;Sormás;Külterület 28. - István Hotel ;10046;46.4606529,16.9067555
-Sormás - István Hotel;Schneider;EVLink Parking;22 kW;2;;;;;2;100Ft/kWh;8881;Sormás;Külterület 28. - István Hotel ;10047;46.4606529,16.9067555
-Sormás - István Hotel;Efacec;QC45;43 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;8881;Sormás;Külterület 28. - István Hotel ;20002;46.4606529,16.9067555
-Sormás - István Hotel;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;8881;Sormás;Külterület 28. - István Hotel ;20003;46.4606529,16.9067555
-Szarvas - Szabadság út;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;5540;Szarvas;Szabadság út 30/1 ;10055;46.8625752,20.5481780
-Szarvas - Szabadság út;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;5540;Szarvas;Szabadság út 30/1 ;10056;46.8625752,20.5481780
-Szeged - Kossuth Lajos Sugárút;Siemens;CPC50;43 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;6727;Szeged;Kossuth Lajos Sugárút 68. ;20019;46.2622004,20.1359854
-Szeged - Szentháromság utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;6725;Szeged;Szentháromság utca 68.;10100;46.242944,20.139308
-Szeged - Zápor utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;6728;Szeged;Zápor utca 4. - Auchan ;10148;46.2747452,20.1028761
-Szeged - Zápor utca;Tritium;Veefil-RT;22 kW;1;50 kW;1;50 kW;1;2;100Ft/perc (DC), 100Ft/kWh (AC);6728;Szeged;Zápor utca 4. - Auchan ;20020;46.2747776,20.1028292
-Székesfehérvár - Holland fasor;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;8000;Székesfehérvár;Holland fasor 3. - Decathlon ;10061;47.1495802,18.4277008
-Székesfehérvár - Holland fasor;Tritium;Veefil-RT;43 kW;1;50 kW;1;50 kW;1;2;100Ft/perc;8000;Székesfehérvár;Holland fasor 3. - Decathlon ;20007;47.1495802,18.4277008
-Székesfehérvár - M7 autópálya 59 kmsz;Efacec;QC45;43 kW;1;50 kW;1;50 kW;1;2;150Ft/kWh;8000;Székesfehérvár;M7 autópálya 59. kmsz - Shell;25003;47.1768302,18.4765401
-Szigetszentmiklós - Háros utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;2310;Szigetszentmiklós;Háros utca 120. - Auchan;10169;47.3824416,19.0282026
-Szigetszentmiklós - Háros utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;2310;Szigetszentmiklós;Háros utca 120. - Auchan;10170;47.3824416,19.0282026
-Szigetszentmiklós - Háros utca;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;2310;Szigetszentmiklós;Háros utca 120. - Auchan;20034;47.3824416,19.0282026
-Szilvásvárad - La Contessa Kastélyhotel;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;3348;Szilvásvárad;Park utca 6. ;10037;48.1055129,20.3914723
-Szolnok - Mátyás király út;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;5000;Szolnok;Mátyás király út 29. - INTERSPAR ;10109;47.1802706,20.182208
-Szolnok - Mátyás király út;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;5000;Szolnok;Mátyás király út 29. - INTERSPAR ;10110;47.1801995,20.1821007
-Szolnok - Mátyás király út;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;5000;Szolnok;Mátyás király út 29. - INTERSPAR ;10111;47.1801156,20.1820095
-Szombathely - Bálványkő utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;9700;Szombathely;Bálványkő utca 3. - Decathlon ;10065;47.2425197,16.6570391
-Szombathely - Bálványkő utca;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;9700;Szombathely;Bálványkő utca 3. - Decathlon ;20011;47.2425197,16.6570391
-Szombathely - Borostyán parkoló;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;9700;Szombathely;Kisfaludy utca. Borostyán parkoló ;10094;47.2331110,16.6262220
-Szombathely - Csónakázó-tó;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;9700;Szombathely;Kenderesi utca. Csónakázó-tó ;10093;47.2342500,16.6028060
-Szombathely - MMIK parkoló;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;9700;Szombathely;Ady tér. MMIK parkoló ;10090;47.2315560,16.6141390
-Szombathely - Uránia udvar;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;9700;Szombathely;Fő tér 24.. Uránia udvar ;10092;47.2317220,16.6222500
-Szombathely - Vasútállomás;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;9700;Szombathely;Éhen Gyula tér. Vasútállomás ;10091;47.2378330,16.6315191
-Tapolca - Déli Városkapu parkoló;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;8300;Tapolca;Déli Városkapu parkoló ;10053;46.8777784,17.4404746
-Tapolca - Fő tér;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;8300;Tapolca;Fő tér 2. ;10052;46.8828348,17.4399997
-Tata - Gottwald Hotel;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;2890;Tata;Fekete utca 1. - Gottwald Hotel ;10080;47.6273320,18.3317900
-Tata - Gottwald Hotel;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;2890;Tata;Fekete utca 1. - Gottwald Hotel ;20017;47.6273320,18.3317900
-Tata - Május 1. út;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;2890;Tata;Május 1. út - INTERSPAR;10075;47.6510718,18.3138378
-Tata - Május 1. út;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;2890;Tata;Május 1. út - INTERSPAR;10076;47.6509887,18.3139411
-Tata - Május 1. út;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;2890;Tata;Május 1. út - INTERSPAR;10077;47.6509083,18.3140551
-Tata - Május 1. út;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;2890;Tata;Május 1. út - INTERSPAR;10078;47.6508252,18.3141892
-Tata - Május 1. út;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;2890;Tata;Május 1. út - INTERSPAR;10079;47.6507294,18.3143354
-Tatabánya - Győri utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;2800;Tatabánya;Győri utca 25. - INTERSPAR ;10112;47.591619,18.38967
-Tatabánya - Győri utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;2800;Tatabánya;Győri utca 25. - INTERSPAR ;10113;47.5914743,18.3897826
-Tatabánya - Győri utca;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;2800;Tatabánya;Győri utca 25. - INTERSPAR ;10114;47.591326,18.3898685
-Törökbálint - Torbágy utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;2045;Törökbálint;Torbágy utca 1. - Auchan ;10155;47.4394705,18.8898542
-Törökbálint - Torbágy utca;Alfen;EVE Double Pro-Line;22 kW;2;;;;;2;100Ft/kWh;2045;Törökbálint;Torbágy utca 1. - Auchan ;10156;47.4393961,18.8900581
-Törökbálint - Torbágy utca;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;2045;Törökbálint;Torbágy utca 1. - Auchan ;20033;47.4396174,18.8895297
-Vác - Althann Mihály Frigyes utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;2600;Vác;Althann Mihály Frigyes u. 1. ;10027;47.7803249,19.1257585
-Vác - Görgey Artúr utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;2600;Vác;Görgey Artúr utca 13 ;10029;47.7790451,19.1306712
-Vác - Köztársaság út;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;2600;Vác;Köztársaság út 3. ;10028;47.7764614,19.1284523
-Vecsés - Fő út;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;2220;Vecsés;Fő út 55. ;10020;47.4077074,19.2811188
-Veszprém - Jutasi út;EVBox;BusinessLine;22 kW;2;;;;;2;100Ft/kWh;8200;Veszprém;Jutasi út 18. - Spar ;10102;47.1077636,17.9107565
-Zalaegerszeg - Balatoni út;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;8900;Zalaegerszeg;Balatoni út 5. - Decathlon ;10063;46.8430211,16.8671331
-Zalaegerszeg - Balatoni út;Tritium;Veefil-RT;;;50 kW;1;50 kW;1;2;100Ft/perc;8900;Zalaegerszeg;Balatoni út 5. - Decathlon ;20009;46.8430211,16.8671331
-Zsombó - Gárdonyi Géza utca;Ensto;EVF200;22 kW;2;;;;;2;100Ft/kWh;6792;Zsombó;Gárdonyi Géza utca 21.;10099;46.32582,19.98151
+Mobiliti azonosító	Töltőpont neve	Kapacitás	power_level	connection_type	Teljesítmény (Type 2)	Darab (Type 2)	Teljesítmény (CCS)	Darab (CCS)	Teljesítmény (CHAdeMO)	Darab (CHAdeMO)	Irányító szám	Település	Cím	GPS koordináták	price
+10003	10003 - Hódmezővásárhely, Hősök tere - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6800	Hódmezővásárhely	Hősök tere	46.412709, 20.317	100 Ft/kWh
+10004	10004 - Csongrád, Dózsa György tér- Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6640	Csongrád	Dózsa György tér 1a	46.709937, 20.147972	100 Ft/kWh
+10006	10006 - Kecskemét, Szultán utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6000	Kecskemét	Szultán utca 2-4.	46.898832, 19.690304	100 Ft/kWh
+10007	10007 - Kiskunfélegyháza, Kazinczy utca- Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6100	Kiskunfélegyháza	Kazinczy utca 1.	46.712249, 19.848679	100 Ft/kWh
+10008	10008 - Kiskunfélegyháza, Kossuth Lajos utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6100	Kiskunfélegyháza	Kossuth Lajos utca 14.	46.710184, 19.843124	100 Ft/kWh
+10009	10009 - Kiskunfélegyháza, Szent János tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6100	Kiskunfélegyháza	Szent János tér 4.	46.710464, 19.849236	100 Ft/kWh
+10010	10010 - Baja, Szegedi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6500	Baja	Szegedi út 105.	46.18426, 18.973253	100 Ft/kWh
+10011	10011 - Baja, Petőfi-sziget, Május 1. sétány - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6500	Baja	Petőfi-sziget. Május 1. sétány	46.177381, 18.946367	100 Ft/kWh
+10012	10012 - Baja, Rókus utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6500	Baja	Rókus utca	46.174229, 18.959515	100 Ft/kWh
+10013	10013 - Kalocsa, Bátyai út - Mobiliti - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6300	Kalocsa	Bátyai út	46.520508, 18.976958	100 Ft/kWh
+10014	10014 - Monor, Deák Ferenc utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2200	Monor	Deák Ferenc utca 1.	47.352225, 19.445512	100 Ft/kWh
+10015	10015 - Monor, Bocskai utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2200	Monor	Bocskai utca 2.	47.349819, 19.447455	100 Ft/kWh
+10016	10016 - Mezőtúr, Földvári út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5400	Mezőtúr	Földvári út 6.	47.00265, 20.616256	100 Ft/kWh
+10017	10017 - Békéscsaba, Gyulai utca, Sportcsarnok - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5600	Békéscsaba	Gyulai utca 30.	46.681873, 21.113916	100 Ft/kWh
+10018	10018 - Békéscsaba, Kolozsvári utca, Jézus Szíve Templom - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5600	Békéscsaba	Kolozsvári utca 24.	46.668151, 21.067296	100 Ft/kWh
+10019	10019 - Békéscsaba, Lencsési Általános Iskola - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5600	 Békéscsaba	Szabó Pál tér 1.	46.666652, 21.114189	100 Ft/kWh
+10020	10020 - Vecsés, Fő út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2220	Vecsés	Fő út 55.	47.407707, 19.281119	100 Ft/kWh
+10021	10021 - Cegléd, Kossuth tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2700	Cegléd	Kossuth tér	47.169864, 19.794889	100 Ft/kWh
+10022	10022 - Cegléd, Szabadság tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2700	Cegléd	Szabadság tér	47.170583, 19.798973	100 Ft/kWh
+10023	10023 - Cegléd, Köztársaság utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2700	Cegléd	Köztársaság utca 49.	47.180940, 19.807946	100 Ft/kWh
+10024	10024 - Makó, Hollósy Kornélia utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6900	Makó	Hollósy Kornélia utca 2.	46.218665, 20.47418	100 Ft/kWh
+10025	10025 - Makó, Szent János tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6900	Makó	Szent János tér 9.	46.215177, 20.470946	100 Ft/kWh
+10026	10026 - Makó, Ipari Park. Inkubátorház - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6900	Makó	Ipari Park. Inkubátorház	46.228163, 20.509439	100 Ft/kWh
+10027	10027 - Vác, Althann Mihály Frigyes utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2600	Vác	Althann Mihály Frigyes utca 1.	47.780325, 19.125758	100 Ft/kWh
+10028	10028 - Vác, Köztársaság út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2600	Vác	Köztársaság út 3.	47.776461, 19.128452	100 Ft/kWh
+10029	10029 - Vác, Görgey Artúr utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2600	Vác	Görgey Artúr utca 13.	47.779045, 19.130671	100 Ft/kWh
+10030	10030 - Mohács, Színház utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7700	Mohács	Színház utca	45.989301, 18.688248	100 Ft/kWh
+10031	10031 - Mohács - Színház utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7700	Mohács	Színház utca	45.989345, 18.688476	100 Ft/kWh
+10032	10032 - Eger, Klapka György utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3300	Eger	Klapka György utca	47.89825, 20.377725	100 Ft/kWh
+10033	10033 - Eger, Kacsapart utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3300	Eger	Kacsapart utca	47.901772, 20.371442	100 Ft/kWh
+10034	10034 - Eger, Hadnagy utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3300	Eger	Hadnagy utca	47.894888, 20.38317	100 Ft/kWh
+10035	10035 - Eger, Kallómalom utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3300	Eger	Kallómalom utca	47.918107, 20.374385	100 Ft/kWh
+10036	10036 - Eger, Knézich Károly utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3300	Eger	Knézich Károly utca	47.906469, 20.373237	100 Ft/kWh
+10037	10037 - Szilvásvárad, La Contessa Kastélyhotel - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3348	Szilvásvárad	Park utca 6.	48.105623, 20.391307	100 Ft/kWh
+10038	10038 - Budapest, KÖKI Terminál Bevásárlóközpont - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1191	Budapest	Vak Bottyán utca 75A	47.462436, 19.146053	100 Ft/kWh
+10039	10039 - Budapest, KÖKI Terminál Bevásárlóközpont - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1191	Budapest	Vak Bottyán utca 75A	47.462647, 19.14608	100 Ft/kWh
+10040	10040 - Budapest, KÖKI Terminál Bevásárlóközpont - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1191	Budapest	Vak Bottyán utca 75A	47.46322, 19.146123	100 Ft/kWh
+10045	10045 - Sormás, István Hotel - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8881	Sormás	Külterület 28.	46.460676, 16.906741	100 Ft/kWh
+10046	10046 - Sormás, István Hotel - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8881	Sormás	Külterület 28.	46.460671, 16.906665	100 Ft/kWh
+10047	10047 - Sormás, István Hotel - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8881	Sormás	Külterület 28.	46.460659, 16.906569	100 Ft/kWh
+10048	10048 - Balástya, Family Hotel - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6764	Balástya	M5 147km	46.404031, 19.974597	100 Ft/kWh
+10052	10052 - Tapolca, Fő tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8300	Tapolca	Fő tér 2.	46.882867, 17.440276	100 Ft/kWh
+10053	10053 - Tapolca, Déli Városkapu parkoló - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8300	Tapolca	Déli Városkapu parkoló	46.877727, 17.440464	100 Ft/kWh
+10054	10054 - Hajdúböszörmény, Téglási utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4220	Hajdúböszörmény	Téglási utca 2.	47.673809, 21.514429	100 Ft/kWh
+10055	10055 - Szarvas, Szabadság út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5540	Szarvas	Szabadság út 30.	46.8625752, 20.5481780	100 Ft/kWh
+10056	10056 - Szarvas, Szabadság út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5540	Szarvas	Szabadság út 30.	46.862551, 20.548328	100 Ft/kWh
+10058	10058 - Decathlon Budaörs - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2040	Budaörs	Baross utca 146.	47.453201, 18.936816	100 Ft/kWh
+10059	10059 - Decathlon Budaörs - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2040	Budaörs	Baross utca 146.	47.453057, 18.936817	100 Ft/kWh
+10060	10060 - Decathlon Dunakeszi - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2120	Dunakeszi	Pallag utca 3.	47.606781, 19.112584	100 Ft/kWh
+10061	10061 - Decathlon Székesfehérvár - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8000	Székesfehérvár	Holland fasor 3.	47.149986, 18.42763	100 Ft/kWh
+10062	10062 - Decathlon Miskolc - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3527	Miskolc	József Attila utca 83.	48.106054, 20.834912	100 Ft/kWh
+10063	10063 - Decathlon Zalaegerszeg - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8900	Zalaegerszeg	Balatoni út 5.	46.842743, 16.867412	100 Ft/kWh
+10064	10064 - Decathlon Kecskemét - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6000	Kecskemét	Dunaföldvári út 2b	46.885283, 19.640375	100 Ft/kWh
+10065	10065 - Decathlon Szombathely - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9700	Szombathely	Bálványkő utca 3.	47.242352, 16.656974	100 Ft/kWh
+10066	10066 - Decathlon Dunaújváros - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2400	Dunaújváros	Kandó Kálmán tér 12.	46.962097, 18.90626	100 Ft/kWh
+10067	10067 - Decathlon Győr - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9012	Győr	Királyszék út 31.	47.647196, 17.623572	100 Ft/kWh
+10068	10068 - Decathlon Debrecen - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4002	Debrecen	Balmazújvárosi út 11.	47.543436, 21.594362	100 Ft/kWh
+10069	10069 - Decathlon Csömör - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2141	Csömör	Határ út 6.	47.538602, 19.245902	100 Ft/kWh
+10070	10070 - Decathlon Maglód - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2234	Maglód	Kállai Pál utca 2.	47.460313, 19.338121	100 Ft/kWh
+10073	10073 - Paks, Barátság útja - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7030	Paks	Barátság útja	46.615949, 18.845137	100 Ft/kWh
+10074	10074 - Paks, Táncsics Mihály utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7030	Paks	Táncsics Mihály utca	46.621969, 18.856433	100 Ft/kWh
+10075	10075 - Tata, Május 1. út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2890	Tata	Május 1. út	47.6510718, 18.3138378	100 Ft/kWh
+10076	10076 - Tata, Május 1. út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2890	Tata	Május 1. út	47.6509887, 18.3139411	100 Ft/kWh
+10077	10077 - Tata, Május 1. út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2890	Tata	Május 1. út	47.6509083, 18.3140551	100 Ft/kWh
+10078	10078 - Tata, Május 1. út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2890	Tata	Május 1. út	47.6508252, 18.3141892	100 Ft/kWh
+10079	10079 - Tata, Május 1. út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2890	Tata	Május 1. út	47.6507294, 18.3143354	100 Ft/kWh
+10080	10080 - Tata, Gottwald Hotel - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2890	Tata	Fekete utca 1.	47.627355, 18.331738	100 Ft/kWh
+10081	10081 - Orosháza, Fasor utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5900	Orosháza	Fasor utca	46.56696, 20.62909	100 Ft/kWh
+10082	10082 - Orosháza, Gyopárosi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5900	Orosháza	Gyopárosi út	46.56277, 20.63783	100 Ft/kWh
+10083	10083 - Orosháza, Előd utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5900	Orosháza	Előd utca	46.55913, 20.66821	100 Ft/kWh
+10084	10084 - Budapest, Gács utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1138	Budapest	Gács utca 3.	47.556348, 19.079203	100 Ft/kWh
+10085	10085 - Budapest, Gács utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1138	Budapest	Gács utca 3.	47.556361, 19.07913	100 Ft/kWh
+10090	10090 - Szombathely, MMIK parkoló - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9700	Szombathely	Ady tér	47.231582, 16.614133	100 Ft/kWh
+10091	10091 - Szombathely, Vasútállomás - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9700	Szombathely	Éhen Gyula tér	47.237842, 16.631577	100 Ft/kWh
+10092	10092 - Szombathely, Uránia udvar - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9700	Szombathely	Fő tér 24.	47.231671, 16.622232	100 Ft/kWh
+10093	10093 - Szombathely, Csónakázó-tó parkoló - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9700	Szombathely	Kenderesi utca	47.234196, 16.602965	100 Ft/kWh
+10094	10094 - Szombathely, Borostyánkő parkoló - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9700	Szombathely	Kisfaludy utca	47.233139, 16.626238	100 Ft/kWh
+10095	10095 - Paksi Atomerőmű - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7030	Paks	Paksi Atomerőmű	46.574093, 18.849123	100 Ft/kWh
+10097	10097 - Bordány, Park tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6975	Bordány	Park tér 1.	46.3219391, 19.9222874	100 Ft/kWh
+10098	10098 - M7Bistro Albapark - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8000	Székesfehérvár	M7 autópálya 60. km, Fehérvári pihenő	47.177435, 18.476358	100 Ft/kWh
+10099	10099 - Zsombó, Gárdonyi Géza utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6792	Zsombó	Gárdonyi Géza utca 21.	46.32582, 19.98151	100 Ft/kWh
+10100	10100 - Szeged, Szentháromság utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6725	Szeged	Szentháromság utca 68.	46.242944, 20.139308	100 Ft/kWh
+10101	10101 - Keszthely, Tapolcai út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8360	Keszthely	Tapolcai út	46.773923, 17.267416	100 Ft/kWh
+10102	10102 - Veszprém, Jutasi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8200	Veszprém	Jutasi út 18.	47.1077636, 17.9107565	100 Ft/kWh
+10103	10103 - Debrecen, Derék utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4033	Debrecen	Derék utca 68/B	47.521642, 21.599577	100 Ft/kWh
+10104	10104 - Nyíregyháza, Korányi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4400	Nyíregyháza	Korányi Frigyes utca 1.	47.9718037, 21.7278388	100 Ft/kWh
+10105	10105 - Nyíregyháza, Korányi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4400	Nyíregyháza	Korányi Frigyes utca 1.	47.9718154, 21.7277034	100 Ft/kWh
+10106	10106 - Nyíregyháza, Korányi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4400	Nyíregyháza	Korányi Frigyes utca 1.	47.9718091, 21.7277731	100 Ft/kWh
+10107	10107 - Kecskemét, Március 15-e utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6000	Kecskemét	Március 15-e utca 5/A	46.918738, 19.673711	100 Ft/kWh
+10108	10108 - Kecskemét, Jász utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6000	Kecskemét	Jász utca 26.	46.9074518, 19.6771547	100 Ft/kWh
+10109	10109 - Szolnok, Mátyás király út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5000	Szolnok	Mátyás király út 29.	47.1802706, 20.182208	100 Ft/kWh
+10110	10110 - Szolnok, Mátyás király út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5000	Szolnok	Mátyás király út 29.	47.1801995, 20.1821007	100 Ft/kWh
+10111	10111 - Szolnok, Mátyás király út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5000	Szolnok	Mátyás király út 29.	47.1801156, 20.1820095	100 Ft/kWh
+10112	10112 - Tatabánya, Győri utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2800	Tatabánya	Győri utca 25.	47.591619, 18.38967	100 Ft/kWh
+10113	10113 - Tatabánya, Győri utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2800	Tatabánya	Győri utca 25.	47.5914743, 18.3897826	100 Ft/kWh
+10114	10114 - Tatabánya, Győri utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2800	Tatabánya	Győri utca 25.	47.591326, 18.3898685	100 Ft/kWh
+10115	10115 - Sopron, Selmeci utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9400	Sopron	Selmeci utca 15-17.	47.689749, 16.583657	100 Ft/kWh
+10116	10116 - Budapest X, Sibrik Miklós utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1103	Budapest	Sibrik Miklós utca 30.	47.4707729, 19.1567725	100 Ft/kWh
+10117	10117 - Budapest X, Sibrik Miklós utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1103	Budapest	Sibrik Miklós utca 30.	47.4706278, 19.1566009	100 Ft/kWh
+10118	10118 - Budapest X, Sibrik Miklós utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1103	Budapest	Sibrik Miklós utca 30.	47.4704393, 19.1563863	100 Ft/kWh
+10119	10119 - Budapest XX, Széchenyi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1201	Budapest	Széchenyi utca 1.	47.4392947, 19.1006551	100 Ft/kWh
+10120	10120 - Budapest XX, Széchenyi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1201	Budapest	Széchenyi utca 1.	47.4393691, 19.1007919	100 Ft/kWh
+10121	10121 - Budapest XX, Széchenyi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1201	Budapest	Széchenyi utca 1.	47.4394235, 19.1009153	100 Ft/kWh
+10122	10122 - Budapest XVIII, Alacskai út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1182	Budapest	Alacskai út 3.	47.4160753, 19.2075831	100 Ft/kWh
+10123	10123 - Budapest IV, Megyeri út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1048	Budapest	Megyeri út 236.	47.593368, 19.118922	100 Ft/kWh
+10124	10124 - Érd, Iparos utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2030	Érd	Iparos utca	47.413073, 18.881793	100 Ft/kWh
+10125	10125 - Diósd, Balatoni út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2049	Diósd	Balatoni út 2/A	47.4043639, 18.9475268	100 Ft/kWh
+10126	10126 - Diósd, Balatoni út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2049	Diósd	Balatoni út 2/A	47.4044565, 18.947559	100 Ft/kWh
+10127	10127 - Diósd, Balatoni út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2049	Diósd	Balatoni út 2/A	47.404422, 18.9474544	100 Ft/kWh
+10129	10129 - Kecskemét, Jókai utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6000	Kecskemét	Jókai utca 31.	46.91446, 19.689125	100 Ft/kWh
+10130	10130 - Kecskemét, Katona József tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6000	Kecskemét	Katona József tér 2.	46.904961, 19.692608	100 Ft/kWh
+10131	10131 - Kecskemét, Izsáki út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6000	Kecskemét	Izsáki út 3.	46.899427, 19.673956	100 Ft/kWh
+10132	10132 - Győr, Révai Miklós utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9021	Győr	Révai Miklós utca	47.682341, 17.634201	100 Ft/kWh
+10133	10133 - Győr, Virágpiac parkoló - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9021	Győr	Virágpiac parkoló (Zechmeister u. 5-tel szemben)	47.685973, 17.630789	100 Ft/kWh
+10134	10134 - Győr, Erkel Ferenc utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9025	Győr	Erkel Ferenc u. 8.	47.687258, 17.623514	100 Ft/kWh
+10135	10135 - Győr, Bercsényi liget - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9025	Győr	Bercsényi liget 84.	47.685444, 17.614234	100 Ft/kWh
+10136	10136 - Győr, Batthány tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9022	Győr	Batthány tér	47.687518, 17.639311	100 Ft/kWh
+10137	10137 - Győr, Kiskút liget parkoló - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9027	Győr	Tóth László utca (Kiskút liget parkoló)	47.697018, 17.667329	100 Ft/kWh
+10138	10138 - Győr, Corvin utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9023	Győr	Eszperantó u. és a Corvin utca kereszteződése	47.683789, 17.640688	100 Ft/kWh
+10139	10139 - Győr, Kálóczy tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9026	Győr	Kálóczy tér	47.692203, 17.629345	100 Ft/kWh
+10140	10140 - Győr, Kamara utcai parkoló - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9022	Győr	Kamara utcai parkoló	47.684976, 17.636042	100 Ft/kWh
+10141	10141 - Győr, Földes Gábor utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9023	Győr	Földes Gábor utca 4.	47.676603, 17.656115	100 Ft/kWh
+10142	10142 - Budapest XVIII, Teleki utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1184	Budapest	Üllői út 400.	47.444669, 19.175722	100 Ft/kWh
+10143	10143 - Budapest XVIII, Vasút utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1188	Budapest	Vasút utca 49.	47.4041263, 19.1868411	100 Ft/kWh
+10148	10148 - Auchan Szeged - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6728	Szeged	Zápor utca 4.	46.2747452, 20.1028761	100 Ft/kWh
+10149	10149 - Auchan Debrecen - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4031	Debrecen	Kishatár utca 11.	47.5402569, 21.5858187	100 Ft/kWh
+10150	10150 - Auchan Debrecen - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4031	Debrecen	Kishatár utca 11.	47.5402515, 21.5857249	100 Ft/kWh
+10151	10151 - Auchan Fót - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2151	Fót	Fehérkő utca 1.	47.5821853, 19.162302	100 Ft/kWh
+10152	10152 - Auchan Fót - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2151	Fót	Fehérkő utca 1.	47.5820858, 19.1624455	100 Ft/kWh
+10153	10153 - Auchan Miskolc - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3516	Miskolc	Pesti út 9.	48.058233, 20.79929	100 Ft/kWh
+10154	10154 - Auchan Miskolc - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3516	Miskolc	Pesti út 9.	48.058162, 20.799238	100 Ft/kWh
+10155	10155 - Auchan Törökbálint - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2045	Törökbálint	Torbágy utca 1.	47.4394705, 18.8898542	100 Ft/kWh
+10156	10156 - Auchan Törökbálint - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2045	Törökbálint	Torbágy utca 1.	47.4393961, 18.8900581	100 Ft/kWh
+10157	10157 - Auchan Budaörs - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2040	Budaörs	Sport utca 4.	47.454201, 18.943029	100 Ft/kWh
+10158	10158 - Auchan Budaörs - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2040	Budaörs	Sport utca 4.	47.454159, 18.94306	100 Ft/kWh
+10159	10159 - Törökszentmiklós, Kossuth utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5200	Törökszentmiklós	Kossuth utca 98-100. - SPAR	47.180227, 20.417594	100 Ft/kWh
+10160	10160 - Érd, Iparos utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2030	Érd	Iparos utca	47.413109, 18.881924	100 Ft/kWh
+10161	10161 - Érd, Iparos utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2030	Érd	Iparos utca	47.413079, 18.881858	100 Ft/kWh
+10162	10162 - Érd, Diósdi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2030	Érd	Diósdi út 46.	47.386466, 18.925054	100 Ft/kWh
+10163	10163 - Budapest IV, Nap utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1045	Budapest	Nap utca 16.	47.554876, 19.094571	100 Ft/kWh
+10166	10166 - Budapest, Naplás út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1172	Budapest	Naplás út 62-68.	47.4968364, 19.2726072	100 Ft/kWh
+10167	10167 - Auchan Miskolc - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3527	Miskolc	József Attila utca 87.	48.108391, 20.835171	100 Ft/kWh
+10168	10168 - Auchan Miskolc - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3527	Miskolc	József Attila utca 87.	48.108360, 20.835329	100 Ft/kWh
+10169	10169 - Auchan Szigetszentmiklós - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2310	Szigetszentmiklós	Háros utca 120.	47.382408, 19.02816	100 Ft/kWh
+10170	10170 - Auchan Szigetszentmiklós - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2310	Szigetszentmiklós	Háros utca 120.	47.382389, 19.028099	100 Ft/kWh
+10171	10171 - Auchan Budakalász - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2045	Budakalász	Omszk park  1.	47.612289, 19.06111	100 Ft/kWh
+10172	10172 - Auchan Budakalász - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2045	Budakalász	Omszk park  1.	47.61227, 19.061171	100 Ft/kWh
+10173	10173 - Auchan Solymár - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2082	Solymár	Szent Flórián utca 2.	47.597672, 18.96174	100 Ft/kWh
+10174	10174 - Auchan Solymár - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2082	Solymár	Szent Flórián utca 2.	47.597691, 18.96167	100 Ft/kWh
+10175	10175 - Auchan Soroksár - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1239	Budapest	Bevásárló utca 2.	47.41996, 19.156521	100 Ft/kWh
+10176	10176 - Auchan Soroksár - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1239	Budapest	Bevásárló utca 2.	47.41983, 19.156389	100 Ft/kWh
+10177	10177 - Auchan Maglód - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2234	Maglód	Eszterházy J. utca 1.	47.459358, 19.33349	100 Ft/kWh
+10178	10178 - Auchan Maglód - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2234	Maglód	Eszterházy J. utca 1.	47.459381, 19.333441	100 Ft/kWh
+10179	10179 - Auchan Dunakeszi - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2120	Dunakeszi	Nádas utca 6.	47.608219, 19.117979	100 Ft/kWh
+10180	10180 - Auchan Dunakeszi - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2120	Dunakeszi	Nádas utca 6.	47.6082, 19.11797	100 Ft/kWh
+10181	10181 - Auchan Székesfehérvár - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8000	Székesfehérvár	Holland fasor 2.	47.149441, 18.43154	100 Ft/kWh
+10182	10182 - Auchan Székesfehérvár - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8000	Székesfehérvár	Holland fasor 2.	47.149471, 18.431499	100 Ft/kWh
+10183	10183 - Auchan Kecskemét - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6000	Kecskemét	Dunaföldvári út 2.	46.88739, 19.634951	100 Ft/kWh
+10184	10184 - Auchan Kecskemét - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6000	Kecskemét	Dunaföldvári út 2.	46.887341, 19.63496	100 Ft/kWh
+10185	10185 - Auchan Szolnok - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5000	Szolnok	Felső Szandai rét 1.	47.158989, 20.19787	100 Ft/kWh
+10186	10186 - Auchan Szolnok - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5000	Szolnok	Felső Szandai rét 1.	47.158981, 20.197889	100 Ft/kWh
+10187	10187 - Auchan Csömör - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2141	Csömör	Határ út 6.	47.540484, 19.242496	100 Ft/kWh
+10188	10188 - Auchan Csömör - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2141	Csömör	Határ út 6.	47.540451, 19.242443	100 Ft/kWh
+10189	10189 - Auchan Óbuda - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1033	Budapest	Szentendrei út 115.	47.560065, 19.049446	100 Ft/kWh
+10190	10190 - Auchan Óbuda - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1033	Budapest	Szentendrei út 115.	47.560063, 19.04939	100 Ft/kWh
+10191	10191 - Tótkomlós, Piactér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5940	Tótkomlós	Piactér	46.412161, 20.737595	100 Ft/kWh
+10192	10192 - Mezőkövesd, Zsóry fürdő - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3400	Mezőkövesd	Napfürdő út 3.	47.795049, 20.523907	100 Ft/kWh
+10194	10194 - Keszthely, Tapolcai út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8360	Keszthely	Tapolcai út 37.	46.773924, 17.267464	100 Ft/kWh
+10195	10195 - Keszthely, Tapolcai út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8360	Keszthely	Tapolcai út 37.	46.773927, 17.267534	100 Ft/kWh
+10196	10196 - Keszthely, Tapolcai út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8360	Keszthely	Tapolcai út 37.	46.773928, 17.267705	100 Ft/kWh
+10197	10197 - Veszprém, Jutasi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8200	Veszprém	Jutasi út 18.	47.107712, 17.910718	100 Ft/kWh
+10198	10198 - Nyíregyháza, Korányi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4400	Nyíregyháza	Korányi Frigyes utca 1.	47.971729, 21.727309	100 Ft/kWh
+10199	10199 - Dunakeszi, Toldi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2120	Dunakeszi	Toldi utca 1.	47.632419, 19.154633	100 Ft/kWh
+10200	10200 - Vác, Avar utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2600	Vác	Avar utca 6.	47.768862, 19.140963	100 Ft/kWh
+10201	10201 - Szentendre, Dobogókői út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2000	Szentendre	Dobogókői út 4.	47.64613, 19.064656	100 Ft/kWh
+10202	10202 - Szentendre, Dobogókői út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2000	Szentendre	Dobogókői út 4.	47.64613, 19.064731	100 Ft/kWh
+10203	10203 - Szentendre, Dobogókői út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2000	Szentendre	Dobogókői út 4.	47.646131, 19.064799	100 Ft/kWh
+10204	10204 - Szentendre, Dobogókői út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2000	Szentendre	Dobogókői út 4.	47.646131, 19.064869	100 Ft/kWh
+10205	10205 - Keszthely, Tapolcai út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8360	Keszthely	Tapolcai út 37.	46.77392, 17.267397	100 Ft/kWh
+10206	10206 - Dunaújváros, Béke körút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2400	Dunaújváros	Béke körút 2.	46.960836, 18.920002	100 Ft/kWh
+10207	10207 - Dunaújváros, Béke körút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2400	Dunaújváros	Béke körút 2.	46.960812, 18.920112	100 Ft/kWh
+10208	10208 - Dunaújváros, Béke körút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2400	Dunaújváros	Béke körút 2.	46.960783, 18.920233	100 Ft/kWh
+10209	10209 - Dunaújváros, Béke körút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2400	Dunaújváros	Béke körút 2.	46.96075, 18.920357	100 Ft/kWh
+10210	10210 - Dunaújváros, Béke körút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2400	Dunaújváros	Béke körút 2.	46.96073, 18.920483	100 Ft/kWh
+10211	10211 - Sopron, Arany János utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9400	Sopron	Arany János utca 16.	47.677824, 16.589145	100 Ft/kWh
+10212	10212 - Törökbálint, Tópark utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2045	Törökbálint	Tópark utca 2.	47.451027, 18.903371	100 Ft/kWh
+10213	10213 - Törökbálint, Tópark utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2045	Törökbálint	Tópark utca 2.	47.451018, 18.903232	100 Ft/kWh
+10214	10214 - Törökbálint, Tópark utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2045	Törökbálint	Tópark utca 2.	47.451007, 18.903077	100 Ft/kWh
+10215	10215 - Tatabány, Győri utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2800	Tatabánya	Győri utca 25.	47.591534, 18.389698	100 Ft/kWh
+10216	10216 - Baja, Bernhardt utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6500	Baja	Bernhardt utca 77.	46.195119, 18.957971	100 Ft/kWh
+10217	10217 - Gödöllő, Köztársaság út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2100	Gödöllő	Köztársaság út 85. - SPAR	47.5866116, 19.3726704	100 Ft/kWh
+10218	10218 - Gödöllő, Köztársaság út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2100	Gödöllő	Köztársaság út 85. - SPAR	47.5866293, 19.3727575	100 Ft/kWh
+10219	10219 - Gödöllő, Köztársaság út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2100	Gödöllő	Köztársaság út 85. - SPAR	47.5866519, 19.3727921	100 Ft/kWh
+10220	10220 - Salgótarján, Füleki út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3100	Salgótarján	Füleki út 203.	48.130383, 19.812831	100 Ft/kWh
+10221	10221 - Ajka, Ifjúság utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8400	Ajka	Ifjúság utca 9.	47.108406, 17.550997	100 Ft/kWh
+10222	10222 - Nagykanizsa, Kalmár utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8800	Nagykanizsa	Kalmár utca 3.	46.457299, 16.984986	100 Ft/kWh
+10225	10225 - Szolnok, Mátyás király út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5000	Szolnok	Mátyás király út 29.	47.180141, 20.182119	100 Ft/kWh
+10226	10226 - Szolnok, Mátyás király út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5000	Szolnok	Mátyás király út 29.	47.180155, 20.182024	100 Ft/kWh
+10231	10231 - Sopron, Selmeci utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9400	Sopron	Selmeci utca 15-17.	47.68978, 16.583583	100 Ft/kWh
+10232	10232 - Sopron, Selmeci utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9400	Sopron	Selmeci utca 15-17.	47.688898, 16.582908	100 Ft/kWh
+10237	10237 - Kiskunfélegyháza, Dr. Holló Lajos utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6100	Kiskunfélegyháza	Dr. Holló Lajos utca 74-76.	46.722485, 19.845611	100 Ft/kWh
+10238	10238 - Kiskunfélegyháza, Dr. Holló Lajos utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6100	Kiskunfélegyháza	Dr. Holló Lajos utca 74-76.	46.722615, 19.845611	100 Ft/kWh
+10239	10239 - Kaposvár, Árpád út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7400	Kaposvár	Árpád út 20.	46.364347, 17.809419	100 Ft/kWh
+10240	10240 - Kaposvár, Árpád út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7400	Kaposvár	Árpád út 20.	46.364397, 17.809387	100 Ft/kWh
+10241	10241 - Kaposvár, Árpád út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7400	Kaposvár	Árpád út 20.	46.36444, 17.809349	100 Ft/kWh
+10242	10242 - Kaposvár, Árpád út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7400	Kaposvár	Árpád út 20.	46.364501, 17.809314	100 Ft/kWh
+10243	10243 - Kaposvár, Árpád út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7400	Kaposvár	Árpád út 20.	46.364543, 17.809279	100 Ft/kWh
+10244	10244 - Kaposvár, Árpád út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7400	Kaposvár	Árpád út 20.	46.364586, 17.809247	100 Ft/kWh
+10245	10245 - Budapest, Pillangó utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1149	Budapest	Pillangó utca 15.	47.505258, 19.118128	100 Ft/kWh
+10246	10246 - Budapest, Pillangó utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1149	Budapest	Pillangó utca 15.	47.505324, 19.118245	100 Ft/kWh
+10247	10247 - Kecskemét, Talfája utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6000	Kecskemét	Talfája utca 1.	46.932067, 19.666657	100 Ft/kWh
+10248	10248 - Kecskemét, Talfája utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6000	Kecskemét	Talfája utca 1.	46.932019, 19.666593	100 Ft/kWh
+10249	10249 - Debrecen, Kishegyesi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4031	Debrecen	Kishegyesi utca 1-11.	47.530922, 21.610522	100 Ft/kWh
+10250	10250 - Debrecen, Kishegyesi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4031	Debrecen	Kishegyesi utca 1-11.	47.530807, 21.610563	100 Ft/kWh
+10251	10251 - Kecskemét, Malom Központ P1 - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6000	Kecskemét	Korona utca 2.	46.9076667, 19.6888042	100 Ft/kWh
+10252	10252 - Kecskemét, Malom Központ P2 - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6000	Kecskemét	Korona utca 2.	46.907493, 19.688698	100 Ft/kWh
+10253	10253 - Mezőberény, Békési út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5650	Mezőberény	Békési út	46.819401, 21.032647	100 Ft/kWh
+10262	10262 - Budapest II, Templom utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1028	Budapest	Templom utca 1-3.	47.565095, 18.959513	100 Ft/kWh
+10263	10263 - Budapest II, Nagybányai út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1025	Budapest	Nagybányai út 91.	47.533591, 18.993057	100 Ft/kWh
+10264	10264 - Allee Bevásárlóközpont P3 - Mobiliti	5	5 x AC 22 kW	5 x Type 2	22	2					1117	Budapest	Október huszonharmadika utca 8-10.	47.475099, 19.049149	100 Ft/kWh
+10265	10265 - Allee Bevásárlóközpont P3 - Mobiliti	5	5 x AC 22 kW	5 x Type 2	22	2					1117	Budapest	Október huszonharmadika utca 8-10.	47.475019, 19.049135	100 Ft/kWh
+10266	10266 - Allee Bevásárlóközpont P1 - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1117	Budapest	Október huszonharmadika utca 8-10.	47.474904, 19.049111	100 Ft/kWh
+10267	10267 - Allee Bevásárlóközpont P1 - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1117	Budapest	Október huszonharmadika utca 8-10.	47.474786, 19.049076	100 Ft/kWh
+10268	10268 - Allee Bevásárlóközpont P3 - Mobiliti	8	8 x AC 22 kW	8 x Type 2	22	2					1117	Budapest	Október huszonharmadika utca 8-10.	47.474683, 19.049033	100 Ft/kWh
+10269	10269 - Budapest, Széllkapu Mélygarázs - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1024	Budapest	Kis Rókus utca 16-20.	47.510324, 19.028496	100 Ft/kWh
+10270	10270 - Budapest, Széllkapu Mélygarázs - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1024	Budapest	Kis Rókus utca 16-20.	47.510104, 19.028892	100 Ft/kWh
+10271	10271 - Oroszlányi Bányászati Múzeum - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2840	Oroszlány	Majk puszta 1. - Oroszlányi Bányászati Múzeum	47.490792, 18.341917	100 Ft/kWh
+10272	10272 - Budapest, Széllkapu Mélygarázs - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1024	Budapest	Kis Rókus utca 16-20.	47.51074002, 19.0277546	100 Ft/kWh
+10274	10274 - Siófok, Vak Bottyán utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8600	Siófok	Vak Bottyán utca 27.	46.892868, 18.055668	100 Ft/kWh
+10275	10275 - Siófok, Vak Bottyán utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8600	Siófok	Vak Bottyán utca 27.	46.892784, 18.055721	100 Ft/kWh
+10276	10276 - Oroszlány, Kornyei út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2840	Oroszlány	Kornyei út 3-5.	47.496034, 18.321406	100 Ft/kWh
+10277	10277 - Oroszlány, Kornyei út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2840	Oroszlány	Kornyei út 3-5.	47.496024, 18.321602	100 Ft/kWh
+10278	10278 - Győr, Királyszék utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9012	Győr	Királyszék utca 33.	47.64852, 17.624965	100 Ft/kWh
+10279	10279 - Győr, Királyszék utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9012	Győr	Királyszék utca 33.	47.648556, 17.624879	100 Ft/kWh
+10280	10280 - Sarkad, Anti út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5720	Sarkad	Anti út	46.738568, 21.374939	100 Ft/kWh
+10281	10281 - Székesfehérvár, Aszalvölgyi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8000	Székesfehérvár	Aszalvölgyi utca 1.	47.207892, 18.426533	100 Ft/kWh
+10282	10282 - Székesfehérvár, Aszalvölgyi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8000	Székesfehérvár	Aszalvölgyi utca 1.	47.207970, 18.426373	100 Ft/kWh
+10283	10283 - Szeged, Rókusi körút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6724	Szeged	Rókusi körút 42-64.	46.269488, 20.139238	100 Ft/kWh
+10284	10284 - Szeged, Rókusi körút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6724	Szeged	Rókusi körút 42-64.	46.269456, 20.13916	100 Ft/kWh
+10289	10289 - Szikszó, Angel Petrol - Mobiliti	1	1 x AC 22 kW	1 x Type 2	22	2					3800	Szikszó	Avalon utca 4. - Angel Petrol	48.176474, 20.917317	100 Ft/kWh
+10292	10292 - Balatonfüred, Széchenyi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8230	Balatonfüred	Széchenyi utca 55.	46.947889, 17.8773	100 Ft/kWh
+10293	10293 - Balatonfüred, Széchenyi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8230	Balatonfüred	Széchenyi utca 55.	46.947773, 17.877389	100 Ft/kWh
+10294	10294 - Hódmezővásárhely, Hódtó utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6800	Hódmezővásárhely	Hódtó utca 17-19.	46.41207, 20.331031	100 Ft/kWh
+10295	10295 - Hódmezővásárhely, Hódtó utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6800	Hódmezővásárhely	Hódtó utca 17-19.	46.411986, 20.331013	100 Ft/kWh
+10296	10296 - Budapest, Groupama Aréna - Mobiliti	1	1 x AC 22 kW	1 x Type 2	22	2					1091	Budapest	Üllői út 129.	47.475815, 19.094666	100 Ft/kWh
+10297	10297 - Budapest, Groupama Aréna - Mobiliti	1	1 x AC 22 kW	1 x Type 2	22	2					1091	Budapest	Üllői út 129.	47.475768, 19.094612	100 Ft/kWh
+10298	10298 - Budapest, Groupama Aréna - Mobiliti	1	1 x AC 22 kW	1 x Type 2	22	2					1091	Budapest	Üllői út 129.	47.475659, 19.094507	100 Ft/kWh
+10299	10299 - Budapest, Groupama Aréna - Mobiliti	1	1 x AC 22 kW	1 x Type 2	22	2					1091	Budapest	Üllői út 129.	47.475493, 19.094379	100 Ft/kWh
+10300	10300 - Hosszúhetény, Almalomb - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7694	Hosszúhetény	Ormándi utca 24.	46.1555551, 18.3530651	100 Ft/kWh
+10301	10301 - Hosszúhetény, Almalomb - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7694	Hosszúhetény	Ormándi utca 24.	46.1555548, 18.3530105	100 Ft/kWh
+10303	10303 - Budapest, Pesti út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1173	Budapest	Pesti út 5-7.	47.482889, 19.229369	100 Ft/kWh
+10304	10304 - Budapest, Pesti út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1173	Budapest	Pesti út 5-7.	47.482951, 19.229206	100 Ft/kWh
+10305	10305 - Érd, Budafoki út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2030	Érd	Budafoki út 2-4.	47.376683, 18.937399	100 Ft/kWh
+10306	10306 - Érd, Budafoki út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2030	Érd	Budafoki út 2-4.	47.376738, 18.937422	100 Ft/kWh
+10307	10307 - Tököl, Hermina utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2316	Tököl	Hermina utca 1-3.	47.337096, 18.997188	100 Ft/kWh
+10308	10308 - Tököl, Hermina utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2316	Tököl	Hermina utca 1-3.	47.336585, 18.997533	100 Ft/kWh
+10309	10309 - Berettyóújfalu, Honvéd utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4100	Berettyóújfalu	Honvéd utca 13.	47.239936, 21.536712	100 Ft/kWh
+10310	10310 - Berettyóújfalu, Honvéd utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4100	Berettyóújfalu	Honvéd utca 13.	47.239949, 21.536588	100 Ft/kWh
+10311	10311 - Debrecen, Mikepércsi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4030	Debrecen	Mikepércsi út 73a.	47.503011, 21.628744	100 Ft/kWh
+10312	10312 - Debrecen, Mikepércsi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4030	Debrecen	Mikepércsi út 73a.	47.502998, 21.628439	100 Ft/kWh
+10313	10313 - Komárom, Bajcsy-Zsilinszky Endre utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2900	Komárom	Bajcsy-Zsilinszky Endre utca 7.	47.747477, 18.118342	100 Ft/kWh
+10314	10314 - Komárom, Bajcsy-Zsilinszky Endre utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2900	Komárom	Bajcsy-Zsilinszky Endre utca 7.	47.747396, 18.118339	100 Ft/kWh
+10315	10315 - Dunaharaszti, Némedi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2330	Dunaharaszti	Némedi út 69.	47.344605, 19.118013	100 Ft/kWh
+10316	10316 - Dunaharaszti, Némedi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2330	Dunaharaszti	Némedi út 69.	47.344546, 19.118075	100 Ft/kWh
+10317	10317 - Kiskunfélegyháza, IX. körzet tanya - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6100	Kiskunfélegyháza	IX. körzet tanya 8.	46.689102, 19.849132	100 Ft/kWh
+10318	10318 - Kiskunfélegyháza, IX. körzet tanya - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6100	Kiskunfélegyháza	IX. körzet tanya 8.	46.689149, 19.849307	100 Ft/kWh
+10319	10319 - Kaposvár, Berzsenyi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7400	Kaposvár	Berzsenyi utca 13.	46.360137, 17.782349	100 Ft/kWh
+10320	10320 - Kaposvár, Berzsenyi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7400	Kaposvár	Berzsenyi utca 13.	46.360266, 17.782294	100 Ft/kWh
+10321	10321 - Szekszárd, Tartsay Vilmos utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7100	Szekszárd	Tartsay Vilmos utca 40.	46.331485, 18.705224	100 Ft/kWh
+10322	10322 - Szekszárd, Tartsay Vilmos utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7100	Szekszárd	Tartsay Vilmos utca 40.	46.331471, 18.705033	100 Ft/kWh
+10323	10323 - Mosonmagyaróvár, Királyhidai utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9200	Mosonmagyaróvár	Királyhidai utca 42.	47.877515, 17.256675	100 Ft/kWh
+10324	10324 - Mosonmagyaróvár, Királyhidai utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9200	Mosonmagyaróvár	Királyhidai utca 42.	47.877499, 17.256646	100 Ft/kWh
+10325	10325 - Zalaegerszeg, Sport utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8900	Zalaegerszeg	Sport utca 1.	46.843164, 16.860644	100 Ft/kWh
+10326	10326 - Zalaegerszeg, Sport utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8900	Zalaegerszeg	Sport utca 1.	46.843247, 16.860615	100 Ft/kWh
+10327	10327 - Sopron, Ipar körút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9400	Sopron	Ipar körút 30.	47.670259, 16.612152	100 Ft/kWh
+10328	10328 - Sopron, Ipar körút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9400	Sopron	Ipar körút 30.	47.670299, 16.612017	100 Ft/kWh
+10329	10329 - Nagykanizsa, Boszorkány utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8800	Nagykanizsa	Boszorkány utca 2.	46.464193, 17.013717	100 Ft/kWh
+10330	10330 - Nagykanizsa, Boszorkány utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8800	Nagykanizsa	Boszorkány utca 2.	46.464114, 17.013756	100 Ft/kWh
+10331	10331 - Gyöngyös, Vásár utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3200	Gyöngyös	Vásár utca 2.	47.768785, 19.912641	100 Ft/kWh
+10332	10332 - Gyöngyös, Vásár utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3200	Gyöngyös	Vásár utca 2.	47.768646, 19.912888	100 Ft/kWh
+10333	10333 - Békéscsaba, Szarvasi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5600	Békéscsaba	Szarvasi utca 68.	46.680849, 21.073924	100 Ft/kWh
+10334	10334 - Békéscsaba, Szarvasi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5600	Békéscsaba	Szarvasi utca 68.	46.680954, 21.073853	100 Ft/kWh
+10335	10335 - Szolnok, Téglagyári út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5000	Szolnok	Téglagyári út 30.	47.177190, 20.166924	100 Ft/kWh
+10336	10336 - Szolnok, Téglagyári út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5000	Szolnok	Téglagyári út 30.	47.177127, 20.166809	100 Ft/kWh
+10337	10337 - Baja, Gránátos utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6500	Baja	Gránátos utca 11.	46.190298, 18.936283	100 Ft/kWh
+10338	10338 - Baja, Gránátos utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6500	Baja	Gránátos utca 11.	46.190279, 18.936181	100 Ft/kWh
+10339	10339 - Veszprém, Külső-Kádártai út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8200	Veszprém	Külső-Kádártai út 3.	47.103052, 17.932926	100 Ft/kWh
+10340	10340 - Veszprém, Külső-Kádártai út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8200	Veszprém	Külső-Kádártai út 3.	47.103007, 17.932794	100 Ft/kWh
+10341	10341 - Eger, II. Rákóczi Ferenc utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3300	Eger	II. Rákóczi Ferenc utca 100.	47.925064, 20.369514	100 Ft/kWh
+10342	10342 - Eger, II. Rákóczi Ferenc utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3300	Eger	II. Rákóczi Ferenc utca 100.	47.924943, 20.369545	100 Ft/kWh
+10343	10343 - Miskolc, Szentpéteri kapu - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3526	Miskolc	Szentpéteri kapu 103.	48.127394, 20.782846	100 Ft/kWh
+10344	10344 - Miskolc, Szentpéteri kapu - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3526	Miskolc	Szentpéteri kapu 103.	48.127417, 20.782942	100 Ft/kWh
+10345	10345 - Nyíregyháza, Pazonyi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4400	Nyíregyháza	Pazonyi út 36.	47.971802, 21.737700	100 Ft/kWh
+10346	10346 - Nyíregyháza, Pazonyi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4400	Nyíregyháza	Pazonyi út 36.	47.971770, 21.737556	100 Ft/kWh
+10347	10347 - Budaörs, Kinizsi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2040	Budaörs	Kinizsi út 1-3.	47.450834, 18.963827	100 Ft/kWh
+10348	10348 - Budaörs, Kinizsi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2040	Budaörs	Kinizsi út 1-3.	47.450940, 18.963808	100 Ft/kWh
+10349	10349 - Budapest, Bécsi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1037	Budapest	Bécsi út 258.	47.562293, 19.021330	100 Ft/kWh
+10350	10350 - Budapest, Bécsi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1037	Budapest	Bécsi út 258.	47.562236, 19.021401	100 Ft/kWh
+10351	10351 - Sárvár, Alkotmány utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9600	Sárvár	Alkotmány utca 16. (Csónakázó tó parkoló)	47.247398, 16.940525	100 Ft/kWh
+10354	10354 - Sárvár Gyógyfürdő - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9600	Sárvár	Vadkert körút 1.	47.24724, 16.948503	100 Ft/kWh
+10355	10355 - Auchan Savoya park - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1117	Budapest	Hunyadi János út 19.	47.435296, 19.039277	100 Ft/kWh
+10356	10356 - Auchan Savoya park - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1117	Budapest	Hunyadi János út 19.	47.435207, 19.039244	100 Ft/kWh
+13001	13001 - Budapest, Málna utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1011	Budapest	Málna utca	47.506937, 19.035218	100 Ft/kWh
+13002	13002 - Budapest, Szilágyi Dezső tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1011	Budapest	Szilágyi Dezső tér	47.504178, 19.038829	100 Ft/kWh
+13003	13003 - Budapest, Hadnagy utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1013	Budapest	Hadnagy utca 8.	47.49093, 19.043716	100 Ft/kWh
+13004	13004 - Budapest, Naphegy utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1016	Budapest	Naphegy utca 65.	47.492192, 19.036927	100 Ft/kWh
+13005	13005 - Budapest, Gellérthegy utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1016	Budapest	Gellérthegy utca 36.	47.494577, 19.035178	100 Ft/kWh
+13006	13006 - Budapest, Krisztina körút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1016	Budapest	Krisztina körút 99.	47.495043, 19.035276	100 Ft/kWh
+13007	13007 - Budapest, Ürömi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1023	Budapest	Ürömi utca 66.	47.527936, 19.032983	100 Ft/kWh
+13008	13008 - Budapest, Frankel Leó utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1023	Budapest	Frankel Leó utca 53.	47.521969, 19.037186	100 Ft/kWh
+13009	13009 - Budapest, Frankel Leó utca (Lukács Gyógyfürdő) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1023	Budapest	Frankel Leó utca (Lukács Gyógyfürdő) 27.	47.517365, 19.036464	100 Ft/kWh
+13010	13010 - Budapest, Árpád fejedelem útja - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1023	Budapest	Árpád fejedelem útja 12.	47.520968, 19.03792	100 Ft/kWh
+13011	13011 - Budapest, Csatárka utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1025	Budapest	Csatárka utca 49.	47.530077, 19.009047	100 Ft/kWh
+13012	13012 - Budapest, Gábor Áron utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1026	Budapest	Gábor Áron utca 74-76.	47.522225, 19.0148	100 Ft/kWh
+13013	13013 - Budapest, Szabadság-Közsgégház utca torkolat - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1028	Budapest	Szabadság-Közsgégház utcatorkolat	47.561074, 18.960337	100 Ft/kWh
+13014	13014 - Budapest, Rezeda utca (Bánffy György emlékpark) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1028	Budapest	Rezeda utca (Bánffy György emlékpark)	47.544883, 18.96433	100 Ft/kWh
+13015	13015 - Budapest, Rozgonyi Piroska utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1031	Budapest	Rozgonyi Piroska utca 26.	47.574024, 19.061871	100 Ft/kWh
+13016	13016 - Budapest, Torma Károly utca (Bécsi tér) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1031	Budapest	Torma Károly utca (Bécsi tér)	47.56955, 19.04915	100 Ft/kWh
+13017	13017 - Budapest, Záhony utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1031	Budapest	Záhony utca 4.	47.561441, 19.050067	100 Ft/kWh
+13018	13018 - Budapest, Kanóc utca (Vitorla utca) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1031	Budapest	Kanóc utca (Vitorla utca)	47.569663, 19.056719	100 Ft/kWh
+13019	13019 - Budapest, Ágoston utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1032	Budapest	Ágoston utca 4.	47.545977, 19.031736	100 Ft/kWh
+13020	13020 - Budapest, Törzs utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1032	Budapest	Törzs utca 2.	47.543029, 19.036586	100 Ft/kWh
+13021	13021 - Budapest, Szérűskert utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1033	Budapest	Szérűskert utca 39.	47.557687, 19.043593	100 Ft/kWh
+13022	13022 - Budapest, Kerék utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1035	Budapest	Kerék utca 36.	47.5489, 19.042514	100 Ft/kWh
+13023	13023 - Budapest, Goldberger Leó utca (Tél utca) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1036	Budapest	Goldberger Leó utca (Tél utca)	47.536825, 19.045659	100 Ft/kWh
+13024	13024 - Budapest, Lajos utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1036	Budapest	Lajos utca 109.	47.534186, 19.042625	100 Ft/kWh
+13025	13025 - Budapest, Kiskorona utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1036	Budapest	Kiskorona utca	47.53873, 19.042791	100 Ft/kWh
+13026	13026 - Budapest, Kubik utca (Opel Maxabo mellett) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1037	Budapest	Kubik utca (Opel Maxabo mellett)	47.561463, 19.022306	100 Ft/kWh
+13027	13027 - Budapest, Bálint György utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1039	Budapest	Bálint György utca 2.	47.600103, 19.063574	100 Ft/kWh
+13028	13028 - Budapest, Zsirai Miklós  utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1039	Budapest	Zsirai Miklós  utca 15.	47.600538, 19.047476	100 Ft/kWh
+13029	13029 - Budapest, Pünkösdfürdő utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1039	Budapest	Pünkösdfürdő utca 3.	47.594345, 19.067432	100 Ft/kWh
+13030	13030 - Budapest, Nyár utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1041	Budapest	Nyár utca 24.	47.558619, 19.103398	100 Ft/kWh
+13031	13031 - Budapest, Petőfi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1042	Budapest	Petőfi utca 35.	47.560242, 19.096446	100 Ft/kWh
+13032	13032 - Budapest, Király utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1044	Budapest	Király utca 9.	47.562243, 19.092474	100 Ft/kWh
+13033	13033 - Budapest, Óradna utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1044	Budapest	Óradna utca 2/a	47.593948, 19.106234	100 Ft/kWh
+13034	13034 - Budapest, Megyeri út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1044	Budapest	Megyeri út 4.	47.574991, 19.082998	100 Ft/kWh
+13035	13035 - Budapest, Budapest Károly körút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1052	Budapest	Budapest Károly körút 20.	47.495684, 19.058591	100 Ft/kWh
+13036	13036 - Budapest, Kodály körönd - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1062	Budapest	Kodály körönd 1.	47.509826, 19.070663	100 Ft/kWh
+13037	13037 - Budapest, Andrássy út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1062	Budapest	Andrássy út 121.	47.513292, 19.075772	100 Ft/kWh
+13038	13038 - Budapest, Városligeti Fasor - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1068	Budapest	Városligeti Fasor 18.	47.50915, 19.075733	100 Ft/kWh
+13039	13039 - Budapest, Damjanich utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1071	Budapest	Damjanich utca 20.	47.50694, 19.07642	100 Ft/kWh
+13040	13040 - Budapest, Jósika utca (Rózsa utca) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1077	Budapest	Jósika utca (Rózsa utca) 36.	47.505486, 19.07192	100 Ft/kWh
+13041	13041 - Budapest, Marek József utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1078	Budapest	Marek József utca 40.	47.507065, 19.08418	100 Ft/kWh
+13042	13042 - Budapest, Baross utca (Rigó utca) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1085	Budapest	Baross utca (Rigó utca)	47.489675, 19.072832	100 Ft/kWh
+13043	13043 - Budapest, Ecseri út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1095	Budapest	Ecseri út 2.	47.470677, 19.109523	100 Ft/kWh
+13044	13044 - Budapest, Füzér utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1102	Budapest	Füzér utca	47.484154, 19.130655	100 Ft/kWh
+13045	13045 - Budapest, Maláta utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1102	Budapest	Maláta utca 6.	47.491125, 19.139516	100 Ft/kWh
+13046	13046 - Budapest, Gergely utca (Martinovics tér) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1103	Budapest	Gergely utca (Martinovics tér)	47.481463, 19.133056	100 Ft/kWh
+13047	13047 - Budapest, Szárnyas utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1107	Budapest	Szárnyas utca 14.	47.468864, 19.120455	100 Ft/kWh
+13048	13048 - Budapest, Oltó utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1108	Budapest	Oltó utca 2.	47.470144, 19.158271	100 Ft/kWh
+13049	13049 - Budapest, Gazdagréti út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1112	Budapest	Gazdagréti út	47.469553, 18.995424	100 Ft/kWh
+13050	13050 - Budapest, Ajnácskő utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1113	Budapest	Ajnácskő utca 14-18.	47.473257, 19.026345	100 Ft/kWh
+13051	13051 - Budapest, Bártfai utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1115	Budapest	Bártfai utca 36.	47.467943, 19.034752	100 Ft/kWh
+13052	13052 - Budapest, Fehérvári út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1117	Budapest	Fehérvári út 50.	47.469323, 19.044814	100 Ft/kWh
+13053	13053 - Budapest, Bogdánfy utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1117	Budapest	Bogdánfy utca 3.	47.472855, 19.056369	100 Ft/kWh
+13054	13054 - Budapest, Irinyi József utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1117	Budapest	Irinyi József utca 47.	47.474229, 19.053093	100 Ft/kWh
+13055	13055 - Budapest, Somlói út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1118	Budapest	Somlói út	47.486421, 19.03244	100 Ft/kWh
+13056	13056 - Budapest, Rétköz utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1118	Budapest	Rétköz utca 27.	47.46904, 19.002513	100 Ft/kWh
+13057	13057 - Budapest, Rege út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1121	Budapest	Rege út 21.	47.495115, 18.978768	100 Ft/kWh
+13058	13058 - Budapest, Mártonhegyi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1121	Budapest	Mártonhegyi út	47.496961, 18.990014	100 Ft/kWh
+13059	13059 - Budapest, Maros utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1122	Budapest	Maros utca 30.	47.505421, 19.020842	100 Ft/kWh
+13060	13060 - Budapest, Thomán István utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1124	Budapest	Thomán István utca 1.	47.495233, 19.0028	100 Ft/kWh
+13061	13061 - Budapest, Sashegyi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1124	Budapest	Sashegyi út	47.485772, 19.016124	100 Ft/kWh
+13062	13062 - Budapest, Szendrő utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1125	Budapest	Szendrő utca 52.	47.502582, 19.002222	100 Ft/kWh
+13063	13063 - Budapest, Virányos út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1125	Budapest	Virányos út 46.	47.515837, 18.99201	100 Ft/kWh
+13064	13064 - Budapest, Csipke út a - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1125	Budapest	Csipke úta 1.	47.507093, 18.987573	100 Ft/kWh
+13065	13065 - Budapest, Szarvas Gábor út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1125	Budapest	Szarvas Gábor út 59.	47.51706, 18.985552	100 Ft/kWh
+13066	13066 - Budapest, Tahi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1131	Budapest	Tahi utca 102.	47.537132, 19.08889	100 Ft/kWh
+13067	13067 - Budapest, Szabolcs utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1134	Budapest	Szabolcs utca 6.	47.516927, 19.066232	100 Ft/kWh
+13068	13068 - Budapest, Petneházy utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1135	Budapest	Petneházy utcaa 77.	47.531431, 19.086296	100 Ft/kWh
+13069	13069 - Budapest, Szobor utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1138	Budapest	Szobor utca 2.	47.551711, 19.074858	100 Ft/kWh
+13070	13070 - Budapest, Váci út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1138	Budapest	Váci úta 132.	47.534573, 19.066818	100 Ft/kWh
+13071	13071 - Budapest, Bessenyei utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1139	Budapest	Bessenyei utca	47.522393, 19.057095	100 Ft/kWh
+13072	13072 - Budapest, Mogyoródi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1141	Budapest	Mogyoródi út 137.	47.518922, 19.132882	100 Ft/kWh
+13073	13073 - Budapest, Vezér utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1144	Budapest	Vezér utca 36.	47.509948, 19.142894	100 Ft/kWh
+13074	13074 - Budapest, Róna utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1145	Budapest	Róna utca 189.	47.520063, 19.103232	100 Ft/kWh
+13075	13075 - Budapest, Lőcsei út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1147	Budapest	Lőcsei út 40.	47.52042, 19.11409	100 Ft/kWh
+13076	13076 - Budapest, Pillangó park - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1149	Budapest	Pillangó park 3-5.	47.503552, 19.122099	100 Ft/kWh
+13077	13077 - Budapest, Eötvös utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1153	Budapest	Eötvös utca 61.	47.557261, 19.113367	100 Ft/kWh
+13078	13078 - Budapest, Bácska utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1153	Budapest	Bácska utca 4.	47.563029, 19.118022	100 Ft/kWh
+13079	13079 - Budapest, Kontyfa utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1156	Budapest	Kontyfa utca 1.	47.54662, 19.139012	100 Ft/kWh
+13080	13080 - Budapest, Zsókavár utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1157	Budapest	Zsókavár utca 10.	47.542045, 19.14234	100 Ft/kWh
+13081	13081 - Budapest, Adria utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1158	Budapest	Adria utca	47.534744, 19.133928	100 Ft/kWh
+13082	13082 - Budapest, Zöldséges utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1162	Budapest	Zöldséges utca 11.	47.530871, 19.199452	100 Ft/kWh
+13083	13083 - Budapest, Segesvár utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1162	Budapest	Segesvár utca	47.530999, 19.16783	100 Ft/kWh
+13084	13084 - Budapest, Havashalom utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1163	Budapest	Havashalom utca	47.515465, 19.169647	100 Ft/kWh
+13085	13085 - Budapest, Szabadföld út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1164	Budapest	Szabadföld út 73.	47.530403, 19.236038	100 Ft/kWh
+13086	13086 - Budapest, Bökényföldi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1165	Budapest	Bökényföldi út 25.	47.510452, 19.206	100 Ft/kWh
+13087	13087 - Budapest, Hegyalatti utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1171	Budapest	Hegyalatti utca 2.	47.469086, 19.292842	100 Ft/kWh
+13088	13088 - Budapest, Szent Imre utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1172	Budapest	Szent Imre utca 62-64.	47.491995, 19.283714	100 Ft/kWh
+13089	13089 - Budapest, Pesti út a - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1172	Budapest	Pesti úta 22.	47.483915, 19.236526	100 Ft/kWh
+13090	13090 - Budapest, 525. tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1172	Budapest	525. tér 525.	47.48211, 19.218983	100 Ft/kWh
+13091	13091 - Budapest, Pesti út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1173	Budapest	Pesti út 113.	47.481079, 19.246406	100 Ft/kWh
+13092	13092 - Budapest, Bányapart utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1174	Budapest	Bányapart utca 24.	47.46979, 19.244784	100 Ft/kWh
+13093	13093 - Budapest, Margó Tivadar (Bókay kert bejárat) utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1181	Budapest	Margó Tivadar (Bókay kert bejárat) utca	47.433947, 19.176862	100 Ft/kWh
+13094	13094 - Budapest, Nefelejcs utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1183	Budapest	Nefelejcs utca 89.	47.447215, 19.190772	100 Ft/kWh
+13095	13095 - Budapest, Gulner Gyula utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1183	Budapest	Gulner Gyula utca 1-5.	47.440178, 19.189575	100 Ft/kWh
+13096	13096 - Budapest, Kisfaludy utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1188	Budapest	Kisfaludy utca 33.	47.409959, 19.192474	100 Ft/kWh
+13097	13097 - Budapest, Vak Bottyán utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1191	Budapest	Vak Bottyán utca 31.	47.461862, 19.14627	100 Ft/kWh
+13098	13098 - Budapest, Batthyány utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1191	Budapest	Batthyány utca 42.	47.452614, 19.143254	100 Ft/kWh
+13099	13099 - Budapest, Corvin körút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1191	Budapest	Corvin körút 7-13.	47.46084, 19.133137	100 Ft/kWh
+13100	13100 - Budapest, Kossuth tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1191	Budapest	Kossuth tér 8.	47.459286, 19.145324	100 Ft/kWh
+13101	13101 - Budapest, Pannónia utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1192	Budapest	Pannónia utca 2.	47.46319, 19.127	100 Ft/kWh
+13102	13102 - Budapest, Topánka utca/Baross utca sarok - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1203	Budapest	Topánka utca/Baross utca sarok	47.437162, 19.097675	100 Ft/kWh
+13103	13103 - Budapest, Orsolya utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1204	Budapest	Orsolya utca 60.	47.428612, 19.127123	100 Ft/kWh
+13104	13104 - Budapest, Petz Ferenc utca (Csepel pláza parkoló) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1211	Budapest	Petz Ferenc utca (Csepel pláza parkoló)	47.42372, 19.068438	100 Ft/kWh
+13105	13105 - Budapest, Akácfa utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1212	Budapest	Akácfa utca 23.	47.412963, 19.06209	100 Ft/kWh
+13106	13106 - Budapest, Hollandi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1213	Budapest	Hollandi út 8.	47.412872, 19.097365	100 Ft/kWh
+13107	13107 - Budapest, Dunadűlő út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1214	Budapest	Dunadűlő út 5.	47.424022, 19.089181	100 Ft/kWh
+13108	13108 - Budapest, Városház tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1221	Budapest	Városház tér 4.	47.427486, 19.039778	100 Ft/kWh
+13109	13109 - Budapest, Promontor utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1222	Budapest	Promontor utca 89.	47.42135, 19.0294	100 Ft/kWh
+13110	13110 - Budapest, Tűzliliom utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1223	Budapest	Tűzliliom utca 39.	47.406291, 19.008672	100 Ft/kWh
+13111	13111 - Budapest, Szentháromság utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1225	Budapest	Szentháromság utca	47.392896, 18.986331	100 Ft/kWh
+13112	13112 - Budapest, Nagytétényi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1225	Budapest	Nagytétényi út 31-33.	47.409058, 19.020801	100 Ft/kWh
+13113	13113 - Budapest, Ördögszekér utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1237	Budapest	Ördögszekér utca	47.416513, 19.133059	100 Ft/kWh
+13114	13114 - Budapest, Erzsébet utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1238	Budapest	Erzsébet utca	47.402518, 19.112722	100 Ft/kWh
+13115	13115 - Budapest, Hősök tere - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1239	Budapest	Hősök tere 21-27.	47.399277, 19.117476	100 Ft/kWh
+13116	13116 - Visegrád, Fő utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2025	Visegrád	Fő utca 75.	47.789828, 18.970922	100 Ft/kWh
+13117	13117 - Visegrád, Fő utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2025	Visegrád	Fő utca 75.	47.78978, 18.970788	100 Ft/kWh
+13118	13118 - Érd, Béke tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2030	Érd	Béke tér 91.	47.377066, 18.921875	100 Ft/kWh
+13119	13119 - Érd, Felső utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2030	Érd	Felső utca 43.	47.372926, 18.921013	100 Ft/kWh
+13120	13120 - Solymár, Pilisvörösvári utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2083	Solymár	Pilisvörösvári utca 6.	47.593189, 18.937846	100 Ft/kWh
+13121	13121 - Telki, Szajkó utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2089	Telki	Szajkó utca 2.	47.541983, 18.828456	100 Ft/kWh
+13122	13122 - Budakeszi, Fő utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2092	Budakeszi	Fő utca 100.	47.513812, 18.932756	100 Ft/kWh
+13123	13123 - Vácrátót, Kossuth utca (Petőfi tér) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2163	Vácrátót	Kossuth utca (Petőfi tér) 7.	47.70991, 19.233641	100 Ft/kWh
+13124	13124 - Vác, Dr. Csányi László körút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2600	Vác	Dr. Csányi László körút 52.	47.779159, 19.13455	100 Ft/kWh
+13125	13125 - Bicske, Kossuth Lajos utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2060	Bicske	Kossuth Lajos Utca	47.492385, 18.634275	100 Ft/kWh
+13126	13126 - Dunaújváros, Szabadság út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2400	Dunaújváros	Szabadság út	46.965673, 18.916517	100 Ft/kWh
+13127	13127 - Martonvásár, Kodály Zoltán utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2462	Martonvásár	Kodály Zoltán utca	47.314834, 18.78623	100 Ft/kWh
+13128	13128 - Kápolnásnyék, Vörösmarty utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2475	Kápolnásnyék	Vörösmarty utca 2.	47.238657, 18.673881	100 Ft/kWh
+13129	13129 - Velence, Velence Tópart utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2481	Velence	Velence Tópart utca	47.228947, 18.663313	100 Ft/kWh
+13130	13130 - Gárdony-Agárd, Fürdő tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2483	Gárdony-Agárd	Fürdő tér 1.	47.189536, 18.623184	100 Ft/kWh
+13131	13131 - Gárdony-Agárd, Szabadság utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2483	Gárdony-Agárd	Szabadság utca	47.206206, 18.62668	100 Ft/kWh
+13132	13132 - Tatabánya, Szent Borbála tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2800	Tatabánya	Szent Borbála tér	47.581547, 18.399762	100 Ft/kWh
+13133	13133 - Tatabánya, Jedlik Ányos út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2800	Tatabánya	Jedlik Ányos út	47.584485, 18.39477	100 Ft/kWh
+13134	13134 - Füzesabony, Rákóczi Ferenc út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3390	Füzesabony	Rákóczi Ferenc út 67.	47.748868, 20.417978	100 Ft/kWh
+13135	13135 - Mezőkövesd, Juharfa utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3400	Mezőkövesd	Juharfa utca	47.810516, 20.573882	100 Ft/kWh
+13136	13136 - Miskolc, Régiposta utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3500	Miskolc	Régiposta utca 22.	48.104346, 20.788227	100 Ft/kWh
+13137	13137 - Miskolc, Kandia utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3500	Miskolc	Kandia utca	48.101775, 20.783543	100 Ft/kWh
+13138	13138 - Szerencs, Tatay Zoltán utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3900	Szerencs	Tatay Zoltán utca	48.16052, 21.20034	100 Ft/kWh
+13139	13139 - Mád, Rákóczi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3909	Mád	Rákóczi utca 71.	48.195406, 21.279024	100 Ft/kWh
+13140	13140 - Tokaj, Bodrogkeresztúri út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3910	Tokaj	Bodrogkeresztúri út 2.	48.132643, 21.403531	100 Ft/kWh
+13141	13141 - Bodrogkeresztúr, Kastély köz - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3916	Bodrogkeresztúr	Kastély köz 2.	48.169416, 21.360807	100 Ft/kWh
+13142	13142 - Sárospatak, Comenius utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3950	Sárospatak	Comenius utca 24.	48.319726, 21.565424	100 Ft/kWh
+13143	13143 - Sátoraljaújhely, Táncsics tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					3980	Sátoraljaújhely	Táncsics tér 4.	48.397564, 21.654917	100 Ft/kWh
+13144	13144 - Hortobágy, Hunyadi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4071	Hortobágy	Hunyadi utca 2.	47.583031, 21.150768	100 Ft/kWh
+13145	13145 - Nyíregyháza, Bujtos utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4400	Nyíregyháza	Bujtos utca 14.	47.955521, 21.722724	100 Ft/kWh
+13146	13146 - Nyíregyháza, Tavasz utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4400	Nyíregyháza	Tavasz utca 2.	47.959156, 21.719694	100 Ft/kWh
+13147	13147 - Nyíregyháza, Körte utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4400	Nyíregyháza	Körte utca 16.	47.95984, 21.715983	100 Ft/kWh
+13148	13148 - Szolnok, Jubileumi tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5000	Szolnok	Jubileumi tér 1.	47.179577, 20.177365	100 Ft/kWh
+13149	13149 - Szolnok, Mártírok út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5000	Szolnok	Mártírok út	47.167706, 20.181578	100 Ft/kWh
+13150	13150 - Abádszalók, Arany János utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5241	Abádszalók	Arany János utca	47.478252, 20.591703	100 Ft/kWh
+13151	13151 - Karcag, Bajcsy Zsilinszky utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5300	Karcag	Bajcsy Zsilinszky utca	47.316565, 20.924829	100 Ft/kWh
+13152	13152 - Tiszafüred, Fürdő utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5350	Tiszafüred	Fürdő utca 5.	47.625886, 20.750843	100 Ft/kWh
+13153	13153 - Békéscsaba, Posta köz - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5600	Békéscsaba	Posta köz	46.678933, 21.097148	100 Ft/kWh
+13154	13154 - Gyula, Várkert utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					5700	Gyula	Várkert utca	46.645028, 21.284783	100 Ft/kWh
+13155	13155 - Kecskemét, Horváth Cirill tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6000	Kecskemét	Horváth Cirill tér	46.91049, 19.693884	100 Ft/kWh
+13156	13156 - Kecskemét, Rákóczi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6000	Kecskemét	Rákóczi út	46.909816, 19.698089	100 Ft/kWh
+13157	13157 - Kecskemét, Akadémia körút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6000	Kecskemét	Akadémia körút	46.916454, 19.67979	100 Ft/kWh
+13158	13158 - Kiskőrös, Petőfi Sándor utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6200	Kiskőrös	Petőfi Sándor utca	46.620181, 19.283878	100 Ft/kWh
+13159	13159 - Szeged, Víztorony tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6723	Szeged	Víztorony tér 1.	46.270428, 20.164512	100 Ft/kWh
+13160	13160 - Szeged, József Attila sugárút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6723	Szeged	József Attila sugárút 122.	46.270428, 20.157549	100 Ft/kWh
+13161	13161 - Szeged, Vízi Sport Egyesület Felső Tisza part - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6723	Szeged	Vízi Sport Egyesület Felső Tisza part	46.257649, 20.175917	100 Ft/kWh
+13162	13162 - Szeged, Moszkvai körút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6725	Szeged	Moszkvai körút 25.	46.24858, 20.138115	100 Ft/kWh
+13163	13163 - Szeged, Népkert sor - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6726	Szeged	Népkert sor 13.	46.250013, 20.164185	100 Ft/kWh
+13164	13164 - Szeged, Torontál tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6726	Szeged	Torontál tér 6.	46.249086, 20.157293	100 Ft/kWh
+13165	13165 - Hódmezővásárhely, Ady Endre utca (Uszoda parkoló) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6800	Hódmezővásárhely	Ady Endre utca (Uszoda parkoló) 1.	46.409768, 20.317293	100 Ft/kWh
+13166	13166 - Hódmezővásárhely, Sportcsarnok (Tóalj utca ) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6800	Hódmezővásárhely	Sportcsarnok (Tóalj utca)	46.414491, 20.329285	100 Ft/kWh
+13167	13167 - Hódmezővásárhely, Stadion/Piac parkoló - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6800	Hódmezővásárhely	Stadion/Piac parkoló	46.422344, 20.331597	100 Ft/kWh
+13168	13168 - Hódmezővásárhely, Virág utca (Földhivatal parkoló) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					6800	Hódmezővásárhely	Virág utca (Földhivatal parkoló)	46.416591, 20.32247	100 Ft/kWh
+13169	13169 - Szekszárd, Csokonay utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7100	Szekszárd	Csokonay utca 11-13.	46.347184, 18.705243	100 Ft/kWh
+13170	13170 - Szekszárd, dr. Szentgáli Gyula utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7100	Szekszárd	dr. Szentgáli Gyula utca 2.	46.345971, 18.701961	100 Ft/kWh
+13171	13171 - Nagyatád, Zrínyi utca Nagyatád - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7500	Nagyatád	Zrínyi utca	46.229512, 17.364444	100 Ft/kWh
+13172	13172 - Siófok, Petőfi sétány - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8600	Siófok	Petőfi sétány 11-13.	46.912965, 18.060011	100 Ft/kWh
+13173	13173 - Siófok, Deák Ferenc tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8600	Siófok	Deák Ferenc tér 16.	46.901183, 18.017065	100 Ft/kWh
+13174	13174 - Zamárdi, Kiss Ernő utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8621	Zamárdi	Kiss Ernő utca	46.884999, 17.943008	100 Ft/kWh
+13175	13175 - Szántód, Római út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8622	Szántód	Római út 2.	46.858075, 17.902021	100 Ft/kWh
+13176	13176 - Balatonföldvár, Budapest utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8623	Balatonföldvár	Budapest utca	46.848938, 17.879371	100 Ft/kWh
+13177	13177 - Balatonszemes, Cinka Panna utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8636	Balatonszemes	Cinka Panna utca 2.	46.811359, 17.770783	100 Ft/kWh
+13178	13178 - Balatonlelle, Rákóczi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8638	Balatonlelle	Rákóczi út 193.	46.784536, 17.686397	100 Ft/kWh
+13179	13179 - Fonyód, Hunyadi János utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8640	Fonyód	Hunyadi János utca	46.748816, 17.557471	100 Ft/kWh
+13180	13180 - Balatonfenyves, Kölcsey utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8646	Balatonfenyves	Kölcsey utca 1-3.	46.712642, 17.477206	100 Ft/kWh
+13181	13181 - Csurgó, Petőfi tér Csurgó - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8840	Csurgó	Petőfi tér	46.252635, 17.099961	100 Ft/kWh
+13182	13182 - Pécs, Felsővámház utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7630	Pécs	Felsővámház utca 61.	46.078871, 18.246523	100 Ft/kWh
+13183	13183 - Pécs, Árnyas liget utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7632	Pécs	Árnyas liget utca 2-8.	46.050975, 18.229085	100 Ft/kWh
+13184	13184 - Pécs, Csontváry utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7632	Pécs	Csontváry utca	46.039811, 18.2222	100 Ft/kWh
+13185	13185 - Pécs, Ángyán János utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7635	Pécs	Ángyán János utca 2.	46.093209, 18.225836	100 Ft/kWh
+13186	13186 - Hosszúhetény, Fő út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7694	Hosszúhetény	Fő út 142.	46.162448, 18.35299	100 Ft/kWh
+13187	13187 - Szigetvár, Olay Lajos utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					7900	Szigetvár	Olay Lajos utca 2.	46.04817, 17.800398	100 Ft/kWh
+13188	13188 - Balatonkenese, Táncsics Mihály utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8174	Balatonkenese	Táncsics Mihály utca	47.03501, 18.108381	100 Ft/kWh
+13189	13189 - Veszprém, Vörösmarty Mihály tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8200	Veszprém	Vörösmarty Mihály tér 2.	47.090788, 17.912987	100 Ft/kWh
+13190	13190 - Veszprém, Budapest út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8200	Veszprém	Budapest út	47.092463, 17.914308	100 Ft/kWh
+13191	13191 - Veszprém, Kittenberger Kálmán utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8200	Veszprém	Kittenberger Kálmán utca	47.096807, 17.895452	100 Ft/kWh
+13192	13192 - Veszprém, Muskátli utca (Almádi út) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8200	Veszprém	Muskátli utca (Almádi út)  2-8.	47.090085, 17.915987	100 Ft/kWh
+13193	13193 - Balatonalmádi, Taksony utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8220	Balatonalmádi	Taksony utca	47.037703, 18.020371	100 Ft/kWh
+13194	13194 - Balatonalmádi, Véghelyi Dezső utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8220	Balatonalmádi	Véghelyi Dezső utca	47.028492, 18.021474	100 Ft/kWh
+13195	13195 - Alsóörs, Vasút utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8226	Alsóörs	Vasút utca 3.	46.985345, 17.978871	100 Ft/kWh
+13196	13196 - Balatonfüred, Zákonyi Ferenc utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8230	Balatonfüred	Zákonyi Ferenc utca	46.95146, 17.888113	100 Ft/kWh
+13197	13197 - Tihany, Kossuth Lajos utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8237	Tihany	Kossuth Lajos utca	46.909731, 17.890435	100 Ft/kWh
+13198	13198 - Révfülöp, Iskola utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8253	Révfülöp	Iskola utca	46.82796, 17.626469	100 Ft/kWh
+13199	13199 - Révfülöp, Halász utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8253	Révfülöp	Halász utca	46.829679, 17.638976	100 Ft/kWh
+13200	13200 - Badacsonytomaj, 71-es út (kikötő parkoló) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8258	Badacsonytomaj	71-es út (kikötő parkoló)	46.786716, 17.505813	100 Ft/kWh
+13201	13201 - Szigliget, Soponyai út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8264	Szigliget	Soponyai út	46.785857, 17.435829	100 Ft/kWh
+13202	13202 - Zirc, Rákóczi tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8420	Zirc	Rákóczi tér	47.262679, 17.871032	100 Ft/kWh
+13203	13203 - Pápa, Fő utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8500	Pápa	Fő utca 2.	47.330794, 17.466588	100 Ft/kWh
+13204	13204 - Keszthely, Sopron utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8360	Keszthely	Sopron utca 2.	46.772689, 17.241469	100 Ft/kWh
+13205	13205 - Keszthely, Lóczy Lajos utca (Yachtklub) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8360	Keszthely	Lóczy Lajos utca (Yachtklub)	46.764968, 17.265993	100 Ft/kWh
+13206	13206 - Hévíz, Zrínyi utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8380	Hévíz	Zrínyi utca 1.	46.791188, 17.185253	100 Ft/kWh
+13207	13207 - Hévíz, Ady Endre utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8380	Hévíz	Ady Endre utca	46.783114, 17.190789	100 Ft/kWh
+13208	13208 - Alsópáhok, Hévíz utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8394	Alsópáhok	Hévíz utca	46.77593, 17.173907	100 Ft/kWh
+13209	13209 - Zalakaros, Dísz tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8749	Zalakaros	Dísz tér	46.550926, 17.12353	100 Ft/kWh
+13210	13210 - Kehidakustány, Kossuth Lajos utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8794	Kehidakustány	Kossuth Lajos utca 62.	46.832791, 17.107429	100 Ft/kWh
+13211	13211 - Nagykanizsa, Színház utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8800	Nagykanizsa	Színház utca	46.45399, 16.995944	100 Ft/kWh
+13212	13212 - Zalaegerszeg, Mártirok út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8900	Zalaegerszeg	Mártirok út	46.840761, 16.842437	100 Ft/kWh
+13217	13217 - Lenti, Táncsics utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8960	Lenti	Táncsics utca 4.	46.620601, 16.532684	100 Ft/kWh
+13218	13218 - Pannonhalma, Váralja utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9090	Pannonhalma	Váralja utca	47.549609, 17.755249	100 Ft/kWh
+13219	13219 - Csorna, Soproni út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9300	Csorna	Soproni út 52.	47.612038, 17.25374	100 Ft/kWh
+13220	13220 - Sopron, Ady Endre út (Egyetem parkoló) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9400	Sopron	Ady Endre út (Egyetem parkoló)	47.682658, 16.577133	100 Ft/kWh
+13221	13221 - Sopron, Jegenye sor (Locomotive Szálloda) - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9400	Sopron	Jegenye sor (Locomotive Szálloda)	47.674631, 16.582939	100 Ft/kWh
+13222	13222 - Fertőrákos, Fő utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9421	Fertőrákos	Fő utca 165.	47.715463, 16.654734	100 Ft/kWh
+13223	13223 - Fertőd, Hydn sétány - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9431	Fertőd	Hydn sétány	47.619492, 16.864103	100 Ft/kWh
+13224	13224 - Sárvár, Várkerület utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9600	Sárvár	Várkerület utca	47.253154, 16.937704	100 Ft/kWh
+13225	13225 - Bük, Termál körút - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					9740	Bük	Termál körút 28.	47.37894, 16.78659	100 Ft/kWh
+13226	13226 - Mór, Szent István tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8060	Mór	Szent István tér 10.	47.373929, 18.211165	100 Ft/kWh
+13227	13227 - Székesfehérvár, Gyümölcs utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8000	Székesfehérvár	Gyümölcs utca 15.	47.18694, 18.418997	100 Ft/kWh
+13228	13228 - Székesfehérvár, Seregélyesi út - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8000	Székesfehérvár	Seregélyesi út 3.	47.193207, 18.43722	100 Ft/kWh
+13229	13229 - Székesfehérvár, Jankovich Ferenc utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8000	Székesfehérvár	Jankovich Ferenc utca	47.19388, 18.398622	100 Ft/kWh
+13230	13230 - Székesfehérvár, Sütő utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					8000	Székesfehérvár	Sütő utca	47.186969, 18.411196	100 Ft/kWh
+13501	13501 - Budapest, Pala utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1011	Budapest	Pala utca	47.500729, 19.038749	120 Ft/kWh
+13502	13502 - Budapest, Csalogány utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1015	Budapest	Csalogány utca 23.	47.507557, 19.033488	120 Ft/kWh
+13503	13503 - Budapest, Számadó utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1016	Budapest	Számadó utca 1.	47.486069, 19.039996	120 Ft/kWh
+13504	13504 - Budapest, Marczibányi tér - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1022	Budapest	Marczibányi tér 5.	47.514013, 19.021246	120 Ft/kWh
+13505	13505 - Budapest, Fény utca (Auguszt cukrászda) - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1024	Budapest	Fény utca (Auguszt cukrászda) 6.	47.508961, 19.02426	120 Ft/kWh
+13506	13506 - Budapest, Keleti Károly utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1024	Budapest	Keleti Károly utca 37.	47.512765, 19.025087	120 Ft/kWh
+13507	13507 - Budapest, Pusztaszeri út - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1025	Budapest	Pusztaszeri út 59.	47.524998, 19.023427	120 Ft/kWh
+13508	13508 - Budapest, Vérhalom tér - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1025	Budapest	Vérhalom tér 8.	47.52066, 19.02354	120 Ft/kWh
+13509	13509 - Budapest, Kelemen László (Pasaréti tér) utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1026	Budapest	Kelemen László (Pasaréti tér) utca	47.523389, 18.992903	120 Ft/kWh
+13510	13510 - Budapest, Ganz utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1027	Budapest	Ganz utca	47.51111, 19.036848	120 Ft/kWh
+13511	13511 - Budapest, Kossuth Lajos utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1028	Budapest	Kossuth Lajos utca 2.	47.552005, 18.963917	120 Ft/kWh
+13512	13512 - Budapest, Bécsi út - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1034	Budapest	Bécsi út 126.	47.537698, 19.031982	120 Ft/kWh
+13513	13513 - Budapest, Mátyás király út - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1039	Budapest	Mátyás király út 19.	47.585633, 19.048629	120 Ft/kWh
+13514	13514 - Budapest, Alkotmány utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1054	Budapest	Alkotmány utca 29.	47.507671, 19.053973	120 Ft/kWh
+13515	13515 - Budapest, Podmaniczky utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1062	Budapest	Podmaniczky utca 111.	47.516852, 19.072107	120 Ft/kWh
+13516	13516 - Budapest, Teréz körút - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1066	Budapest	Teréz körút 48.	47.508704, 19.058182	120 Ft/kWh
+13517	13517 - Budapest, Erzsébet körút - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1073	Budapest	Erzsébet körút 40-42.	47.501516, 19.067584	120 Ft/kWh
+13518	13518 - Budapest, Rózsák tere - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1074	Budapest	Rózsák tere	47.501407, 19.076525	120 Ft/kWh
+13519	13519 - Budapest, Nefelejcs utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1078	Budapest	Nefelejcs utca 34.	47.504215, 19.080667	120 Ft/kWh
+13520	13520 - Budapest, II János Pál pápa tér - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1081	Budapest	II. János Pál pápa tér 18.	47.495901, 19.080482	120 Ft/kWh
+13521	13521 - Budapest, Szent László tér - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1102	Budapest	Szent László tér 29.	47.486845, 19.13089	120 Ft/kWh
+13522	13522 - Budapest, Szentimrey utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1104	Budapest	Szentimrey utca	47.478392, 19.164049	120 Ft/kWh
+13523	13523 - Budapest, Gyakorló köz - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1106	Budapest	Gyakorló köz 7.	47.50303, 19.14178	120 Ft/kWh
+13524	13524 - Budapest, Menyecske utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1112	Budapest	Menyecske utca 2.	47.462012, 19.014493	120 Ft/kWh
+13525	13525 - Budapest, Bártfai utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1115	Budapest	Bártfai utca 52.	47.467332, 19.031857	120 Ft/kWh
+13526	13526 - Budapest, Hengermalom út - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1117	Budapest	Hengermalom út 56.	47.460893, 19.053112	120 Ft/kWh
+13527	13527 - Budapest, Etele út - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1119	Budapest	Etele út 32c.	47.462919, 19.033903	120 Ft/kWh
+13528	13528 - Budapest, Fegyvernek utca (Mezőkövesd út) - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1119	Budapest	Fegyvernek utca (Mezőkövesd út) 4.	47.441237, 19.037487	120 Ft/kWh
+13529	13529 - Budapest, Gaál József út - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1122	Budapest	Gaál József út 12a	47.506446, 19.011768	120 Ft/kWh
+13530	13530 - Budapest, Jagelló út - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1123	Budapest	Jagelló út 20b	47.488393, 19.020571	120 Ft/kWh
+13531	13531 - Budapest, Rácz Aladár út(Márton Áron tér) - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1124	Budapest	Rácz Aladár út (Márton Áron tér) 2.	47.48203, 18.99821	120 Ft/kWh
+13532	13532 - Budapest, Csizma utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1139	Budapest	Csizma utca 2.	47.534276, 19.080516	120 Ft/kWh
+13533	13533 - Budapest, Béke tér - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1139	Budapest	Béke tér 1c.	47.530425, 19.080921	120 Ft/kWh
+13534	13534 - Budapest, Gvadányi utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1144	Budapest	Gvadányi utca 87.	47.516713, 19.143414	120 Ft/kWh
+13535	13535 - Budapest, Pétervárad utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1145	Budapest	Pétervárad utca 7.	47.518488, 19.108914	120 Ft/kWh
+13536	13536 - Budapest, Stefánia út - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1146	Budapest	Stefánia út 75.	47.507081, 19.096547	120 Ft/kWh
+13537	13537 - Budapest, Szilas park - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1152	Budapest	Szilas park 2.	47.549743, 19.139292	120 Ft/kWh
+13538	13538 - Budapest, Széchenyi tér - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1153	Budapest	Széchenyi tér 13.	47.562446, 19.120057	120 Ft/kWh
+13539	13539 - Budapest, Sashalmi tér - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1163	Budapest	Sashalmi tér 150.	47.509916, 19.172038	120 Ft/kWh
+13540	13540 - Budapest, Jókai Mór utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1165	Budapest	Jókai Mór utca 2.	47.510406, 19.190824	120 Ft/kWh
+13541	13541 - Budapest, Uszoda utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1173	Budapest	Uszoda utca 2.	47.478764, 19.234132	120 Ft/kWh
+13542	13542 - Budapest, Pesti út - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1173	Budapest	Pesti út 168a.	47.480084, 19.254424	120 Ft/kWh
+13543	13543 - Budapest, Nagyenyed utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1182	Budapest	Nagyenyed utca 2.	47.432711, 19.207034	120 Ft/kWh
+13544	13544 - Budapest, Thököly út - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1183	Budapest	Thököly út 3.	47.443617, 19.181269	120 Ft/kWh
+13545	13545 - Budapest, Nemes utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1188	Budapest	Nemes utca 16.	47.40535, 19.188071	120 Ft/kWh
+13546	13546 - Budapest, Hofherr Albert utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1194	Budapest	Hofherr Albert utca 42.	47.437229, 19.145064	120 Ft/kWh
+13547	13547 - Budapest, Árpád utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1195	Budapest	Árpád utca 7.	47.453411, 19.149368	120 Ft/kWh
+13548	13548 - Budapest, Vörösmarty út - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1201	Budapest	Vörösmarty út	47.436213, 19.103243	120 Ft/kWh
+13549	13549 - Budapest, Bíró Mihály utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1203	Budapest	Bíró Mihály utca 18.	47.439264, 19.102542	120 Ft/kWh
+13550	13550 - Budapest, Kossuth Lajos utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1211	Budapest	Kossuth Lajos utca 105.	47.423872, 19.068619	120 Ft/kWh
+13551	13551 - Budapest, II Rákóczi Ferenc utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1211	Budapest	II. Rákóczi Ferenc utca 69.	47.43318, 19.068019	120 Ft/kWh
+13552	13552 - Budapest, Kossuth Lajos utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1212	Budapest	Kossuth Lajos utca 103.	47.424613, 19.070277	120 Ft/kWh
+13553	13553 - Budapest, Anna utca (Leányka utca) - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1221	Budapest	Anna utca (Leányka utca)	47.43241, 19.036585	120 Ft/kWh
+13554	13554 - Budapest, Városház tér - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	1221	Budapest	Városház tér 11.	47.426416, 19.040958	120 Ft/kWh
+13555	13555 - Érd, Petőfi Sándor utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	2030	Érd	Petőfi Sándor utca 76.	47.383373, 18.905464	120 Ft/kWh
+13556	13556 - Érd, Erkel Ferenc utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	2030	Érd	Erkel Ferenc utca 3.	47.38285, 18.921829	120 Ft/kWh
+13557	13557 - Piliscsaba, Templom tér - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	2081	Piliscsaba	Templom tér 2.	47.6321, 18.825428	120 Ft/kWh
+13558	13558 - Pilisvörösvár, Budai út - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	2085	Pilisvörösvár	Budai út	47.615741, 18.920454	120 Ft/kWh
+13559	13559 - Martonvásár, Kodály Zoltán utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	2462	Martonvásár	Kodály Zoltán utca 2.	47.314865, 18.786278	120 Ft/kWh
+13560	13560 - Székesfehérvár, Király sor - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	8000	Székesfehérvár	Király sor	47.196382, 18.419849	120 Ft/kWh
+13561	13561 - Székesfehérvár, Mátyás Király körút - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	8000	Székesfehérvár	Mátyás Király körút	47.191247, 18.407024	120 Ft/kWh
+13562	13562 - Tatabánya, Turul utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	2800	Tatabánya	Turul utca	47.578762, 18.392744	120 Ft/kWh
+13563	13563 - Salgótarján, Kassai sor - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	3100	Salgótarján	Kassai sor	48.105935, 19.806593	120 Ft/kWh
+13564	13564 - Gyöngyös, Kármán József utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	3200	Gyöngyös	Kármán József utca	47.783894, 19.931548	120 Ft/kWh
+13565	13565 - Miskolc, Palóczy László utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	3500	Miskolc	Palóczy László utca 7.	48.105203, 20.780602	120 Ft/kWh
+13566	13566 - Miskolc, Dayka Gábor utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	3500	Miskolc	Dayka Gábor utca 2.	48.104309, 20.775662	120 Ft/kWh
+13567	13567 - Nyíregyháza, Dob utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	4400	Nyíregyháza	Dob utca	47.96082, 21.712477	120 Ft/kWh
+13568	13568 - Ajak, Hajnal utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	4524	Ajak	Hajnal utca	48.177878, 22.061802	120 Ft/kWh
+13569	13569 - Szolnok, Városmajor út - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	5000	Szolnok	Városmajor út 57.	47.181061, 20.206397	120 Ft/kWh
+13570	13570 - Kecskemét, Deák Ferenc tér - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	6000	Kecskemét	Deák Ferenc tér 3.	46.906603, 19.689232	120 Ft/kWh
+13571	13571 - Szeged, Kossuth Lajos sugárút - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	6724	Szeged	Kossuth Lajos sugárút 47.	46.260069, 20.140524	120 Ft/kWh
+13572	13572 - Szeged, Petőfi Sándor sugárút - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	6725	Szeged	Petőfi Sándor sugárút 74.	46.244528, 20.133344	120 Ft/kWh
+13573	13573 - Pécs, Berze Nagy János út - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	7623	Pécs	Berze Nagy János út	46.064585, 18.202236	120 Ft/kWh
+13574	13574 - Veszprém, Óváros tér - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	8200	Veszprém	Óváros tér 20.	47.094451, 17.906943	120 Ft/kWh
+13575	13575 - Nagykanizsa, Gábor Áron utca (Ipari park bejárat) - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	8800	Nagykanizsa	Gábor Áron utca (Ipari park bejárat) 6.	46.466875, 17.000053	120 Ft/kWh
+13576	13576 - Zalaegerszeg, ZalaZone fogadó épület - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	8900	Zalaegerszeg	ZalaZone fogadó épület	46.889543, 16.837247	120 Ft/kWh
+13577	13577 - Zalaegerszeg, ZalaZone szervíz épület - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	8900	Zalaegerszeg	ZalaZone szervíz épület	46.891908, 16.831947	120 Ft/kWh
+13578	13578 - Zalaegerszeg, Kosztolányi Dezső tér - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	8900	Zalaegerszeg	Kosztolányi Dezső tér 27.	46.842003, 16.849123	120 Ft/kWh
+13579	13579 - Zalaegerszeg, Budai Nagy Antal út - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	8900	Zalaegerszeg	Budai Nagy Antal út	46.847557, 16.845238	120 Ft/kWh
+13580	13580 - Sopron, Kuruc krt (Szív utca) - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	9400	Sopron	Kuruc krt. (Szív utca)	47.677924, 16.602357	120 Ft/kWh
+13581	13581 - Szombathely, Hollán Ernő utca - Mobiliti	2	2 x DC 22 kW	1 x CCS, 1 x CHAdeMO			22	1	22	1	9700	Szombathely	Hollán Ernő utca 3.	47.230341, 16.617939	120 Ft/kWh
+14003	14003 - Komárom, Bem József utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2900	Komárom	Bem József utca 28.	47.741632, 18.133184	100 Ft/kWh
+14004	14004 - Komárom, Szent László utca - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2900	Komárom	Szent László utca 16.	47.745664, 18.113332	100 Ft/kWh
+14005	14005 - Oroszlány, Okmányiroda - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2840	Oroszlány	Fürst Sándor utca 29.	47.485291, 18.314742	100 Ft/kWh
+14006	14006 - Oroszlány, Uszoda - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					2840	Oroszlány	Fő tér 1.	47.487126, 18.316958	100 Ft/kWh
+14028	14028 - Nyíregyháza, Nagy Imre tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4400	Nyíregyháza	Nagy Imre tér 1.	47.95798, 21.718305	100 Ft/kWh
+14029	14029 - Nyíregyháza, Nagy Imre tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4400	Nyíregyháza	Nagy Imre tér 1.	47.958012, 21.718311	100 Ft/kWh
+14030	14030 - Nyíregyháza, Nagy Imre tér - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					4400	Nyíregyháza	Nagy Imre tér 1.	47.95804, 21.718323	100 Ft/kWh
+14031	14031 - Budapest XI, Reál Élelmiszer Parkoló - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1116	Budapest	Kondorosi út 6.	47.450532, 19.041727	100 Ft/kWh
+14032	14032 - Budapest XI, Reál Élelmiszer Parkoló - Mobiliti	2	2 x AC 22 kW	2 x Type 2	22	2					1116	Budapest	Kondorosi út 6.	47.450607, 19.041736	100 Ft/kWh
+20001	20001 - Budapest, KÖKI Terminál Bevásárlóközpont - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	1191	Budapest	Vak Bottyán utca 75A	47.462973, 19.146101	100 Ft/perc
+20002	20002 - Sormás, István Hotel - Mobiliti	3	2 x DC 50 kW, 1 x AC 43 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	43	1	50	1	50	1	8881	Sormás	Külterület 28.	46.460687, 16.906901	AC 100 Ft/perc, DC 100 Ft/perc
+20003	20003 - Sormás, István Hotel - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	8881	Sormás	Külterület 28.	46.46068, 16.906826	100 Ft/perc
+20004	20004 - Balástya, Family Hotel - Mobiliti	3	2 x DC 50 kW, 1 x AC 43 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	43	1	50	1	50	1	6764	Balástya	M5 147km	46.404266, 19.974262	AC 100 Ft/perc, DC 100 Ft/perc
+20005	20005 - Decathlon Budaörs - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	2040	Budaörs	Baross utca 146.	47.453439, 18.937072	100 Ft/perc
+20006	20006 - Decathlon Dunakeszi - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	2120	Dunakeszi	Pallag utca 3.	47.606854, 19.112295	100 Ft/perc
+20007	20007 - Decathlon Székesfehérvár - Mobiliti	3	2 x DC 50 kW, 1 x AC 43 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	43	1	50	1	50	1	8000	Székesfehérvár	Holland fasor 3.	47.149847, 18.427408	AC 100 Ft/perc, DC 100 Ft/perc
+20008	20008 - Decathlon Miskolc - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	3527	Miskolc	József Attila utca 83.	48.106084, 20.834743	100 Ft/perc
+20009	20009 - Decathlon Zalaegerszeg - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	8900	Zalaegerszeg	Balatoni út 5.	46.842794, 16.867104	100 Ft/perc
+20010	20010 - Decathlon Kecskemét - Mobiliti	3	2 x DC 50 kW, 1 x AC 43 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	43	1	50	1	50	1	6000	Kecskemét	Dunaföldvári út 2b	46.885165, 19.64027	AC 100 Ft/perc, DC 100 Ft/perc
+20011	20011 - Decathlon Szombathely - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	9700	Szombathely	Bálványkő utca 3.	47.242387, 16.657137	100 Ft/perc
+20012	20012 - Decathlon Dunaújváros - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	2400	Dunaújváros	Kandó Kálmán tér 12.	46.962125, 18.906476	100 Ft/perc
+20013	20013 - Decathlon Győr - Mobiliti	3	2 x DC 50 kW, 1 x AC 43 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	43	1	50	1	50	1	9012	Győr	Királyszék út 31.	47.647104, 17.623542	AC 100 Ft/perc, DC 100 Ft/perc
+20014	20014 - Decathlon Debrecen - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	4002	Debrecen	Balmazújvárosi út 11.	47.5433, 21.594333	100 Ft/perc
+20015	20015 - Decathlon Csömör - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	2141	Csömör	Határ út 6.	47.538763, 19.246129	100 Ft/perc
+20016	20016 - Decathlon Maglód - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	2234	Maglód	Kállai Pál utca 2.	47.460434, 19.338243	100 Ft/perc
+20017	20017 - Tata, Gottwald Hotel - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	2890	Tata	Fekete utca 1.	47.627323, 18.331821	100 Ft/perc
+20018	20018 - M7Bistro Albapark - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	8000	Székesfehérvár	M7 autópálya 60. km, Fehérvári pihenő	47.177398, 18.476274	100 Ft/perc
+20019	20019 - Szeged, Kossuth Lajos sugárút - Mobiliti	3	2 x DC 50 kW, 1 x AC 43 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	43	1	50	1	50	1	6727	Szeged	Kossuth Lajos Sugárút  68.	46.2622004, 20.1359854	AC 100 Ft/perc, DC 100 Ft/perc
+20020	20020 - Auchan Szeged - Mobiliti	3	2 x DC 50 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	6728	Szeged	Zápor utca 4.	46.2747776, 20.1028292	AC 100 Ft/kWh, DC 100 Ft/perc
+20021	20021 - Auchan Debrecen - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	4031	Debrecen	Kishatár utca 11.	47.5402542, 21.5856227	100 Ft/perc
+20022	20022 - Auchan Fót - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	2151	Fót	Fehérkő utca 1.	47.5822513, 19.1621639	100 Ft/perc
+20023	20023 - Auchan Miskolc - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	3516	Miskolc	Pesti út 9.	48.057796, 20.7990182	100 Ft/perc
+20025	20025 - Decathlon Hatvan - Mobiliti	3	2 x DC 50 kW, 1 x AC 43 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	43	1	50	1	50	1	3000	Hatvan	Sport utca 2.	47.658442, 19.717654	AC 100 Ft/perc, DC 100 Ft/perc
+20026	20026 - Dechatlon Budaörs - Mobiliti	3	2 x DC 50 kW, 1 x AC 43 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	43	1	50	1	50	1	2040	Budaörs	Baross utca 146.	47.453349, 18.936645	AC 100 Ft/perc, DC 100 Ft/perc
+20027	20027 - Békéscsaba, Andrássy út - Mobiliti	3	2 x DC 50 kW, 1 x AC 43 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	43	1	50	1	50	1	5600	Békéscsaba	Andrássy út 46.	46.6748120, 21.0873070	AC 100 Ft/perc, DC 100 Ft/perc
+20028	20028 - Baja, Mixtea - Mobiliti	3	2 x DC 50 kW, 1 x AC 43 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	43	1	50	1	50	1	6500	Baja	Paprika utca 20.	46.181238, 18.974197	AC 100 Ft/perc, DC 100 Ft/perc
+20033	20033 - Auchan Törökbálint - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	2045	Törökbálint	Torbágy utca 1.	47.4396174, 18.8895297	100 Ft/perc
+20034	20034 - Auchan Szigetszentmiklós - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	2310	Szigetszentmiklós	Háros utca 120.	47.3824416, 19.0282026	100 Ft/perc
+20035	20035 - Auchan Budaörs - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	2040	Budaörs	Sport utca 4.	47.4540655, 18.9430854	100 Ft/perc
+20036	20036 - Auchan Budakalász - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	2045	Budakalász	Omszk park  1.	47.6122362, 19.0612384	100 Ft/perc
+20037	20037 - Auchan Solymár - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	2082	Solymár	Szent Flórián utca 2.	47.599009, 18.960870	100 Ft/perc
+20038	20038 - Auchan Soroksár - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	1239	Budapest	Bevásárló utca 2.	47.420173, 19.156809	100 Ft/perc
+20039	20039 - Auchan Maglód - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	2234	Maglód	Eszterházy J. utca 1.	47.459331, 19.333555	100 Ft/perc
+20040	20040 - Auchan Dunakeszi - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	2120	Dunakeszi	Nádas utca 6.	47.606804, 19.115060	100 Ft/perc
+20041	20041 - Auchan Székesfehérvár - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	8000	Székesfehérvár	Holland fasor 2.	47.14942, 18.431649	100 Ft/perc
+20042	20042 - Auchan Szolnok - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	5000	Szolnok	Felső Szandai rét 1.	47.158609, 20.198022	100 Ft/perc
+20043	20043 - Auchan Miskolc - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	3527	Miskolc	József Attila utca 87.	48.108355, 20.835196	100 Ft/perc
+20044	20044 - Auchan Kecskemét - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	6000	Kecskemét	Dunaföldvári út 2.	46.887525, 19.634901	100 Ft/perc
+20045	20045 - Auchan Csömör - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	2141	Csömör	Határ út 6.	47.540516, 19.242553	100 Ft/perc
+20046	20046 - Auchan Óbuda - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	1033	Budapest	Szentendrei út 115.	47.560063, 19.04934	100 Ft/perc
+20047	20047 - Mórahalom, Röszkei út - Mobiliti	3	2 x DC 50 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	6782	Mórahalom	Röszkei út 12M	46.214594, 19.890799	AC 100 Ft/kWh, DC 100 Ft/perc
+20048	20048 - Mórahalom, Szövetkezeti utca - Mobiliti	3	2 x DC 50 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	6782	Mórahalom	Szövetkezeti utca 2M	46.215316, 19.892481	AC 100 Ft/kWh, DC 100 Ft/perc
+20049	20049 - Paksi Atomerőmű - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	7030	Paks	Paksi Atomerőmű	46.574024, 18.849127	100 Ft/perc
+20050	20050 - Balatonfüred, Rekreációs Központ - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	8230	Balatonfüred	Germering utca 19.	46.958795, 17.909377	100 Ft/perc
+20051	20051 - Budapest, Széllkapu Mélygarázs - Mobiliti	3	2 x DC 25 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	1024	Budapest	Kis Rókus utca 16-20.	47.510413, 19.028308	AC 100 Ft/kWh, DC 120 Ft/kWh
+20052	20052 - Budapest, Széllkapu Mélygarázs - Mobiliti	3	2 x DC 50 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	1024	Budapest	Kis Rókus utca 16-20.	47.510222, 19.02868	AC 100 Ft/kWh, DC 100 Ft/perc
+20053	20053 - Allee Bevásárlóközpont P3 - Mobiliti	3	2 x DC 25 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	1117	Budapest	Október huszonharmadika utca 8-10.	47.474546, 19.048956	AC 100 Ft/kWh, DC 120 Ft/kWh
+20054	20054 - Budapest, Széllkapu Mélygarázs - Mobiliti	3	2 x DC 25 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	1024	Budapest	Kis Rókus utca 16-20.	47.5108546, 19.0275615	AC 100 Ft/kWh, DC 120 Ft/kWh
+20055	20055 - Budapest, Széllkapu Mélygarázs - Mobiliti	3	2 x DC 50 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	1024	Budapest	Kis Rókus utca 16-20.	47.510631, 19.027952	AC 100 Ft/kWh, DC 100 Ft/perc
+20057	20057 - Szikszó, Angel Petrol - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	3800	Szikszó	Avalon utca 4. - Angel Petrol	48.176465, 20.917493	100 Ft/perc
+20059	20059 - Auchan Savoya park - Mobiliti	2	2 x DC 50 kW	1 x CCS, 1 x CHAdeMO			50	1	50	1	1117	Budapest	Hunyadi János út 19.	47.435132, 19.039216	100 Ft/perc
+20501	20501 - Budapest, Groupama Aréna - Mobiliti	2	1 x DC 75 kW, 1 x AC 22 kW	1 x CCS, 1 x Type 2	22	1	75	1	75	1	1091	Budapest	Üllői út 129.	47.476475, 19.094569	AC 100 Ft/perc, DC 100 Ft/perc
+23001	23001 - Budapest, Mechwart tér - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	1024	Budapest	Mechwart tér	47.511544, 19.031466	AC 100 Ft/kWh, DC 100 Ft/perc
+23002	23002 - Sopron, Révai Miklós út - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	9400	Sopron	Révai Miklós út	47.694058, 16.578055	AC 100 Ft/kWh, DC 100 Ft/perc
+23003	23003 - Tamási, Szabadság utca - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	7090	Tamási	Szabadság utca	46.636416, 18.281638	AC 100 Ft/kWh, DC 100 Ft/perc
+23004	23004 - Budapest, M3 Szilas pihenő - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	1152	Budapest	Szilas pihenő M3	47.566198, 19.147583	AC 100 Ft/kWh, DC 100 Ft/perc
+23005	23005 - Székesfehérvár, Huszár utca - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	8000	Székesfehérvár	Huszár utca	47.190141, 18.425153	AC 100 Ft/kWh, DC 100 Ft/perc
+23006	23006 - Keszthely, Skála köz - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	8360	Keszthely	Skála köz 	46.768707, 17.247343	AC 100 Ft/kWh, DC 100 Ft/perc
+23007	23007 - Nyíregyháza, Szabadság tér - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	4400	Nyíregyháza	Szabadság tér	47.957228, 21.719411	AC 100 Ft/kWh, DC 100 Ft/perc
+23008	23008 - Dunaújváros, Martinovics Ignác út - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	2400	Dunaújváros	Martinovics Ignác út	46.974436, 18.934917	AC 100 Ft/kWh, DC 100 Ft/perc
+23009	23009 - Eger, Knézich Károly utca - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	3300	Eger	Knézich Károly utca	47.904887, 20.376224	AC 100 Ft/kWh, DC 100 Ft/perc
+23010	23010 - Tokaj, Csokonai út - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	3910	Tokaj	Csokonai út	48.112541, 21.412592	AC 100 Ft/kWh, DC 100 Ft/perc
+23011	23011 - Kiskunhalas, Bethlen Gábor tér - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	6400	Kiskunhalas	Bethlen Gábor tér	46.430354, 19.481483	AC 100 Ft/kWh, DC 100 Ft/perc
+23012	23012 - Nagykanizsa, Hevesi Sándor út - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	8800	Nagykanizsa	Hevesi Sándor út	46.459301, 17.009777	AC 100 Ft/kWh, DC 100 Ft/perc
+23013	23013 - Pécs, Lahti utca - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	7600	Pécs	Lahti utca	46.041105, 18.214032	AC 100 Ft/kWh, DC 100 Ft/perc
+23014	23014 - Békéscsaba, Szabó Dezső utca - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	5600	Békéscsaba	Szabó Dezső utca	46.676543, 21.0883109	AC 100 Ft/kWh, DC 100 Ft/perc
+23015	23015 - Csorna, Mártírok tere - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	9300	Csorna	Mártírok tere	47.610776, 17.250375	AC 100 Ft/kWh, DC 100 Ft/perc
+23016	23016 - Budapest IX, Nagyvárad tér - Mobiliti	3	2 x DC 50 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	1097	Budapest	Albert Flórián út 1.	47.477517, 19.090627	AC 100 Ft/kWh, DC 100 Ft/perc
+23017	23017 - Budapest III, Madzsar József utca - Mobiliti	3	2 x DC 50 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	1039	Budapest	Madzsar József utca	47.59892, 19.056898	AC 100 Ft/kWh, DC 100 Ft/perc
+23018	23018 - Budapest, Budaörsi út - Mobiliti	3	2 x DC 50 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	1118	Budapest	Budaörsi út 113.	47.467499, 19.016824	AC 100 Ft/kWh, DC 100 Ft/perc
+23019	23019 - Balatonkeresztúr, M7 bal - Mobiliti	3	2 x DC 50 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	8648	Balatonkeresztúr	M7 autópálya 167 km (bal)	46.683372, 17.380319	AC 100 Ft/kWh, DC 100 Ft/perc
+23020	23020 - Balatonkeresztúr, M7 jobb - Mobiliti	3	2 x DC 50 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	8648	Balatonkeresztúr	M7 autópálya 167 km (jobb)	46.685041, 17.378814	AC 100 Ft/kWh, DC 100 Ft/perc
+23021	23021 - Mocsa, Igmándi pihenő bal Budapest - Mobiliti	3	2 x DC 50 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	2911	Mocsa	M1 autópálya Igmándi pihenő (bal)	47.673008, 18.114288	AC 100 Ft/kWh, DC 100 Ft/perc
+23022	23022 - Mocsa, Igmándi pihenő jobb Győr - Mobiliti	3	2 x DC 50 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	2911	Mocsa	M1 autópálya Igmándi pihenő (jobb)	47.673763, 18.114263	AC 100 Ft/kWh, DC 100 Ft/perc
+23023	23023 - Lébény, M1 Autópálya mérnökség - Mobiliti	3	2 x DC 50 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	9155	Lébény	M1 Autópálya mérnökség	47.751337, 17.412117	AC 100 Ft/kWh, DC 100 Ft/perc
+23024	23024 - Miskolc, Szeles út - Mobiliti	3	2 x DC 50 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	3526	Miskolc	Szeles út	48.106706, 20.790759	AC 100 Ft/kWh, DC 100 Ft/perc
+23025	23025 - Szolnok, Táncsics Mihály utca - Mobiliti	3	2 x DC 50 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	5000	Szolnok	Táncsics Mihály utca	47.174222, 20.196967	AC 100 Ft/kWh, DC 100 Ft/perc
+24001	24001 - Hotel Helia Budapest - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	1133	Budapest	Kárpát utca 62-64. - Helia	47.52559, 19.056402	AC 100 Ft/kWh, DC 100 Ft/perc
+24002	24002 - Kecskemét, Four Points by Sheraton Hotel - Mobiliti	3	2 x DC 50 kW, 1 x AC 43 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	6000	Kecskemét	Izsáki út 6.	46.898233, 19.672767	AC 100 Ft/perc, DC 100 Ft/perc
+24003	24003 - Budapest XI, Reál Élelmiszer Parkoló - Mobiliti	3	2 x DC 50 kW, 1 x AC 43 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	1116	Budapest	Kondorosi út 6.	47.450435, 19.04172	AC 100 Ft/perc, DC 100 Ft/perc
+24004	24004 - Zsámbék, Drivingcamp - Mobiliti	3	2 x DC 50 kW, 1 x AC 43 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	2072	Zsámbék	Dricingcamp út 1.	47.51704, 18.73199	AC 100 Ft/perc, DC 100 Ft/perc
+24005	24005 - Danubius Hotel Sárvár - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	9600	Sárvár	Rákóczi utca 1. - Danubius Hotel	47.252082, 16.939887	AC 100 Ft/kWh, DC 100 Ft/perc
+24006	24006 - Danubius Hotel Bük - Mobiliti	3	2 x DC 44 kW, 1 x AC 22 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	44	1	44	1	9740	Bük	Európa út 2. - Danubius Hotel	47.38434, 16.78339	AC 100 Ft/kWh, DC 100 Ft/perc
+25001	25001 - Budapest, Alkotmány utca - Mobiliti	3	2 x DC 50 kW, 1 x AC 43 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	1054	Budapest	Alkotmány utca 8.	47.507457, 19.050570	AC 100 Ft/perc, DC 100 Ft/perc
+25003	25003 - Székesfehérvár, M7 jobb, Shell - Mobiliti	3	2 x DC 50 kW, 1 x AC 43 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	8000	Székesfehérvár	M7 jobb pihenő 59 km	47.1768302, 18.4765401	150 Ft/kWh
+25004	25004 - Gelej, M3 jobb, Shell - Mobiliti	3	2 x DC 50 kW, 1 x AC 43 kW	1 x CCS, 1 x CHAdeMO, 1 x Type 2	22	1	50	1	50	1	3444	Gelej	M3 jobb pihenő 142 km	47.8416031, 20.7444243	150 Ft/kWh
